@@ -1384,3 +1384,75 @@ Relative Position: LorenzVec{x=-21.90184569993087, y=-8.35219282833772, z=-19.97
  DistanceC: 22.876703221170363
 Relative Position: LorenzVec{x=13.775739382122506, y=-8.35219282833772, z=-22.876703221170363}
  }
+13:23:10 `q1x8n9ru0j`27714 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-19.5, y=71.0, z=-11.5}
+ DistanceC: 14.47636071166287
+Relative Position: LorenzVec{x=-4.787717786602945, y=-9.145286856457417, z=14.47636071166287}
+ }
+13:23:10 `788w929746`27713 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-21.5, y=71.0, z=-11.5}
+ DistanceC: 14.47636071166287
+Relative Position: LorenzVec{x=-6.787717786602945, y=-9.145286856457417, z=14.47636071166287}
+ }
+13:23:10 `w469d4m12y`27715 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-23.5, y=71.0, z=-10.5}
+ DistanceC: 15.47636071166287
+Relative Position: LorenzVec{x=-8.787717786602945, y=-9.145286856457417, z=15.47636071166287}
+ }
+13:23:11 `12pxy4la0x`27729 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-25.5, y=71.0, z=-10.5}
+ DistanceC: 15.47636071166287
+Relative Position: LorenzVec{x=-10.787717786602945, y=-9.145286856457417, z=15.47636071166287}
+ }
+13:23:39 `§dTia the Fairy`28134 missed {
+ is already Found: false).
+ Position: LorenzVec{x=28.21875, y=71.0, z=-9.40625}
+ DistanceC: 4.7328585097650295
+Relative Position: LorenzVec{x=-0.13485432078411108, y=-4.7298441828991145, z=-4.7328585097650295}
+ }
+13:23:40 `§6Sirius `27612 missed {
+ is already Found: false).
+ Position: LorenzVec{x=24.5, y=72.0, z=-15.5}
+ DistanceC: 8.566524585750955
+Relative Position: LorenzVec{x=1.04070133761741, y=-3.7298441828991145, z=-8.566524585750955}
+ }
+13:23:40 `§6Emissary Sisko`27613 missed {
+ is already Found: false).
+ Position: LorenzVec{x=24.5, y=72.0, z=-12.5}
+ DistanceC: 5.5665245857509555
+Relative Position: LorenzVec{x=1.04070133761741, y=-3.7298441828991145, z=-5.5665245857509555}
+ }
+13:24:02 `xl943j4y9h`27710 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-7.5, y=71.0, z=-6.5}
+ DistanceC: 12.33309071649381
+Relative Position: LorenzVec{x=-11.33166907762136, y=-6.083056349499799, z=12.33309071649381}
+ }
+13:25:21 `§6Sirius `27612 missed {
+ is already Found: false).
+ Position: LorenzVec{x=24.5, y=72.0, z=-15.5}
+ DistanceC: 5.0286123280381645
+Relative Position: LorenzVec{x=-2.023593257500746, y=-10.7422344343926, z=-5.0286123280381645}
+ }
+13:25:21 `§6Emissary Sisko`27613 missed {
+ is already Found: false).
+ Position: LorenzVec{x=24.5, y=72.0, z=-12.5}
+ DistanceC: 2.0286123280381645
+Relative Position: LorenzVec{x=-2.023593257500746, y=-10.7422344343926, z=-2.0286123280381645}
+ }
+13:25:22 `§dTia the Fairy`28134 missed {
+ is already Found: false).
+ Position: LorenzVec{x=28.21875, y=71.0, z=-9.40625}
+ DistanceC: 1.730379028379474
+Relative Position: LorenzVec{x=1.730379028379474, y=-11.7422344343926, z=1.0651376719618355}
+ }
+13:25:22 `§cGrandma Wolf`28610 missed {
+ is already Found: false).
+ Position: LorenzVec{x=30.5, y=71.0, z=-9.5}
+ DistanceC: 4.024841473518929
+Relative Position: LorenzVec{x=4.024841473518929, y=-11.7422344343926, z=0.9713876719618355}
+ }
