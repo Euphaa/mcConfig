@@ -1,0 +1,54 @@
+[
+    {
+        "message": "/gfs ender pearl 8",
+        "keyCode": 201
+    },
+    {
+        "message": "/storage",
+        "keyCode": 200
+    },
+    {
+        "message": "/potionbag",
+        "keyCode": 41
+    },
+    {
+        "message": "/setspawn",
+        "keyCode": 210
+    },
+    {
+        "message": "/wardrobe",
+        "keyCode": 209
+    },
+    {
+        "message": "/warp garden",
+        "keyCode": 181
+    },
+    {
+        "message": "/equipment",
+        "keyCode": 208
+    },
+    {
+        "message": "/sacks",
+        "keyCode": 205
+    },
+    {
+        "message": "/pets",
+        "keyCode": 199
+    },
+    {
+        "message": "/quiver",
+        "keyCode": 207
+    },
+    {
+        "message": "/patcher sendcoords",
+        "keyCode": 12
+    },
+    {
+        "message": "/patcher sendcoords",
+        "keyCode": 43
+    },
+    {
+        "message": "/wardrobe 2",
+        "keyCode": 203
+    }
+]

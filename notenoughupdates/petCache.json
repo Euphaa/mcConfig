@@ -1,0 +1,869 @@
+{
+  "petMap": {
+    "0": {
+      "petType": "ELEPHANT",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 2.96321184E8,
+        "expTotal": 3.216744E8,
+        "percentageToNextLevel": 157.05792
+      },
+      "petXpType": "farming",
+      "petItem": "GREEN_BANDANA",
+      "candyUsed": 0
+    },
+    "1": {
+      "petType": "GOLDEN_DRAGON",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 200,
+        "maxLevel": 200,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 210255680,
+        "expInCurrentLevel": 6.0439008E7,
+        "expTotal": 2.70694688E8,
+        "percentageToNextLevel": 32.034245
+      },
+      "petXpType": "combat",
+      "petItem": "DWARF_TURTLE_SHELMET",
+      "candyUsed": 0
+    },
+    "2": {
+      "petType": "SCATHA",
+      "rarity": "EPIC",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1386700,
+        "expRequiredForMaxLevel": 18608500,
+        "expInCurrentLevel": 2.15626496E8,
+        "expTotal": 2.34234992E8,
+        "percentageToNextLevel": 155.49614
+      },
+      "petXpType": "mining",
+      "petItem": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+      "candyUsed": 0
+    },
+    "3": {
+      "petType": "MOOSHROOM_COW",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 1.66860704E8,
+        "expTotal": 1.92213936E8,
+        "percentageToNextLevel": 88.440506
+      },
+      "petXpType": "farming",
+      "petItem": "GREEN_BANDANA",
+      "candyUsed": 0
+    },
+    "4": {
+      "petType": "BAL",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 4.9190632E7,
+        "expTotal": 7.4543864E7,
+        "percentageToNextLevel": 26.072313
+      },
+      "petXpType": "mining",
+      "petItem": "DWARF_TURTLE_SHELMET",
+      "candyUsed": 0
+    },
+    "5": {
+      "petType": "GUARDIAN",
+      "rarity": "MYTHIC",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 2.9524598E7,
+        "expTotal": 5.4877828E7,
+        "percentageToNextLevel": 15.648804
+      },
+      "petXpType": "enchanting",
+      "candyUsed": 0
+    },
+    "6": {
+      "petType": "AMMONITE",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 2.6599062E7,
+        "expTotal": 5.1952292E7,
+        "percentageToNextLevel": 14.098194
+      },
+      "petXpType": "fishing",
+      "petItem": "WASHED_UP_SOUVENIR",
+      "candyUsed": 0
+    },
+    "7": {
+      "petType": "TIGER",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 1.9449138E7,
+        "expTotal": 4.4802368E7,
+        "percentageToNextLevel": 10.308548
+      },
+      "petXpType": "combat",
+      "petItem": "CROCHET_TIGER_PLUSHIE",
+      "candyUsed": 0
+    },
+    "8": {
+      "petType": "BAT",
+      "rarity": "MYTHIC",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 1.2466854E7,
+        "expTotal": 3.7820084E7,
+        "percentageToNextLevel": 6.6077566
+      },
+      "petXpType": "mining",
+      "petItem": "DWARF_TURTLE_SHELMET",
+      "candyUsed": 0
+    },
+    "9": {
+      "petType": "WOLF",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 1.134929E7,
+        "expTotal": 3.670252E7,
+        "percentageToNextLevel": 6.0154185
+      },
+      "petXpType": "combat",
+      "petItem": "CROCHET_TIGER_PLUSHIE",
+      "candyUsed": 0
+    },
+    "10": {
+      "petType": "BLACK_CAT",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 8514010.0,
+        "expTotal": 3.386724E7,
+        "percentageToNextLevel": 4.512646
+      },
+      "petXpType": "combat",
+      "petItem": "CROCHET_TIGER_PLUSHIE",
+      "candyUsed": 0
+    },
+    "11": {
+      "petType": "ENDERMAN",
+      "rarity": "MYTHIC",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 8110526.0,
+        "expTotal": 3.3463756E7,
+        "percentageToNextLevel": 4.2987895
+      },
+      "petXpType": "combat",
+      "petItem": "CROCHET_TIGER_PLUSHIE",
+      "skin": "PET_SKIN_ENDERMAN_SLAYER",
+      "candyUsed": 0
+    },
+    "12": {
+      "petType": "ARMADILLO",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 8039998.0,
+        "expTotal": 3.3393228E7,
+        "percentageToNextLevel": 4.261408
+      },
+      "petXpType": "mining",
+      "candyUsed": 0
+    },
+    "13": {
+      "petType": "GRANDMA_WOLF",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 1930556.0,
+        "expTotal": 2.7283786E7,
+        "percentageToNextLevel": 1.0232449
+      },
+      "petXpType": "combat",
+      "petItem": "PET_ITEM_EXP_SHARE",
+      "candyUsed": 0
+    },
+    "14": {
+      "petType": "GRIFFIN",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 1463956.0,
+        "expTotal": 2.6817186E7,
+        "percentageToNextLevel": 0.7759347
+      },
+      "petXpType": "combat",
+      "petItem": "DWARF_TURTLE_SHELMET",
+      "candyUsed": 0
+    },
+    "15": {
+      "petType": "FLYING_FISH",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 1110614.0,
+        "expTotal": 2.6463844E7,
+        "percentageToNextLevel": 0.5886543
+      },
+      "petXpType": "fishing",
+      "petItem": "DWARF_TURTLE_SHELMET",
+      "candyUsed": 0
+    },
+    "16": {
+      "petType": "MOLE",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 1036886.0,
+        "expTotal": 2.6390116E7,
+        "percentageToNextLevel": 0.5495765
+      },
+      "petXpType": "unknown",
+      "petItem": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+      "candyUsed": 0
+    },
+    "17": {
+      "petType": "SILVERFISH",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 469732.0,
+        "expTotal": 2.5822962E7,
+        "percentageToNextLevel": 0.24897017
+      },
+      "petXpType": "mining",
+      "petItem": "DWARF_TURTLE_SHELMET",
+      "candyUsed": 0
+    },
+    "18": {
+      "petType": "WITHER_SKELETON",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 103854.0,
+        "expTotal": 2.5457084E7,
+        "percentageToNextLevel": 0.055045318
+      },
+      "petXpType": "mining",
+      "petItem": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+      "candyUsed": 0
+    },
+    "19": {
+      "petType": "BLUE_WHALE",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 96500.0,
+        "expTotal": 2.544973E7,
+        "percentageToNextLevel": 0.051147506
+      },
+      "petXpType": "fishing",
+      "petItem": "PET_ITEM_MINING_SKILL_BOOST_UNCOMMON",
+      "candyUsed": 0
+    },
+    "20": {
+      "petType": "ENDERMITE",
+      "rarity": "MYTHIC",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 54706.0,
+        "expTotal": 2.5407936E7,
+        "percentageToNextLevel": 0.028995601
+      },
+      "petXpType": "mining",
+      "petItem": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+      "candyUsed": 0
+    },
+    "21": {
+      "petType": "ROCK",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 3746.0,
+        "expTotal": 2.5356976E7,
+        "percentageToNextLevel": 0.0019854773
+      },
+      "petXpType": "mining",
+      "petItem": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+      "candyUsed": 0
+    },
+    "22": {
+      "petType": "SNAIL",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 100,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1886700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 1700.0,
+        "expTotal": 2.535493E7,
+        "percentageToNextLevel": 9.010442E-4
+      },
+      "petXpType": "mining",
+      "petItem": "PET_ITEM_SPOOKY_CUPCAKE",
+      "candyUsed": 0
+    },
+    "23": {
+      "petType": "SQUID",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 97,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1616700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 695336.0,
+        "expTotal": 2.0798466E7,
+        "percentageToNextLevel": 0.43009588
+      },
+      "petXpType": "fishing",
+      "petItem": "PET_ITEM_FISHING_SKILL_BOOST_EPIC",
+      "candyUsed": 0
+    },
+    "24": {
+      "petType": "BABY_YETI",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 97,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1616700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 84794.0,
+        "expTotal": 2.0187924E7,
+        "percentageToNextLevel": 0.052448817
+      },
+      "petXpType": "fishing",
+      "petItem": "PET_ITEM_MINING_SKILL_BOOST_UNCOMMON",
+      "candyUsed": 0
+    },
+    "25": {
+      "petType": "SLUG",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 95,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1386700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 936868.0,
+        "expTotal": 1.8156598E7,
+        "percentageToNextLevel": 0.6756097
+      },
+      "petXpType": "farming",
+      "petItem": "BROWN_BANDANA",
+      "candyUsed": 0
+    },
+    "26": {
+      "petType": "GOBLIN",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 95,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1386700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 631852.0,
+        "expTotal": 1.7851582E7,
+        "percentageToNextLevel": 0.45565155
+      },
+      "petXpType": "unknown",
+      "petItem": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+      "candyUsed": 0
+    },
+    "27": {
+      "petType": "HEDGEHOG",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 94,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1286700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 1257232.0,
+        "expTotal": 1.7190262E7,
+        "percentageToNextLevel": 0.977098
+      },
+      "petXpType": "unknown",
+      "petItem": "GREEN_BANDANA",
+      "candyUsed": 0
+    },
+    "28": {
+      "petType": "RABBIT",
+      "rarity": "MYTHIC",
+      "petLevel": {
+        "currentLevel": 93,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1191700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 855368.0,
+        "expTotal": 1.5596698E7,
+        "percentageToNextLevel": 0.71777123
+      },
+      "petXpType": "farming",
+      "petItem": "PET_ITEM_FARMING_SKILL_BOOST_RARE",
+      "candyUsed": 0
+    },
+    "29": {
+      "petType": "BEE",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 92,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1101700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 1042091.0,
+        "expTotal": 1.4681721E7,
+        "percentageToNextLevel": 0.94589365
+      },
+      "petXpType": "farming",
+      "petItem": "PET_ITEM_FARMING_SKILL_BOOST_EPIC",
+      "candyUsed": 0
+    },
+    "30": {
+      "petType": "MITHRIL_GOLEM",
+      "rarity": "MYTHIC",
+      "petLevel": {
+        "currentLevel": 91,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 1016700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 773638.0,
+        "expTotal": 1.3396568E7,
+        "percentageToNextLevel": 0.7609305
+      },
+      "petXpType": "mining",
+      "petItem": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+      "candyUsed": 0
+    },
+    "31": {
+      "petType": "GHOUL",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 85,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 611700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 214057.0,
+        "expTotal": 8241787.0,
+        "percentageToNextLevel": 0.3499379
+      },
+      "petXpType": "combat",
+      "candyUsed": 0
+    },
+    "32": {
+      "petType": "MEGALODON",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 83,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 516700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 21288.0,
+        "expTotal": 6970618.0,
+        "percentageToNextLevel": 0.041199923
+      },
+      "petXpType": "fishing",
+      "petItem": "WASHED_UP_SOUVENIR",
+      "candyUsed": 0
+    },
+    "33": {
+      "petType": "SHEEP",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 81,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 441700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 41756.5,
+        "expTotal": 6072686.5,
+        "percentageToNextLevel": 0.09453589
+      },
+      "petXpType": "alchemy",
+      "candyUsed": 0
+    },
+    "34": {
+      "petType": "TARANTULA",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 77,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 333700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 39731.0,
+        "expTotal": 4583861.0,
+        "percentageToNextLevel": 0.11906203
+      },
+      "petXpType": "combat",
+      "petItem": "PET_ITEM_COMBAT_SKILL_BOOST_COMMON",
+      "candyUsed": 0
+    },
+    "35": {
+      "petType": "KUUDRA",
+      "rarity": "UNCOMMON",
+      "petLevel": {
+        "currentLevel": 89,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 291700,
+        "expRequiredForMaxLevel": 8644220,
+        "expInCurrentLevel": 3597.25,
+        "expTotal": 3949117.2,
+        "percentageToNextLevel": 0.012332019
+      },
+      "petXpType": "combat",
+      "candyUsed": 0
+    },
+    "36": {
+      "petType": "SPIRIT",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 67,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 167700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 77276.25,
+        "expTotal": 2284406.2,
+        "percentageToNextLevel": 0.46080053
+      },
+      "petXpType": "combat",
+      "skin": "PET_SKIN_SNOWBALL_SPIRIT",
+      "candyUsed": 0
+    },
+    "37": {
+      "petType": "HOUND",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 65,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 146700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 132465.62,
+        "expTotal": 2036195.6,
+        "percentageToNextLevel": 0.9029695
+      },
+      "petXpType": "combat",
+      "petItem": "PET_ITEM_COMBAT_SKILL_BOOST_COMMON",
+      "candyUsed": 0
+    },
+    "38": {
+      "petType": "SKELETON",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 47,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 41400,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 1360.3438,
+        "expTotal": 440490.34,
+        "percentageToNextLevel": 0.032858543
+      },
+      "petXpType": "combat",
+      "candyUsed": 0
+    },
+    "39": {
+      "petType": "MONKEY",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 44,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 32400,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 8379.4375,
+        "expTotal": 341709.44,
+        "percentageToNextLevel": 0.2586246
+      },
+      "petXpType": "foraging",
+      "candyUsed": 0
+    },
+    "40": {
+      "petType": "ZOMBIE",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 34,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 13300,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 6245.5312,
+        "expTotal": 131175.53,
+        "percentageToNextLevel": 0.46958882
+      },
+      "petXpType": "combat",
+      "candyUsed": 0
+    },
+    "41": {
+      "petType": "OWL",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 31,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 9700,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 2192.2188,
+        "expTotal": 94622.22,
+        "percentageToNextLevel": 0.22600193
+      },
+      "petXpType": "taming",
+      "candyUsed": 0
+    },
+    "42": {
+      "petType": "OCELOT",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 2,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 730,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 87.4787,
+        "expTotal": 747.4787,
+        "percentageToNextLevel": 0.119833834
+      },
+      "petXpType": "foraging",
+      "candyUsed": 0
+    },
+    "43": {
+      "petType": "REINDEER",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 1,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 660,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 304.4758,
+        "expTotal": 304.4758,
+        "percentageToNextLevel": 0.46132696
+      },
+      "petXpType": "fishing",
+      "petItem": "PET_ITEM_MINING_SKILL_BOOST_UNCOMMON",
+      "candyUsed": 0
+    },
+    "44": {
+      "petType": "PIG",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 1,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 660,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 206.625,
+        "expTotal": 206.625,
+        "percentageToNextLevel": 0.31306818
+      },
+      "petXpType": "farming",
+      "candyUsed": 0
+    },
+    "45": {
+      "petType": "CHICKEN",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 1,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 660,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 0.0,
+        "expTotal": 0.0,
+        "percentageToNextLevel": 0.0
+      },
+      "petXpType": "farming",
+      "skin": "PET_SKIN_CHICKEN_NESTED",
+      "candyUsed": 0
+    },
+    "46": {
+      "petType": "DOLPHIN",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 1,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 660,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 0.0,
+        "expTotal": 0.0,
+        "percentageToNextLevel": 0.0
+      },
+      "petXpType": "fishing",
+      "candyUsed": 0
+    },
+    "47": {
+      "petType": "HORSE",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 1,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 660,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 0.0,
+        "expTotal": 0.0,
+        "percentageToNextLevel": 0.0
+      },
+      "petXpType": "combat",
+      "candyUsed": 0
+    },
+    "48": {
+      "petType": "JERRY",
+      "rarity": "MYTHIC",
+      "petLevel": {
+        "currentLevel": 1,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 660,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 0.0,
+        "expTotal": 0.0,
+        "percentageToNextLevel": 0.0
+      },
+      "petXpType": "combat",
+      "candyUsed": 0
+    },
+    "49": {
+      "petType": "LION",
+      "rarity": "EPIC",
+      "petLevel": {
+        "currentLevel": 1,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 440,
+        "expRequiredForMaxLevel": 18608500,
+        "expInCurrentLevel": 0.0,
+        "expTotal": 0.0,
+        "percentageToNextLevel": 0.0
+      },
+      "petXpType": "foraging",
+      "candyUsed": 0
+    },
+    "50": {
+      "petType": "MAGMA_CUBE",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 1,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 660,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 0.0,
+        "expTotal": 0.0,
+        "percentageToNextLevel": 0.0
+      },
+      "petXpType": "combat",
+      "candyUsed": 0
+    },
+    "51": {
+      "petType": "RAT",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 1,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 660,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 0.0,
+        "expTotal": 0.0,
+        "percentageToNextLevel": 0.0
+      },
+      "petXpType": "combat",
+      "candyUsed": 0
+    },
+    "52": {
+      "petType": "SKELETON_HORSE",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 1,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 660,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 0.0,
+        "expTotal": 0.0,
+        "percentageToNextLevel": 0.0
+      },
+      "petXpType": "combat",
+      "candyUsed": 0
+    },
+    "53": {
+      "petType": "SPIDER",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 1,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 660,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 0.0,
+        "expTotal": 0.0,
+        "percentageToNextLevel": 0.0
+      },
+      "petXpType": "combat",
+      "candyUsed": 0
+    },
+    "54": {
+      "petType": "TYRANNOSAURUS",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 1,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 660,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 0.0,
+        "expTotal": 0.0,
+        "percentageToNextLevel": 0.0
+      },
+      "petXpType": "unknown",
+      "candyUsed": 0
+    }
+  },
+  "selectedPet": 3,
+  "selectedPet2": 27,
+  "tamingLevel": 57,
+  "beastMultiplier": 4.0
+}

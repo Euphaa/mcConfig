@@ -1,0 +1,2551 @@
+{
+    "categories": [
+        {
+            "name": "amber",
+            "waypoints": [
+                {
+                    "name": "17",
+                    "x": 397,
+                    "y": 104,
+                    "z": 788,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "32",
+                    "x": 425,
+                    "y": 104,
+                    "z": 821,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "22",
+                    "x": 391,
+                    "y": 86,
+                    "z": 811,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "26",
+                    "x": 416,
+                    "y": 100,
+                    "z": 819,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "1",
+                    "x": 417,
+                    "y": 73,
+                    "z": 767,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "31",
+                    "x": 413,
+                    "y": 108,
+                    "z": 819,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "35",
+                    "x": 438,
+                    "y": 78,
+                    "z": 807,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "21",
+                    "x": 385,
+                    "y": 87,
+                    "z": 808,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "47",
+                    "x": 410,
+                    "y": 69,
+                    "z": 770,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "46",
+                    "x": 421,
+                    "y": 62,
+                    "z": 774,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "41",
+                    "x": 397,
+                    "y": 82,
+                    "z": 792,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "42",
+                    "x": 405,
+                    "y": 82,
+                    "z": 796,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "24",
+                    "x": 397,
+                    "y": 102,
+                    "z": 817,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "36",
+                    "x": 431,
+                    "y": 71,
+                    "z": 808,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "14",
+                    "x": 389,
+                    "y": 88,
+                    "z": 759,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "12",
+                    "x": 400,
+                    "y": 102,
+                    "z": 755,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "16",
+                    "x": 396,
+                    "y": 97,
+                    "z": 780,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "40",
+                    "x": 403,
+                    "y": 77,
+                    "z": 796,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "9",
+                    "x": 418,
+                    "y": 105,
+                    "z": 764,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "13",
+                    "x": 397,
+                    "y": 94,
+                    "z": 754,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "25",
+                    "x": 403,
+                    "y": 95,
+                    "z": 813,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "44",
+                    "x": 413,
+                    "y": 68,
+                    "z": 790,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "2",
+                    "x": 425,
+                    "y": 78,
+                    "z": 768,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "28",
+                    "x": 417,
+                    "y": 107,
+                    "z": 811,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "37",
+                    "x": 427,
+                    "y": 69,
+                    "z": 817,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "6",
+                    "x": 410,
+                    "y": 91,
+                    "z": 769,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "8",
+                    "x": 414,
+                    "y": 104,
+                    "z": 764,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "7",
+                    "x": 407,
+                    "y": 98,
+                    "z": 765,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "3",
+                    "x": 419,
+                    "y": 81,
+                    "z": 771,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "5",
+                    "x": 411,
+                    "y": 87,
+                    "z": 773,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "10",
+                    "x": 407,
+                    "y": 112,
+                    "z": 756,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "34",
+                    "x": 441,
+                    "y": 79,
+                    "z": 811,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "39",
+                    "x": 402,
+                    "y": 79,
+                    "z": 806,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "23",
+                    "x": 391,
+                    "y": 91,
+                    "z": 816,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "38",
+                    "x": 411,
+                    "y": 71,
+                    "z": 811,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "30",
+                    "x": 422,
+                    "y": 111,
+                    "z": 810,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "19",
+                    "x": 389,
+                    "y": 96,
+                    "z": 793,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "20",
+                    "x": 385,
+                    "y": 100,
+                    "z": 802,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "29",
+                    "x": 421,
+                    "y": 109,
+                    "z": 807,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "11",
+                    "x": 401,
+                    "y": 106,
+                    "z": 766,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "15",
+                    "x": 393,
+                    "y": 89,
+                    "z": 767,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "45",
+                    "x": 416,
+                    "y": 64,
+                    "z": 781,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "33",
+                    "x": 435,
+                    "y": 77,
+                    "z": 817,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "27",
+                    "x": 418,
+                    "y": 105,
+                    "z": 816,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "4",
+                    "x": 416,
+                    "y": 89,
+                    "z": 767,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "18",
+                    "x": 391,
+                    "y": 102,
+                    "z": 793,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                },
+                {
+                    "name": "43",
+                    "x": 419,
+                    "y": 81,
+                    "z": 802,
+                    "enabled": false,
+                    "addedAt": 1674584983838
+                }
+            ],
+            "isExpanded": false,
+            "island": "crystal_hollows"
+        },
+        {
+            "name": "Amethyst Dillo",
+            "waypoints": [
+                {
+                    "name": "39",
+                    "x": 257,
+                    "y": 183,
+                    "z": 227,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044940220
+                },
+                {
+                    "name": "13",
+                    "x": 211,
+                    "y": 181,
+                    "z": 250,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044423018
+                },
+                {
+                    "name": "20++++",
+                    "x": 271,
+                    "y": 186,
+                    "z": 298,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672220573215
+                },
+                {
+                    "name": "18 ( I dont use )",
+                    "x": 256,
+                    "y": 187,
+                    "z": 251,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044557418
+                },
+                {
+                    "name": "28",
+                    "x": 303,
+                    "y": 183,
+                    "z": 275,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044721069
+                },
+                {
+                    "name": "20 ( U can skip it )",
+                    "x": 253,
+                    "y": 178,
+                    "z": 275,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044597269
+                },
+                {
+                    "name": "09",
+                    "x": 204,
+                    "y": 167,
+                    "z": 225,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044357969
+                },
+                {
+                    "name": "06",
+                    "x": 208,
+                    "y": 171,
+                    "z": 204,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044278177
+                },
+                {
+                    "name": "27",
+                    "x": 301,
+                    "y": 187,
+                    "z": 273,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044708972
+                },
+                {
+                    "name": "20+",
+                    "x": 240,
+                    "y": 174,
+                    "z": 287,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672220330113
+                },
+                {
+                    "name": "12",
+                    "x": 206,
+                    "y": 181,
+                    "z": 241,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044403218
+                },
+                {
+                    "name": "26",
+                    "x": 296,
+                    "y": 183,
+                    "z": 273,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044688419
+                },
+                {
+                    "name": "25",
+                    "x": 287,
+                    "y": 185,
+                    "z": 270,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044669970
+                },
+                {
+                    "name": "32",
+                    "x": 291,
+                    "y": 173,
+                    "z": 245,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044816972
+                },
+                {
+                    "name": "31",
+                    "x": 294,
+                    "y": 177,
+                    "z": 259,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044769967
+                },
+                {
+                    "name": "14",
+                    "x": 219,
+                    "y": 181,
+                    "z": 249,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044431169
+                },
+                {
+                    "name": "41",
+                    "x": 256,
+                    "y": 175,
+                    "z": 218,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044967118
+                },
+                {
+                    "name": "15",
+                    "x": 217,
+                    "y": 183,
+                    "z": 239,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044439520
+                },
+                {
+                    "name": "23",
+                    "x": 276,
+                    "y": 187,
+                    "z": 262,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044637818
+                },
+                {
+                    "name": "17",
+                    "x": 244,
+                    "y": 181,
+                    "z": 248,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044463069
+                },
+                {
+                    "name": "02",
+                    "x": 225,
+                    "y": 181,
+                    "z": 210,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672043946300
+                },
+                {
+                    "name": "04",
+                    "x": 217,
+                    "y": 182,
+                    "z": 212,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044247621
+                },
+                {
+                    "name": "16",
+                    "x": 228,
+                    "y": 185,
+                    "z": 238,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044451119
+                },
+                {
+                    "name": "37",
+                    "x": 256,
+                    "y": 174,
+                    "z": 240,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044893170
+                },
+                {
+                    "name": "21",
+                    "x": 267,
+                    "y": 178,
+                    "z": 276,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044610271
+                },
+                {
+                    "name": "33",
+                    "x": 288,
+                    "y": 174,
+                    "z": 241,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044836070
+                },
+                {
+                    "name": "08",
+                    "x": 206,
+                    "y": 162,
+                    "z": 221,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044342569
+                },
+                {
+                    "name": "11",
+                    "x": 204,
+                    "y": 184,
+                    "z": 231,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044394720
+                },
+                {
+                    "name": "29",
+                    "x": 310,
+                    "y": 184,
+                    "z": 265,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044738723
+                },
+                {
+                    "name": "20+++++",
+                    "x": 271,
+                    "y": 185,
+                    "z": 287,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672220591417
+                },
+                {
+                    "name": "07",
+                    "x": 204,
+                    "y": 171,
+                    "z": 217,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044334321
+                },
+                {
+                    "name": "01",
+                    "x": 228,
+                    "y": 173,
+                    "z": 207,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672043922501
+                },
+                {
+                    "name": "35",
+                    "x": 280,
+                    "y": 176,
+                    "z": 251,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044871769
+                },
+                {
+                    "name": "34",
+                    "x": 287,
+                    "y": 173,
+                    "z": 247,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044783869
+                },
+                {
+                    "name": "38",
+                    "x": 269,
+                    "y": 182,
+                    "z": 237,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044921222
+                },
+                {
+                    "name": "10",
+                    "x": 204,
+                    "y": 176,
+                    "z": 226,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044371319
+                },
+                {
+                    "name": "20++",
+                    "x": 250,
+                    "y": 173,
+                    "z": 290,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672220523264
+                },
+                {
+                    "name": "22",
+                    "x": 266,
+                    "y": 178,
+                    "z": 264,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044621073
+                },
+                {
+                    "name": "36",
+                    "x": 259,
+                    "y": 175,
+                    "z": 245,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044884622
+                },
+                {
+                    "name": "05",
+                    "x": 213,
+                    "y": 176,
+                    "z": 215,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044266119
+                },
+                {
+                    "name": "19",
+                    "x": 249,
+                    "y": 179,
+                    "z": 255,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044587569
+                },
+                {
+                    "name": "30",
+                    "x": 306,
+                    "y": 183,
+                    "z": 261,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044755422
+                },
+                {
+                    "name": "20+++",
+                    "x": 264,
+                    "y": 179,
+                    "z": 291,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672220551111
+                },
+                {
+                    "name": "03",
+                    "x": 219,
+                    "y": 187,
+                    "z": 204,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044228718
+                },
+                {
+                    "name": "24",
+                    "x": 278,
+                    "y": 187,
+                    "z": 266,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044662621
+                },
+                {
+                    "name": "40",
+                    "x": 251,
+                    "y": 179,
+                    "z": 224,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044956469
+                }
+            ],
+            "isExpanded": false,
+            "island": "crystal_hollows"
+        },
+        {
+            "name": "x coal",
+            "waypoints": [
+                {
+                    "name": "Coal 001",
+                    "x": 380,
+                    "y": 162,
+                    "z": 226,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 047",
+                    "x": 311,
+                    "y": 146,
+                    "z": 242,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 023",
+                    "x": 234,
+                    "y": 163,
+                    "z": 218,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 039",
+                    "x": 243,
+                    "y": 120,
+                    "z": 346,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 024",
+                    "x": 219,
+                    "y": 162,
+                    "z": 223,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 034",
+                    "x": 350,
+                    "y": 143,
+                    "z": 208,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 009",
+                    "x": 306,
+                    "y": 159,
+                    "z": 226,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 107",
+                    "x": 239,
+                    "y": 128,
+                    "z": 296,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 123",
+                    "x": 228,
+                    "y": 152,
+                    "z": 279,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 087",
+                    "x": 500,
+                    "y": 98,
+                    "z": 322,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 055",
+                    "x": 380,
+                    "y": 144,
+                    "z": 228,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 104",
+                    "x": 507,
+                    "y": 82,
+                    "z": 356,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 108",
+                    "x": 259,
+                    "y": 116,
+                    "z": 364,
+                    "enabled": false,
+                    "addedAt": 1652427590958
+                },
+                {
+                    "name": "Coal 061",
+                    "x": 361,
+                    "y": 145,
+                    "z": 224,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 062",
+                    "x": 333,
+                    "y": 144,
+                    "z": 234,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 003",
+                    "x": 343,
+                    "y": 148,
+                    "z": 257,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 080",
+                    "x": 501,
+                    "y": 154,
+                    "z": 209,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 121",
+                    "x": 280,
+                    "y": 133,
+                    "z": 223,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 109",
+                    "x": 473,
+                    "y": 84,
+                    "z": 248,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 052",
+                    "x": 406,
+                    "y": 151,
+                    "z": 293,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 125",
+                    "x": 365,
+                    "y": 157,
+                    "z": 265,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 129",
+                    "x": 409,
+                    "y": 156,
+                    "z": 251,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 048",
+                    "x": 366,
+                    "y": 146,
+                    "z": 268,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 120",
+                    "x": 350,
+                    "y": 138,
+                    "z": 227,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 049",
+                    "x": 372,
+                    "y": 146,
+                    "z": 265,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 051",
+                    "x": 385,
+                    "y": 149,
+                    "z": 294,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 006",
+                    "x": 348,
+                    "y": 148,
+                    "z": 262,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 066",
+                    "x": 302,
+                    "y": 159,
+                    "z": 335,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 118",
+                    "x": 335,
+                    "y": 141,
+                    "z": 221,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 002",
+                    "x": 364,
+                    "y": 163,
+                    "z": 230,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 070",
+                    "x": 236,
+                    "y": 153,
+                    "z": 391,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 060",
+                    "x": 321,
+                    "y": 148,
+                    "z": 235,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 099",
+                    "x": 231,
+                    "y": 125,
+                    "z": 444,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 045",
+                    "x": 228,
+                    "y": 159,
+                    "z": 275,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 093",
+                    "x": 261,
+                    "y": 128,
+                    "z": 410,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 096",
+                    "x": 272,
+                    "y": 111,
+                    "z": 389,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 035",
+                    "x": 362,
+                    "y": 151,
+                    "z": 227,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 027",
+                    "x": 265,
+                    "y": 161,
+                    "z": 217,
+                    "enabled": false,
+                    "addedAt": 1652427590958
+                },
+                {
+                    "name": "Coal 018",
+                    "x": 242,
+                    "y": 161,
+                    "z": 217,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 114",
+                    "x": 305,
+                    "y": 134,
+                    "z": 224,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 059",
+                    "x": 361,
+                    "y": 150,
+                    "z": 215,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 029",
+                    "x": 366,
+                    "y": 164,
+                    "z": 246,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 038",
+                    "x": 289,
+                    "y": 154,
+                    "z": 213,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 077",
+                    "x": 394,
+                    "y": 155,
+                    "z": 217,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 089",
+                    "x": 416,
+                    "y": 84,
+                    "z": 260,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 097",
+                    "x": 232,
+                    "y": 129,
+                    "z": 401,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 026",
+                    "x": 222,
+                    "y": 161,
+                    "z": 207,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 113",
+                    "x": 289,
+                    "y": 141,
+                    "z": 227,
+                    "enabled": false,
+                    "addedAt": 1652427590958
+                },
+                {
+                    "name": "Coal 122",
+                    "x": 370,
+                    "y": 142,
+                    "z": 286,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 124",
+                    "x": 368,
+                    "y": 158,
+                    "z": 260,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 033",
+                    "x": 352,
+                    "y": 148,
+                    "z": 213,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 014",
+                    "x": 286,
+                    "y": 164,
+                    "z": 207,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 130",
+                    "x": 449,
+                    "y": 155,
+                    "z": 234,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 043",
+                    "x": 205,
+                    "y": 160,
+                    "z": 285,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 041",
+                    "x": 270,
+                    "y": 155,
+                    "z": 212,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 111",
+                    "x": 246,
+                    "y": 135,
+                    "z": 260,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 012",
+                    "x": 364,
+                    "y": 167,
+                    "z": 221,
+                    "enabled": false,
+                    "addedAt": 1652427590958
+                },
+                {
+                    "name": "Coal 083",
+                    "x": 264,
+                    "y": 134,
+                    "z": 238,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 084",
+                    "x": 367,
+                    "y": 113,
+                    "z": 420,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 116",
+                    "x": 310,
+                    "y": 139,
+                    "z": 228,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 011",
+                    "x": 327,
+                    "y": 166,
+                    "z": 217,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 017",
+                    "x": 256,
+                    "y": 159,
+                    "z": 205,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 086",
+                    "x": 479,
+                    "y": 91,
+                    "z": 374,
+                    "enabled": false,
+                    "addedAt": 1652427590958
+                },
+                {
+                    "name": "Coal 042",
+                    "x": 209,
+                    "y": 161,
+                    "z": 269,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 098",
+                    "x": 234,
+                    "y": 126,
+                    "z": 408,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 088",
+                    "x": 445,
+                    "y": 82,
+                    "z": 259,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 032",
+                    "x": 334,
+                    "y": 153,
+                    "z": 237,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 013",
+                    "x": 349,
+                    "y": 160,
+                    "z": 207,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 016",
+                    "x": 272,
+                    "y": 161,
+                    "z": 204,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 079",
+                    "x": 496,
+                    "y": 153,
+                    "z": 211,
+                    "enabled": false,
+                    "addedAt": 1652427590958
+                },
+                {
+                    "name": "Coal 015",
+                    "x": 283,
+                    "y": 160,
+                    "z": 204,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 112",
+                    "x": 238,
+                    "y": 134,
+                    "z": 275,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 106",
+                    "x": 312,
+                    "y": 165,
+                    "z": 229,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 028",
+                    "x": 366,
+                    "y": 166,
+                    "z": 240,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 128",
+                    "x": 402,
+                    "y": 155,
+                    "z": 264,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 091",
+                    "x": 333,
+                    "y": 79,
+                    "z": 258,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 117",
+                    "x": 325,
+                    "y": 138,
+                    "z": 216,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 069",
+                    "x": 230,
+                    "y": 152,
+                    "z": 352,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 044",
+                    "x": 216,
+                    "y": 163,
+                    "z": 275,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 068",
+                    "x": 223,
+                    "y": 157,
+                    "z": 347,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 102",
+                    "x": 226,
+                    "y": 127,
+                    "z": 400,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 110",
+                    "x": 251,
+                    "y": 131,
+                    "z": 224,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 019",
+                    "x": 243,
+                    "y": 161,
+                    "z": 224,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 030",
+                    "x": 228,
+                    "y": 160,
+                    "z": 239,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 076",
+                    "x": 337,
+                    "y": 156,
+                    "z": 273,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 058",
+                    "x": 409,
+                    "y": 144,
+                    "z": 206,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 031",
+                    "x": 319,
+                    "y": 151,
+                    "z": 229,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 056",
+                    "x": 373,
+                    "y": 145,
+                    "z": 221,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 103",
+                    "x": 509,
+                    "y": 83,
+                    "z": 315,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 081",
+                    "x": 484,
+                    "y": 160,
+                    "z": 230,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 065",
+                    "x": 306,
+                    "y": 159,
+                    "z": 307,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 071",
+                    "x": 225,
+                    "y": 152,
+                    "z": 467,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 050",
+                    "x": 386,
+                    "y": 142,
+                    "z": 263,
+                    "enabled": false,
+                    "addedAt": 1652427590958
+                },
+                {
+                    "name": "Coal 101",
+                    "x": 221,
+                    "y": 126,
+                    "z": 418,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 127",
+                    "x": 385,
+                    "y": 158,
+                    "z": 267,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 092",
+                    "x": 234,
+                    "y": 130,
+                    "z": 380,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 022",
+                    "x": 207,
+                    "y": 161,
+                    "z": 232,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 063",
+                    "x": 382,
+                    "y": 151,
+                    "z": 204,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 021",
+                    "x": 237,
+                    "y": 159,
+                    "z": 230,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 095",
+                    "x": 306,
+                    "y": 133,
+                    "z": 376,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 115",
+                    "x": 296,
+                    "y": 131,
+                    "z": 228,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 078",
+                    "x": 441,
+                    "y": 154,
+                    "z": 208,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 064",
+                    "x": 301,
+                    "y": 153,
+                    "z": 292,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 085",
+                    "x": 460,
+                    "y": 101,
+                    "z": 432,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 004",
+                    "x": 321,
+                    "y": 143,
+                    "z": 224,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 074",
+                    "x": 303,
+                    "y": 159,
+                    "z": 495,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 094",
+                    "x": 284,
+                    "y": 133,
+                    "z": 396,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 053",
+                    "x": 401,
+                    "y": 143,
+                    "z": 292,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 075",
+                    "x": 317,
+                    "y": 150,
+                    "z": 316,
+                    "enabled": false,
+                    "addedAt": 1652427590958
+                },
+                {
+                    "name": "Coal 010",
+                    "x": 298,
+                    "y": 166,
+                    "z": 230,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 100",
+                    "x": 218,
+                    "y": 127,
+                    "z": 429,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 073",
+                    "x": 244,
+                    "y": 155,
+                    "z": 490,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 005",
+                    "x": 326,
+                    "y": 146,
+                    "z": 269,
+                    "enabled": false,
+                    "addedAt": 1652427590958
+                },
+                {
+                    "name": "Coal 025",
+                    "x": 211,
+                    "y": 163,
+                    "z": 215,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 036",
+                    "x": 358,
+                    "y": 148,
+                    "z": 235,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 040",
+                    "x": 249,
+                    "y": 124,
+                    "z": 292,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 072",
+                    "x": 239,
+                    "y": 155,
+                    "z": 496,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 126",
+                    "x": 377,
+                    "y": 155,
+                    "z": 272,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 020",
+                    "x": 242,
+                    "y": 161,
+                    "z": 232,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 082",
+                    "x": 472,
+                    "y": 156,
+                    "z": 245,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 037",
+                    "x": 348,
+                    "y": 154,
+                    "z": 226,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 057",
+                    "x": 405,
+                    "y": 151,
+                    "z": 209,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 067",
+                    "x": 308,
+                    "y": 159,
+                    "z": 354,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 105",
+                    "x": 309,
+                    "y": 152,
+                    "z": 359,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 007",
+                    "x": 360,
+                    "y": 156,
+                    "z": 230,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 046",
+                    "x": 222,
+                    "y": 150,
+                    "z": 292,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 119",
+                    "x": 344,
+                    "y": 138,
+                    "z": 225,
+                    "enabled": false,
+                    "addedAt": 1652427590956
+                },
+                {
+                    "name": "Coal 090",
+                    "x": 346,
+                    "y": 82,
+                    "z": 257,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 008",
+                    "x": 322,
+                    "y": 162,
+                    "z": 230,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 054",
+                    "x": 381,
+                    "y": 152,
+                    "z": 228,
+                    "enabled": false,
+                    "addedAt": 1652427590957
+                }
+            ],
+            "isExpanded": false,
+            "island": "crystal_hollows"
+        },
+        {
+            "name": "Mithril Cluster",
+            "waypoints": [
+                {
+                    "name": "Mithril 9",
+                    "x": 567,
+                    "y": 84,
+                    "z": 435,
+                    "enabled": false,
+                    "addedAt": 1652348939565
+                },
+                {
+                    "name": "Mithril 2",
+                    "x": 565,
+                    "y": 84,
+                    "z": 349,
+                    "enabled": false,
+                    "addedAt": 1652349024869
+                },
+                {
+                    "name": "Mithril 8",
+                    "x": 553,
+                    "y": 84,
+                    "z": 425,
+                    "enabled": false,
+                    "addedAt": 1652348921023
+                },
+                {
+                    "name": "Mithril 4",
+                    "x": 562,
+                    "y": 84,
+                    "z": 380,
+                    "enabled": false,
+                    "addedAt": 1652348670318
+                },
+                {
+                    "name": "Mithril 3",
+                    "x": 572,
+                    "y": 84,
+                    "z": 366,
+                    "enabled": false,
+                    "addedAt": 1652348719884
+                },
+                {
+                    "name": "Mithril 6",
+                    "x": 530,
+                    "y": 84,
+                    "z": 419,
+                    "enabled": false,
+                    "addedAt": 1652348873613
+                },
+                {
+                    "name": "Mithril 5",
+                    "x": 543,
+                    "y": 84,
+                    "z": 395,
+                    "enabled": false,
+                    "addedAt": 1652348747138
+                },
+                {
+                    "name": "Mithril 1",
+                    "x": 580,
+                    "y": 84,
+                    "z": 341,
+                    "enabled": false,
+                    "addedAt": 1652349373016
+                },
+                {
+                    "name": "Mithril 7",
+                    "x": 537,
+                    "y": 84,
+                    "z": 435,
+                    "enabled": false,
+                    "addedAt": 1652348904576
+                }
+            ],
+            "isExpanded": false,
+            "island": "crystal_hollows"
+        },
+        {
+            "name": "eggs",
+            "waypoints": [
+                {
+                    "name": "",
+                    "x": 0,
+                    "y": 144,
+                    "z": 51,
+                    "enabled": true,
+                    "addedAt": 1714303683048
+                },
+                {
+                    "name": "",
+                    "x": 169,
+                    "y": 72,
+                    "z": 36,
+                    "enabled": true,
+                    "addedAt": 1714303785371
+                },
+                {
+                    "name": "",
+                    "x": 35,
+                    "y": 72,
+                    "z": 72,
+                    "enabled": true,
+                    "addedAt": 1714303670346
+                },
+                {
+                    "name": "",
+                    "x": -186,
+                    "y": 87,
+                    "z": 81,
+                    "enabled": true,
+                    "addedAt": 1714303739398
+                },
+                {
+                    "name": "",
+                    "x": -38,
+                    "y": 70,
+                    "z": -135,
+                    "enabled": true,
+                    "addedAt": 1714303858871
+                },
+                {
+                    "name": "",
+                    "x": 125,
+                    "y": 74,
+                    "z": 168,
+                    "enabled": true,
+                    "addedAt": 1714303637849
+                },
+                {
+                    "name": "",
+                    "x": 148,
+                    "y": 75,
+                    "z": -96,
+                    "enabled": true,
+                    "addedAt": 1714303758002
+                },
+                {
+                    "name": "",
+                    "x": -40,
+                    "y": 70,
+                    "z": -74,
+                    "enabled": true,
+                    "addedAt": 1714303878271
+                },
+                {
+                    "name": "",
+                    "x": -38,
+                    "y": 193,
+                    "z": 35,
+                    "enabled": true,
+                    "addedAt": 1714303703349
+                },
+                {
+                    "name": "",
+                    "x": 147,
+                    "y": 113,
+                    "z": 113,
+                    "enabled": true,
+                    "addedAt": 1714303655851
+                },
+                {
+                    "name": "",
+                    "x": -127,
+                    "y": 73,
+                    "z": -126,
+                    "enabled": true,
+                    "addedAt": 1714303903876
+                },
+                {
+                    "name": "",
+                    "x": 161,
+                    "y": 71,
+                    "z": 157,
+                    "enabled": true,
+                    "addedAt": 1714303610064
+                },
+                {
+                    "name": "",
+                    "x": 18,
+                    "y": 70,
+                    "z": -77,
+                    "enabled": true,
+                    "addedAt": 1714303723236
+                },
+                {
+                    "name": "",
+                    "x": 44,
+                    "y": 71,
+                    "z": -137,
+                    "enabled": true,
+                    "addedAt": 1714303814322
+                }
+            ],
+            "island": "hub"
+        },
+        {
+            "name": "private ruby route",
+            "waypoints": [
+                {
+                    "name": "R",
+                    "x": 819,
+                    "y": 49,
+                    "z": 580,
+                    "enabled": false,
+                    "addedAt": 1674752409157
+                },
+                {
+                    "name": "T",
+                    "x": 816,
+                    "y": 53,
+                    "z": 604,
+                    "enabled": false,
+                    "addedAt": 1674752743291
+                },
+                {
+                    "name": "T",
+                    "x": 802,
+                    "y": 45,
+                    "z": 573,
+                    "enabled": false,
+                    "addedAt": 1674752267464
+                },
+                {
+                    "name": "T",
+                    "x": 769,
+                    "y": 48,
+                    "z": 636,
+                    "enabled": false,
+                    "addedAt": 1674753261442
+                },
+                {
+                    "name": "T",
+                    "x": 806,
+                    "y": 48,
+                    "z": 626,
+                    "enabled": false,
+                    "addedAt": 1674753098001
+                },
+                {
+                    "name": "T",
+                    "x": 801,
+                    "y": 46,
+                    "z": 630,
+                    "enabled": false,
+                    "addedAt": 1674753125402
+                },
+                {
+                    "name": "R",
+                    "x": 772,
+                    "y": 49,
+                    "z": 590,
+                    "enabled": false,
+                    "addedAt": 1674752213547
+                },
+                {
+                    "name": "R",
+                    "x": 817,
+                    "y": 59,
+                    "z": 616,
+                    "enabled": false,
+                    "addedAt": 1674752798464
+                },
+                {
+                    "name": "R",
+                    "x": 814,
+                    "y": 49,
+                    "z": 625,
+                    "enabled": false,
+                    "addedAt": 1674753073961
+                },
+                {
+                    "name": "T",
+                    "x": 805,
+                    "y": 53,
+                    "z": 555,
+                    "enabled": false,
+                    "addedAt": 1674753018843
+                },
+                {
+                    "name": "R",
+                    "x": 773,
+                    "y": 49,
+                    "z": 622,
+                    "enabled": false,
+                    "addedAt": 1674753304357
+                },
+                {
+                    "name": "T",
+                    "x": 786,
+                    "y": 52,
+                    "z": 565,
+                    "enabled": false,
+                    "addedAt": 1674752099200
+                },
+                {
+                    "name": "R",
+                    "x": 810,
+                    "y": 42,
+                    "z": 579,
+                    "enabled": false,
+                    "addedAt": 1674752391115
+                },
+                {
+                    "name": "R",
+                    "x": 775,
+                    "y": 50,
+                    "z": 613,
+                    "enabled": false,
+                    "addedAt": 1674753328793
+                },
+                {
+                    "name": "T",
+                    "x": 822,
+                    "y": 53,
+                    "z": 584,
+                    "enabled": false,
+                    "addedAt": 1674752560047
+                },
+                {
+                    "name": "R",
+                    "x": 793,
+                    "y": 56,
+                    "z": 568,
+                    "enabled": false,
+                    "addedAt": 1674752479940
+                },
+                {
+                    "name": "T",
+                    "x": 793,
+                    "y": 43,
+                    "z": 568,
+                    "enabled": false,
+                    "addedAt": 1674752183150
+                },
+                {
+                    "name": "R",
+                    "x": 803,
+                    "y": 56,
+                    "z": 613,
+                    "enabled": false,
+                    "addedAt": 1674752818440
+                },
+                {
+                    "name": "R",
+                    "x": 800,
+                    "y": 48,
+                    "z": 614,
+                    "enabled": false,
+                    "addedAt": 1674754049104
+                },
+                {
+                    "name": "T",
+                    "x": 777,
+                    "y": 50,
+                    "z": 559,
+                    "enabled": false,
+                    "addedAt": 1674752065650
+                },
+                {
+                    "name": "R",
+                    "x": 777,
+                    "y": 40,
+                    "z": 628,
+                    "enabled": false,
+                    "addedAt": 1674753238599
+                },
+                {
+                    "name": "T",
+                    "x": 813,
+                    "y": 48,
+                    "z": 594,
+                    "enabled": false,
+                    "addedAt": 1674752363891
+                },
+                {
+                    "name": "T",
+                    "x": 811,
+                    "y": 47,
+                    "z": 585,
+                    "enabled": false,
+                    "addedAt": 1674752345844
+                },
+                {
+                    "name": "T",
+                    "x": 799,
+                    "y": 57,
+                    "z": 569,
+                    "enabled": false,
+                    "addedAt": 1674752450292
+                },
+                {
+                    "name": "R",
+                    "x": 769,
+                    "y": 48,
+                    "z": 583,
+                    "enabled": false,
+                    "addedAt": 1674752236853
+                },
+                {
+                    "name": "R",
+                    "x": 803,
+                    "y": 39,
+                    "z": 582,
+                    "enabled": false,
+                    "addedAt": 1674752290640
+                },
+                {
+                    "name": "R",
+                    "x": 811,
+                    "y": 54,
+                    "z": 569,
+                    "enabled": false,
+                    "addedAt": 1674752587105
+                },
+                {
+                    "name": "T",
+                    "x": 784,
+                    "y": 50,
+                    "z": 614,
+                    "enabled": false,
+                    "addedAt": 1674753206363
+                },
+                {
+                    "name": "R",
+                    "x": 803,
+                    "y": 56,
+                    "z": 601,
+                    "enabled": false,
+                    "addedAt": 1674752762262
+                },
+                {
+                    "name": "T",
+                    "x": 803,
+                    "y": 46,
+                    "z": 590,
+                    "enabled": false,
+                    "addedAt": 1674752306357
+                },
+                {
+                    "name": "R",
+                    "x": 772,
+                    "y": 44,
+                    "z": 598,
+                    "enabled": false,
+                    "addedAt": 1674753380444
+                },
+                {
+                    "name": "R",
+                    "x": 773,
+                    "y": 47,
+                    "z": 595,
+                    "enabled": false,
+                    "addedAt": 1674752198019
+                },
+                {
+                    "name": "R",
+                    "x": 802,
+                    "y": 62,
+                    "z": 582,
+                    "enabled": false,
+                    "addedAt": 1674752708297
+                },
+                {
+                    "name": "R",
+                    "x": 815,
+                    "y": 53,
+                    "z": 564,
+                    "enabled": false,
+                    "addedAt": 1674752599193
+                },
+                {
+                    "name": "T",
+                    "x": 801,
+                    "y": 53,
+                    "z": 577,
+                    "enabled": false,
+                    "addedAt": 1674752430441
+                },
+                {
+                    "name": "T",
+                    "x": 818,
+                    "y": 57,
+                    "z": 613,
+                    "enabled": false,
+                    "addedAt": 1674752781758
+                },
+                {
+                    "name": "R",
+                    "x": 811,
+                    "y": 58,
+                    "z": 601,
+                    "enabled": false,
+                    "addedAt": 1674752729997
+                }
+            ],
+            "island": "crystal_hollows"
+        },
+        {
+            "name": "",
+            "waypoints": [
+                {
+                    "name": "Fire",
+                    "x": -7,
+                    "y": 131,
+                    "z": 227,
+                    "enabled": true,
+                    "addedAt": 1715219984716
+                }
+            ],
+            "island": "mining_3"
+        },
+        {
+            "name": "Sapphire",
+            "waypoints": [
+                {
+                    "name": "20",
+                    "x": 632,
+                    "y": 121,
+                    "z": 603,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "15",
+                    "x": 622,
+                    "y": 121,
+                    "z": 570,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "3",
+                    "x": 607,
+                    "y": 121,
+                    "z": 589,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "19",
+                    "x": 636,
+                    "y": 121,
+                    "z": 598,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "7",
+                    "x": 626,
+                    "y": 121,
+                    "z": 595,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "22",
+                    "x": 647,
+                    "y": 121,
+                    "z": 570,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "5",
+                    "x": 626,
+                    "y": 121,
+                    "z": 576,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "16",
+                    "x": 645,
+                    "y": 121,
+                    "z": 582,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "8",
+                    "x": 620,
+                    "y": 121,
+                    "z": 598,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "13",
+                    "x": 607,
+                    "y": 121,
+                    "z": 574,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "9",
+                    "x": 617,
+                    "y": 121,
+                    "z": 608,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "17",
+                    "x": 640,
+                    "y": 121,
+                    "z": 588,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "1",
+                    "x": 621,
+                    "y": 121,
+                    "z": 587,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "6",
+                    "x": 633,
+                    "y": 121,
+                    "z": 582,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "11",
+                    "x": 603,
+                    "y": 121,
+                    "z": 599,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "2",
+                    "x": 616,
+                    "y": 121,
+                    "z": 591,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "18",
+                    "x": 644,
+                    "y": 121,
+                    "z": 594,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "4",
+                    "x": 611,
+                    "y": 121,
+                    "z": 583,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "10",
+                    "x": 611,
+                    "y": 121,
+                    "z": 605,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "21",
+                    "x": 598,
+                    "y": 121,
+                    "z": 605,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "12",
+                    "x": 599,
+                    "y": 121,
+                    "z": 592,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "14",
+                    "x": 614,
+                    "y": 121,
+                    "z": 574,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                }
+            ],
+            "isExpanded": false,
+            "island": "crystal_hollows"
+        }
+    ]
+}

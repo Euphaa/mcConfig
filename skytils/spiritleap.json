@@ -1,0 +1,33 @@
+{
+    "users": {
+        "Underworked": {
+            "enabled": true
+        },
+        "_brent_": {
+            "enabled": true
+        },
+        "rjl_": {
+            "enabled": true
+        }
+    },
+    "classes": {
+        "ARCHER": {
+            "enabled": true
+        },
+        "BERSERK": {
+            "enabled": true
+        },
+        "MAGE": {
+            "enabled": true
+        },
+        "HEALER": {
+            "enabled": true
+        },
+        "TANK": {
+            "enabled": true
+        },
+        "EMPTY": {
+            "enabled": false
+        }
+    }
+}

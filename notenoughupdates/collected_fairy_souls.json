@@ -1,0 +1,40 @@
+{
+  "banana": {
+    "dungeon_hub": [],
+    "combat_3": [
+      3
+    ],
+    "hub": [
+      44,
+      64
+    ],
+    "farming_1": [],
+    "winter": [],
+    "foraging_1": [],
+    "crimson_isle": [
+      16,
+      21,
+      20
+    ],
+    "mining_3": [
+      1,
+      12
+    ],
+    "mining_1": [],
+    "combat_1": [],
+    "mining_2": []
+  },
+  "kiwi": {
+    "hub": [],
+    "farming_1": [],
+    "mining_3": [],
+    "mining_1": [],
+    "combat_1": [],
+    "mining_2": []
+  },
+  "mango": {
+    "hub": [],
+    "farming_1": [],
+    "mining_3": []
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "startWaypointColorIndex": 12,
+  "etherwarpsTextSize": 3.0,
+  "superboomsWaypointColorIndex": 12,
+  "minesTextSize": 3.0,
+  "itemWaypointColorIndex": 11,
+  "secretsItem": {
+    "hsba": [
+      180,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "interactsTextSize": 3.0,
+  "enderpearls": {
+    "hsba": [
+      180,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "interactWaypointColorIndex": 9,
+  "batWaypointColorIndex": 10,
+  "interactsWaypointColorIndex": 9,
+  "interacts": {
+    "hsba": [
+      240,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "superboomsTextSize": 3.0,
+  "startTextSize": 3.0,
+  "interactsEnumToggle": false,
+  "etherwarpsEnumToggle": false,
+  "etherwarpsTextToggle": false,
+  "secretsBat": {
+    "hsba": [
+      120,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "enderpearlEnumToggle": false,
+  "superboomsEnumToggle": false,
+  "pearlLineColor": {
+    "hsba": [
+      180,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "superboomsTextToggle": false,
+  "minesTextToggle": false,
+  "minesEnumToggle": false,
+  "mine": {
+    "hsba": [
+      60,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "interactTextToggle": true,
+  "enderpearlTextToggle": true,
+  "itemTextSize": 3.0,
+  "batTextToggle": true,
+  "interactTextSize": 3.0,
+  "interactsTextToggle": false,
+  "enderpearlWaypointColorIndex": 11,
+  "batTextSize": 3.0,
+  "lineColor": {
+    "hsba": [
+      0,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "enderpearlTextSize": 3.0,
+  "secretsInteract": {
+    "hsba": [
+      240,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "startTextToggle": true,
+  "superbooms": {
+    "hsba": [
+      0,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "etherwarpsWaypointColorIndex": 5,
+  "etherWarp": {
+    "hsba": [
+      300,
+      100,
+      50,
+      255
+    ],
+    "dataBit": -1
+  },
+  "minesWaypointColorIndex": 14,
+  "itemTextToggle": true
+}
