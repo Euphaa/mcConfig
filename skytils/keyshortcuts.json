@@ -4,16 +4,12 @@
         "keyCode": 201
     },
     {
-        "message": "/storage",
-        "keyCode": 200
+        "message": "/setspawn",
+        "keyCode": 210
     },
     {
         "message": "/potionbag",
-        "keyCode": 41
-    },
-    {
-        "message": "/setspawn",
-        "keyCode": 210
+        "keyCode": 207
     },
     {
         "message": "/wardrobe",
@@ -24,6 +20,10 @@
         "keyCode": 181
     },
     {
+        "message": "/warp",
+        "keyCode": 74
+    },
+    {
         "message": "/equipment",
         "keyCode": 208
     },
@@ -32,12 +32,12 @@
         "keyCode": 205
     },
     {
-        "message": "/pets",
-        "keyCode": 199
+        "message": "/storage",
+        "keyCode": 27
     },
     {
-        "message": "/quiver",
-        "keyCode": 207
+        "message": "/pets",
+        "keyCode": 199
     },
     {
         "message": "/patcher sendcoords",

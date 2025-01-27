@@ -384,6 +384,702 @@
             "island": "crystal_hollows"
         },
         {
+            "name": "Sapphire",
+            "waypoints": [
+                {
+                    "name": "20",
+                    "x": 632,
+                    "y": 121,
+                    "z": 603,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "15",
+                    "x": 622,
+                    "y": 121,
+                    "z": 570,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "3",
+                    "x": 607,
+                    "y": 121,
+                    "z": 589,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "19",
+                    "x": 636,
+                    "y": 121,
+                    "z": 598,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "7",
+                    "x": 626,
+                    "y": 121,
+                    "z": 595,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "22",
+                    "x": 647,
+                    "y": 121,
+                    "z": 570,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "5",
+                    "x": 626,
+                    "y": 121,
+                    "z": 576,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "16",
+                    "x": 645,
+                    "y": 121,
+                    "z": 582,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "8",
+                    "x": 620,
+                    "y": 121,
+                    "z": 598,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "13",
+                    "x": 607,
+                    "y": 121,
+                    "z": 574,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "9",
+                    "x": 617,
+                    "y": 121,
+                    "z": 608,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "17",
+                    "x": 640,
+                    "y": 121,
+                    "z": 588,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "1",
+                    "x": 621,
+                    "y": 121,
+                    "z": 587,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "6",
+                    "x": 633,
+                    "y": 121,
+                    "z": 582,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "11",
+                    "x": 603,
+                    "y": 121,
+                    "z": 599,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "2",
+                    "x": 616,
+                    "y": 121,
+                    "z": 591,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "18",
+                    "x": 644,
+                    "y": 121,
+                    "z": 594,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "4",
+                    "x": 611,
+                    "y": 121,
+                    "z": 583,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "10",
+                    "x": 611,
+                    "y": 121,
+                    "z": 605,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "21",
+                    "x": 598,
+                    "y": 121,
+                    "z": 605,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "12",
+                    "x": 599,
+                    "y": 121,
+                    "z": 592,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "14",
+                    "x": 614,
+                    "y": 121,
+                    "z": 574,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                }
+            ],
+            "isExpanded": false,
+            "island": "crystal_hollows"
+        },
+        {
+            "name": "eggs",
+            "waypoints": [
+                {
+                    "name": "",
+                    "x": 0,
+                    "y": 144,
+                    "z": 51,
+                    "enabled": true,
+                    "addedAt": 1714303683048
+                },
+                {
+                    "name": "",
+                    "x": 169,
+                    "y": 72,
+                    "z": 36,
+                    "enabled": true,
+                    "addedAt": 1714303785371
+                },
+                {
+                    "name": "",
+                    "x": 35,
+                    "y": 72,
+                    "z": 72,
+                    "enabled": true,
+                    "addedAt": 1714303670346
+                },
+                {
+                    "name": "",
+                    "x": -186,
+                    "y": 87,
+                    "z": 81,
+                    "enabled": true,
+                    "addedAt": 1714303739398
+                },
+                {
+                    "name": "",
+                    "x": -38,
+                    "y": 70,
+                    "z": -135,
+                    "enabled": true,
+                    "addedAt": 1714303858871
+                },
+                {
+                    "name": "",
+                    "x": 125,
+                    "y": 74,
+                    "z": 168,
+                    "enabled": true,
+                    "addedAt": 1714303637849
+                },
+                {
+                    "name": "",
+                    "x": 148,
+                    "y": 75,
+                    "z": -96,
+                    "enabled": true,
+                    "addedAt": 1714303758002
+                },
+                {
+                    "name": "",
+                    "x": -40,
+                    "y": 70,
+                    "z": -74,
+                    "enabled": true,
+                    "addedAt": 1714303878271
+                },
+                {
+                    "name": "",
+                    "x": -38,
+                    "y": 193,
+                    "z": 35,
+                    "enabled": true,
+                    "addedAt": 1714303703349
+                },
+                {
+                    "name": "",
+                    "x": 147,
+                    "y": 113,
+                    "z": 113,
+                    "enabled": true,
+                    "addedAt": 1714303655851
+                },
+                {
+                    "name": "",
+                    "x": -127,
+                    "y": 73,
+                    "z": -126,
+                    "enabled": true,
+                    "addedAt": 1714303903876
+                },
+                {
+                    "name": "",
+                    "x": 161,
+                    "y": 71,
+                    "z": 157,
+                    "enabled": true,
+                    "addedAt": 1714303610064
+                },
+                {
+                    "name": "",
+                    "x": 18,
+                    "y": 70,
+                    "z": -77,
+                    "enabled": true,
+                    "addedAt": 1714303723236
+                },
+                {
+                    "name": "",
+                    "x": 44,
+                    "y": 71,
+                    "z": -137,
+                    "enabled": true,
+                    "addedAt": 1714303814322
+                }
+            ],
+            "island": "hub"
+        },
+        {
+            "name": "private ruby route",
+            "waypoints": [
+                {
+                    "name": "R",
+                    "x": 819,
+                    "y": 49,
+                    "z": 580,
+                    "enabled": false,
+                    "addedAt": 1674752409157
+                },
+                {
+                    "name": "T",
+                    "x": 816,
+                    "y": 53,
+                    "z": 604,
+                    "enabled": false,
+                    "addedAt": 1674752743291
+                },
+                {
+                    "name": "T",
+                    "x": 802,
+                    "y": 45,
+                    "z": 573,
+                    "enabled": false,
+                    "addedAt": 1674752267464
+                },
+                {
+                    "name": "T",
+                    "x": 769,
+                    "y": 48,
+                    "z": 636,
+                    "enabled": false,
+                    "addedAt": 1674753261442
+                },
+                {
+                    "name": "T",
+                    "x": 806,
+                    "y": 48,
+                    "z": 626,
+                    "enabled": false,
+                    "addedAt": 1674753098001
+                },
+                {
+                    "name": "T",
+                    "x": 801,
+                    "y": 46,
+                    "z": 630,
+                    "enabled": false,
+                    "addedAt": 1674753125402
+                },
+                {
+                    "name": "R",
+                    "x": 772,
+                    "y": 49,
+                    "z": 590,
+                    "enabled": false,
+                    "addedAt": 1674752213547
+                },
+                {
+                    "name": "R",
+                    "x": 817,
+                    "y": 59,
+                    "z": 616,
+                    "enabled": false,
+                    "addedAt": 1674752798464
+                },
+                {
+                    "name": "R",
+                    "x": 814,
+                    "y": 49,
+                    "z": 625,
+                    "enabled": false,
+                    "addedAt": 1674753073961
+                },
+                {
+                    "name": "T",
+                    "x": 805,
+                    "y": 53,
+                    "z": 555,
+                    "enabled": false,
+                    "addedAt": 1674753018843
+                },
+                {
+                    "name": "R",
+                    "x": 773,
+                    "y": 49,
+                    "z": 622,
+                    "enabled": false,
+                    "addedAt": 1674753304357
+                },
+                {
+                    "name": "T",
+                    "x": 786,
+                    "y": 52,
+                    "z": 565,
+                    "enabled": false,
+                    "addedAt": 1674752099200
+                },
+                {
+                    "name": "R",
+                    "x": 810,
+                    "y": 42,
+                    "z": 579,
+                    "enabled": false,
+                    "addedAt": 1674752391115
+                },
+                {
+                    "name": "R",
+                    "x": 775,
+                    "y": 50,
+                    "z": 613,
+                    "enabled": false,
+                    "addedAt": 1674753328793
+                },
+                {
+                    "name": "T",
+                    "x": 822,
+                    "y": 53,
+                    "z": 584,
+                    "enabled": false,
+                    "addedAt": 1674752560047
+                },
+                {
+                    "name": "R",
+                    "x": 793,
+                    "y": 56,
+                    "z": 568,
+                    "enabled": false,
+                    "addedAt": 1674752479940
+                },
+                {
+                    "name": "T",
+                    "x": 793,
+                    "y": 43,
+                    "z": 568,
+                    "enabled": false,
+                    "addedAt": 1674752183150
+                },
+                {
+                    "name": "R",
+                    "x": 803,
+                    "y": 56,
+                    "z": 613,
+                    "enabled": false,
+                    "addedAt": 1674752818440
+                },
+                {
+                    "name": "R",
+                    "x": 800,
+                    "y": 48,
+                    "z": 614,
+                    "enabled": false,
+                    "addedAt": 1674754049104
+                },
+                {
+                    "name": "T",
+                    "x": 777,
+                    "y": 50,
+                    "z": 559,
+                    "enabled": false,
+                    "addedAt": 1674752065650
+                },
+                {
+                    "name": "R",
+                    "x": 777,
+                    "y": 40,
+                    "z": 628,
+                    "enabled": false,
+                    "addedAt": 1674753238599
+                },
+                {
+                    "name": "T",
+                    "x": 813,
+                    "y": 48,
+                    "z": 594,
+                    "enabled": false,
+                    "addedAt": 1674752363891
+                },
+                {
+                    "name": "T",
+                    "x": 811,
+                    "y": 47,
+                    "z": 585,
+                    "enabled": false,
+                    "addedAt": 1674752345844
+                },
+                {
+                    "name": "T",
+                    "x": 799,
+                    "y": 57,
+                    "z": 569,
+                    "enabled": false,
+                    "addedAt": 1674752450292
+                },
+                {
+                    "name": "R",
+                    "x": 769,
+                    "y": 48,
+                    "z": 583,
+                    "enabled": false,
+                    "addedAt": 1674752236853
+                },
+                {
+                    "name": "R",
+                    "x": 803,
+                    "y": 39,
+                    "z": 582,
+                    "enabled": false,
+                    "addedAt": 1674752290640
+                },
+                {
+                    "name": "R",
+                    "x": 811,
+                    "y": 54,
+                    "z": 569,
+                    "enabled": false,
+                    "addedAt": 1674752587105
+                },
+                {
+                    "name": "T",
+                    "x": 784,
+                    "y": 50,
+                    "z": 614,
+                    "enabled": false,
+                    "addedAt": 1674753206363
+                },
+                {
+                    "name": "R",
+                    "x": 803,
+                    "y": 56,
+                    "z": 601,
+                    "enabled": false,
+                    "addedAt": 1674752762262
+                },
+                {
+                    "name": "T",
+                    "x": 803,
+                    "y": 46,
+                    "z": 590,
+                    "enabled": false,
+                    "addedAt": 1674752306357
+                },
+                {
+                    "name": "R",
+                    "x": 772,
+                    "y": 44,
+                    "z": 598,
+                    "enabled": false,
+                    "addedAt": 1674753380444
+                },
+                {
+                    "name": "R",
+                    "x": 773,
+                    "y": 47,
+                    "z": 595,
+                    "enabled": false,
+                    "addedAt": 1674752198019
+                },
+                {
+                    "name": "R",
+                    "x": 802,
+                    "y": 62,
+                    "z": 582,
+                    "enabled": false,
+                    "addedAt": 1674752708297
+                },
+                {
+                    "name": "R",
+                    "x": 815,
+                    "y": 53,
+                    "z": 564,
+                    "enabled": false,
+                    "addedAt": 1674752599193
+                },
+                {
+                    "name": "T",
+                    "x": 801,
+                    "y": 53,
+                    "z": 577,
+                    "enabled": false,
+                    "addedAt": 1674752430441
+                },
+                {
+                    "name": "T",
+                    "x": 818,
+                    "y": 57,
+                    "z": 613,
+                    "enabled": false,
+                    "addedAt": 1674752781758
+                },
+                {
+                    "name": "R",
+                    "x": 811,
+                    "y": 58,
+                    "z": 601,
+                    "enabled": false,
+                    "addedAt": 1674752729997
+                }
+            ],
+            "island": "crystal_hollows"
+        },
+        {
+            "name": "",
+            "waypoints": [
+                {
+                    "name": "Fire",
+                    "x": -7,
+                    "y": 131,
+                    "z": 227,
+                    "enabled": true,
+                    "addedAt": 1715219984716
+                }
+            ],
+            "island": "mining_3"
+        },
+        {
+            "name": "Mithril Cluster",
+            "waypoints": [
+                {
+                    "name": "Mithril 9",
+                    "x": 567,
+                    "y": 84,
+                    "z": 435,
+                    "enabled": false,
+                    "addedAt": 1652348939565
+                },
+                {
+                    "name": "Mithril 2",
+                    "x": 565,
+                    "y": 84,
+                    "z": 349,
+                    "enabled": false,
+                    "addedAt": 1652349024869
+                },
+                {
+                    "name": "Mithril 8",
+                    "x": 553,
+                    "y": 84,
+                    "z": 425,
+                    "enabled": false,
+                    "addedAt": 1652348921023
+                },
+                {
+                    "name": "Mithril 4",
+                    "x": 562,
+                    "y": 84,
+                    "z": 380,
+                    "enabled": false,
+                    "addedAt": 1652348670318
+                },
+                {
+                    "name": "Mithril 3",
+                    "x": 572,
+                    "y": 84,
+                    "z": 366,
+                    "enabled": false,
+                    "addedAt": 1652348719884
+                },
+                {
+                    "name": "Mithril 6",
+                    "x": 530,
+                    "y": 84,
+                    "z": 419,
+                    "enabled": false,
+                    "addedAt": 1652348873613
+                },
+                {
+                    "name": "Mithril 5",
+                    "x": 543,
+                    "y": 84,
+                    "z": 395,
+                    "enabled": false,
+                    "addedAt": 1652348747138
+                },
+                {
+                    "name": "Mithril 1",
+                    "x": 580,
+                    "y": 84,
+                    "z": 341,
+                    "enabled": false,
+                    "addedAt": 1652349373016
+                },
+                {
+                    "name": "Mithril 7",
+                    "x": 537,
+                    "y": 84,
+                    "z": 435,
+                    "enabled": false,
+                    "addedAt": 1652348904576
+                }
+            ],
+            "isExpanded": false,
+            "island": "crystal_hollows"
+        },
+        {
             "name": "Amethyst Dillo",
             "waypoints": [
                 {
@@ -1846,702 +2542,6 @@
                     "z": 228,
                     "enabled": false,
                     "addedAt": 1652427590957
-                }
-            ],
-            "isExpanded": false,
-            "island": "crystal_hollows"
-        },
-        {
-            "name": "Mithril Cluster",
-            "waypoints": [
-                {
-                    "name": "Mithril 9",
-                    "x": 567,
-                    "y": 84,
-                    "z": 435,
-                    "enabled": false,
-                    "addedAt": 1652348939565
-                },
-                {
-                    "name": "Mithril 2",
-                    "x": 565,
-                    "y": 84,
-                    "z": 349,
-                    "enabled": false,
-                    "addedAt": 1652349024869
-                },
-                {
-                    "name": "Mithril 8",
-                    "x": 553,
-                    "y": 84,
-                    "z": 425,
-                    "enabled": false,
-                    "addedAt": 1652348921023
-                },
-                {
-                    "name": "Mithril 4",
-                    "x": 562,
-                    "y": 84,
-                    "z": 380,
-                    "enabled": false,
-                    "addedAt": 1652348670318
-                },
-                {
-                    "name": "Mithril 3",
-                    "x": 572,
-                    "y": 84,
-                    "z": 366,
-                    "enabled": false,
-                    "addedAt": 1652348719884
-                },
-                {
-                    "name": "Mithril 6",
-                    "x": 530,
-                    "y": 84,
-                    "z": 419,
-                    "enabled": false,
-                    "addedAt": 1652348873613
-                },
-                {
-                    "name": "Mithril 5",
-                    "x": 543,
-                    "y": 84,
-                    "z": 395,
-                    "enabled": false,
-                    "addedAt": 1652348747138
-                },
-                {
-                    "name": "Mithril 1",
-                    "x": 580,
-                    "y": 84,
-                    "z": 341,
-                    "enabled": false,
-                    "addedAt": 1652349373016
-                },
-                {
-                    "name": "Mithril 7",
-                    "x": 537,
-                    "y": 84,
-                    "z": 435,
-                    "enabled": false,
-                    "addedAt": 1652348904576
-                }
-            ],
-            "isExpanded": false,
-            "island": "crystal_hollows"
-        },
-        {
-            "name": "eggs",
-            "waypoints": [
-                {
-                    "name": "",
-                    "x": 0,
-                    "y": 144,
-                    "z": 51,
-                    "enabled": true,
-                    "addedAt": 1714303683048
-                },
-                {
-                    "name": "",
-                    "x": 169,
-                    "y": 72,
-                    "z": 36,
-                    "enabled": true,
-                    "addedAt": 1714303785371
-                },
-                {
-                    "name": "",
-                    "x": 35,
-                    "y": 72,
-                    "z": 72,
-                    "enabled": true,
-                    "addedAt": 1714303670346
-                },
-                {
-                    "name": "",
-                    "x": -186,
-                    "y": 87,
-                    "z": 81,
-                    "enabled": true,
-                    "addedAt": 1714303739398
-                },
-                {
-                    "name": "",
-                    "x": -38,
-                    "y": 70,
-                    "z": -135,
-                    "enabled": true,
-                    "addedAt": 1714303858871
-                },
-                {
-                    "name": "",
-                    "x": 125,
-                    "y": 74,
-                    "z": 168,
-                    "enabled": true,
-                    "addedAt": 1714303637849
-                },
-                {
-                    "name": "",
-                    "x": 148,
-                    "y": 75,
-                    "z": -96,
-                    "enabled": true,
-                    "addedAt": 1714303758002
-                },
-                {
-                    "name": "",
-                    "x": -40,
-                    "y": 70,
-                    "z": -74,
-                    "enabled": true,
-                    "addedAt": 1714303878271
-                },
-                {
-                    "name": "",
-                    "x": -38,
-                    "y": 193,
-                    "z": 35,
-                    "enabled": true,
-                    "addedAt": 1714303703349
-                },
-                {
-                    "name": "",
-                    "x": 147,
-                    "y": 113,
-                    "z": 113,
-                    "enabled": true,
-                    "addedAt": 1714303655851
-                },
-                {
-                    "name": "",
-                    "x": -127,
-                    "y": 73,
-                    "z": -126,
-                    "enabled": true,
-                    "addedAt": 1714303903876
-                },
-                {
-                    "name": "",
-                    "x": 161,
-                    "y": 71,
-                    "z": 157,
-                    "enabled": true,
-                    "addedAt": 1714303610064
-                },
-                {
-                    "name": "",
-                    "x": 18,
-                    "y": 70,
-                    "z": -77,
-                    "enabled": true,
-                    "addedAt": 1714303723236
-                },
-                {
-                    "name": "",
-                    "x": 44,
-                    "y": 71,
-                    "z": -137,
-                    "enabled": true,
-                    "addedAt": 1714303814322
-                }
-            ],
-            "island": "hub"
-        },
-        {
-            "name": "private ruby route",
-            "waypoints": [
-                {
-                    "name": "R",
-                    "x": 819,
-                    "y": 49,
-                    "z": 580,
-                    "enabled": false,
-                    "addedAt": 1674752409157
-                },
-                {
-                    "name": "T",
-                    "x": 816,
-                    "y": 53,
-                    "z": 604,
-                    "enabled": false,
-                    "addedAt": 1674752743291
-                },
-                {
-                    "name": "T",
-                    "x": 802,
-                    "y": 45,
-                    "z": 573,
-                    "enabled": false,
-                    "addedAt": 1674752267464
-                },
-                {
-                    "name": "T",
-                    "x": 769,
-                    "y": 48,
-                    "z": 636,
-                    "enabled": false,
-                    "addedAt": 1674753261442
-                },
-                {
-                    "name": "T",
-                    "x": 806,
-                    "y": 48,
-                    "z": 626,
-                    "enabled": false,
-                    "addedAt": 1674753098001
-                },
-                {
-                    "name": "T",
-                    "x": 801,
-                    "y": 46,
-                    "z": 630,
-                    "enabled": false,
-                    "addedAt": 1674753125402
-                },
-                {
-                    "name": "R",
-                    "x": 772,
-                    "y": 49,
-                    "z": 590,
-                    "enabled": false,
-                    "addedAt": 1674752213547
-                },
-                {
-                    "name": "R",
-                    "x": 817,
-                    "y": 59,
-                    "z": 616,
-                    "enabled": false,
-                    "addedAt": 1674752798464
-                },
-                {
-                    "name": "R",
-                    "x": 814,
-                    "y": 49,
-                    "z": 625,
-                    "enabled": false,
-                    "addedAt": 1674753073961
-                },
-                {
-                    "name": "T",
-                    "x": 805,
-                    "y": 53,
-                    "z": 555,
-                    "enabled": false,
-                    "addedAt": 1674753018843
-                },
-                {
-                    "name": "R",
-                    "x": 773,
-                    "y": 49,
-                    "z": 622,
-                    "enabled": false,
-                    "addedAt": 1674753304357
-                },
-                {
-                    "name": "T",
-                    "x": 786,
-                    "y": 52,
-                    "z": 565,
-                    "enabled": false,
-                    "addedAt": 1674752099200
-                },
-                {
-                    "name": "R",
-                    "x": 810,
-                    "y": 42,
-                    "z": 579,
-                    "enabled": false,
-                    "addedAt": 1674752391115
-                },
-                {
-                    "name": "R",
-                    "x": 775,
-                    "y": 50,
-                    "z": 613,
-                    "enabled": false,
-                    "addedAt": 1674753328793
-                },
-                {
-                    "name": "T",
-                    "x": 822,
-                    "y": 53,
-                    "z": 584,
-                    "enabled": false,
-                    "addedAt": 1674752560047
-                },
-                {
-                    "name": "R",
-                    "x": 793,
-                    "y": 56,
-                    "z": 568,
-                    "enabled": false,
-                    "addedAt": 1674752479940
-                },
-                {
-                    "name": "T",
-                    "x": 793,
-                    "y": 43,
-                    "z": 568,
-                    "enabled": false,
-                    "addedAt": 1674752183150
-                },
-                {
-                    "name": "R",
-                    "x": 803,
-                    "y": 56,
-                    "z": 613,
-                    "enabled": false,
-                    "addedAt": 1674752818440
-                },
-                {
-                    "name": "R",
-                    "x": 800,
-                    "y": 48,
-                    "z": 614,
-                    "enabled": false,
-                    "addedAt": 1674754049104
-                },
-                {
-                    "name": "T",
-                    "x": 777,
-                    "y": 50,
-                    "z": 559,
-                    "enabled": false,
-                    "addedAt": 1674752065650
-                },
-                {
-                    "name": "R",
-                    "x": 777,
-                    "y": 40,
-                    "z": 628,
-                    "enabled": false,
-                    "addedAt": 1674753238599
-                },
-                {
-                    "name": "T",
-                    "x": 813,
-                    "y": 48,
-                    "z": 594,
-                    "enabled": false,
-                    "addedAt": 1674752363891
-                },
-                {
-                    "name": "T",
-                    "x": 811,
-                    "y": 47,
-                    "z": 585,
-                    "enabled": false,
-                    "addedAt": 1674752345844
-                },
-                {
-                    "name": "T",
-                    "x": 799,
-                    "y": 57,
-                    "z": 569,
-                    "enabled": false,
-                    "addedAt": 1674752450292
-                },
-                {
-                    "name": "R",
-                    "x": 769,
-                    "y": 48,
-                    "z": 583,
-                    "enabled": false,
-                    "addedAt": 1674752236853
-                },
-                {
-                    "name": "R",
-                    "x": 803,
-                    "y": 39,
-                    "z": 582,
-                    "enabled": false,
-                    "addedAt": 1674752290640
-                },
-                {
-                    "name": "R",
-                    "x": 811,
-                    "y": 54,
-                    "z": 569,
-                    "enabled": false,
-                    "addedAt": 1674752587105
-                },
-                {
-                    "name": "T",
-                    "x": 784,
-                    "y": 50,
-                    "z": 614,
-                    "enabled": false,
-                    "addedAt": 1674753206363
-                },
-                {
-                    "name": "R",
-                    "x": 803,
-                    "y": 56,
-                    "z": 601,
-                    "enabled": false,
-                    "addedAt": 1674752762262
-                },
-                {
-                    "name": "T",
-                    "x": 803,
-                    "y": 46,
-                    "z": 590,
-                    "enabled": false,
-                    "addedAt": 1674752306357
-                },
-                {
-                    "name": "R",
-                    "x": 772,
-                    "y": 44,
-                    "z": 598,
-                    "enabled": false,
-                    "addedAt": 1674753380444
-                },
-                {
-                    "name": "R",
-                    "x": 773,
-                    "y": 47,
-                    "z": 595,
-                    "enabled": false,
-                    "addedAt": 1674752198019
-                },
-                {
-                    "name": "R",
-                    "x": 802,
-                    "y": 62,
-                    "z": 582,
-                    "enabled": false,
-                    "addedAt": 1674752708297
-                },
-                {
-                    "name": "R",
-                    "x": 815,
-                    "y": 53,
-                    "z": 564,
-                    "enabled": false,
-                    "addedAt": 1674752599193
-                },
-                {
-                    "name": "T",
-                    "x": 801,
-                    "y": 53,
-                    "z": 577,
-                    "enabled": false,
-                    "addedAt": 1674752430441
-                },
-                {
-                    "name": "T",
-                    "x": 818,
-                    "y": 57,
-                    "z": 613,
-                    "enabled": false,
-                    "addedAt": 1674752781758
-                },
-                {
-                    "name": "R",
-                    "x": 811,
-                    "y": 58,
-                    "z": 601,
-                    "enabled": false,
-                    "addedAt": 1674752729997
-                }
-            ],
-            "island": "crystal_hollows"
-        },
-        {
-            "name": "",
-            "waypoints": [
-                {
-                    "name": "Fire",
-                    "x": -7,
-                    "y": 131,
-                    "z": 227,
-                    "enabled": true,
-                    "addedAt": 1715219984716
-                }
-            ],
-            "island": "mining_3"
-        },
-        {
-            "name": "Sapphire",
-            "waypoints": [
-                {
-                    "name": "20",
-                    "x": 632,
-                    "y": 121,
-                    "z": 603,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "15",
-                    "x": 622,
-                    "y": 121,
-                    "z": 570,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "3",
-                    "x": 607,
-                    "y": 121,
-                    "z": 589,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "19",
-                    "x": 636,
-                    "y": 121,
-                    "z": 598,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "7",
-                    "x": 626,
-                    "y": 121,
-                    "z": 595,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "22",
-                    "x": 647,
-                    "y": 121,
-                    "z": 570,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "5",
-                    "x": 626,
-                    "y": 121,
-                    "z": 576,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "16",
-                    "x": 645,
-                    "y": 121,
-                    "z": 582,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "8",
-                    "x": 620,
-                    "y": 121,
-                    "z": 598,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "13",
-                    "x": 607,
-                    "y": 121,
-                    "z": 574,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "9",
-                    "x": 617,
-                    "y": 121,
-                    "z": 608,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "17",
-                    "x": 640,
-                    "y": 121,
-                    "z": 588,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "1",
-                    "x": 621,
-                    "y": 121,
-                    "z": 587,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "6",
-                    "x": 633,
-                    "y": 121,
-                    "z": 582,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "11",
-                    "x": 603,
-                    "y": 121,
-                    "z": 599,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "2",
-                    "x": 616,
-                    "y": 121,
-                    "z": 591,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "18",
-                    "x": 644,
-                    "y": 121,
-                    "z": 594,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "4",
-                    "x": 611,
-                    "y": 121,
-                    "z": 583,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "10",
-                    "x": 611,
-                    "y": 121,
-                    "z": 605,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "21",
-                    "x": 598,
-                    "y": 121,
-                    "z": 605,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "12",
-                    "x": 599,
-                    "y": 121,
-                    "z": 592,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "14",
-                    "x": 614,
-                    "y": 121,
-                    "z": 574,
-                    "enabled": false,
-                    "addedAt": 1654160216539
                 }
             ],
             "isExpanded": false,

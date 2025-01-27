@@ -3,4 +3,8 @@
 *.corrupted
 /TodoList
 /skyhanni/logs
-notenoughupdates/repo
+/skyhanni/repo
+/skytils/updates
+/notenoughupdates/repo
+/notenoughupdates/wkhtmltox-linux
+/notenoughupdates/wkhtmltox-win

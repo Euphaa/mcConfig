@@ -32,10 +32,10 @@
 		"separate_sound_&_texture_reloading" = false
 		unfocused_sounds = 1.0
 		log_optimizer = false
-		unfocused_fps = false
+		unfocused_fps = true
 		static_items = false
 		better_keybind_handling = true
-		unfocused_fps_amount = 60
+		unfocused_fps_amount = 144
 		remove_map_bobbing = false
 		disable_hotbar_scrolling = true
 		custom_fps_limit = 0
@@ -77,7 +77,7 @@
 		ridden_horse_opacity = 1.0
 		disable_breaking_particles = true
 		disable_lightning_bolts = false
-		show_own_nametag = false
+		show_own_nametag = true
 		clean_view = false
 		left_hand_in_first_person = false
 		clean_projectiles = false

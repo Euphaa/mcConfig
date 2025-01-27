@@ -114,7 +114,7 @@
 		larger_heads = 1.0
 		show_attribute_shard_level = false
 		show_item_quality_ = false
-		show_gemstones = true
+		show_gemstones = false
 		highlight_filled_bazaar_orders = false
 		show_dungeon_floor_as_stack_size = true
 		show_head_floor_number = false
@@ -173,7 +173,7 @@
 		power_orb_lock = false
 		show_coins_per_bit = true
 		hide_fishing_hooks = true
-		stop_clicking_non-salvageable_items = true
+		stop_clicking_non-salvageable_items = false
 		show_trophy_fish_totals = false
 		show_coins_per_copper = false
 		"spider's_den_rain_timer" = true
@@ -329,7 +329,7 @@
 		dungeon_crypts_counter = false
 
 	[dungeons.terminal_solvers]
-		predict_clicks_for_alignment_solver = false
+		predict_clicks_for_alignment_solver = true
 		change_all_to_same_color_solver = true
 		predict_clicks_for_simon_says_solver = false
 		click_in_order_first_color = "255,2,62,138"
@@ -430,7 +430,7 @@
 		blaze_solver = true
 		boulder_solver = true
 		show_next_blaze = true
-		water_board_solver = true
+		water_board_solver = false
 		find_correct_livid = true
 		tic_tac_toe_solver = true
 		teleport_maze_solver = true
@@ -481,7 +481,7 @@
 		raffle_waypoint = true
 
 	[mining.solvers]
-		puzzler_solver = true
+		puzzler_solver = false
 		fetchur_solver = false
 
 [spam]
