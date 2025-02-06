@@ -302,6 +302,7 @@
 		gui_button_press = 100
 		mcgo_gamesounds_throwinggrenade = 100
 		alert_modes_meme_bedrock_wall = 100
+		skill_xp = 100
 		mcgo_gamesounds_oneenemyleft = 100
 		mcgo_taunts_behindyou = 100
 		mcgo_random_reload_end = 100
@@ -382,6 +383,7 @@
 		mcgo_gamesounds_swappingsides = 100
 		mcgo_gamesounds_wilhelm = 100
 		alert_modes_meme_scatha = 100
+		splash_notification = 100
 		mcgo_callouts_followme = 100
 		mcgo_weapons_shotgunshot = 100
 		mcgo_gamesounds_droppedagun = 100

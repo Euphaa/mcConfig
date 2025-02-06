@@ -4,6 +4,10 @@
         "keyCode": 201
     },
     {
+        "message": "/wardrobe 2",
+        "keyCode": 48
+    },
+    {
         "message": "/setspawn",
         "keyCode": 210
     },

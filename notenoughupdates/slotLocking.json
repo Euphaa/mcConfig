@@ -270,6 +270,96 @@
         }
       ]
     },
+    "Cucumber": {
+      "slotLockData": [
+        {
+          "lockedSlots": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "riftLockedSlots": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    },
     "generic": {
       "slotLockData": [
         {
@@ -380,8 +470,14 @@
               "locked": false,
               "boundTo": -1
             },
-            null,
-            null,
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
             {
               "locked": false,
               "boundTo": -1
@@ -457,7 +553,10 @@
               "boundTo": -1
             },
             null,
-            null,
+            {
+              "locked": false,
+              "boundTo": -1
+            },
             null,
             {
               "locked": false,

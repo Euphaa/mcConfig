@@ -23,13 +23,13 @@
 
 	[general.other]
 		always_sprint_in_skyblock = false
-		config_button_on_pause = true
+		config_button_on_pause = false
 		reopen_options_menu = true
 		first_launch = false
 		last_launched_skytils_version = "1.10.9-pre1"
 
 	[general.reparty]
-		override_other_reparty_commands = true
+		override_other_reparty_commands = false
 		auto-accept_reparty_timeout = 60
 		auto-accept_reparty = true
 
@@ -39,19 +39,19 @@
 
 	[general.command_aliases]
 		command_alias_subcommands = false
-		command_alias_mode = 0
+		command_alias_mode = 1
 
 	[general.api]
 		hypixel_api_key = "2d6db34d-0110-401a-afd1-9f6d0cc1b3ed"
-		fetch_kuudra_prices = false
+		fetch_kuudra_prices = true
 		fetch_lowest_bin_prices = true
 		connect_to_skytils_ws_server = true
 		skytils_data = "https://cdn.jsdelivr.net/gh/Skytils/SkytilsMod-Data@main/"
 
 	[general.hypixel]
 		multiple_party_invites_fix = false
-		guild_leave_confirmation = true
-		coop_add_confirmation = true
+		guild_leave_confirmation = false
+		coop_add_confirmation = false
 
 	[general.updates]
 		update_channel = 1
@@ -66,12 +66,12 @@
 		also_copy_very_rare_drops_to_clipboard = false
 		transparent_armor_layer = 1.0
 		auto_copy_rng_drops_to_clipboard = false
-		random_stuff = true
+		random_stuff = false
 		players_in_range_display = false
 		"mark_'dirty'_items" = true
 		head_layer_transparency = 1.0
 		cap_legion_display = true
-		scam_check = true
+		scam_check = false
 		legion_player_display = true
 		show_bestiary_level = false
 		transparent_head_layer = 1.0
@@ -81,7 +81,7 @@
 		copy_deaths_to_clipboard = false
 		endstone_protector_spawn_timer = false
 		dupe_tracker_overlay_color = "169,0,0,0"
-		placed_summoning_eye_display = true
+		placed_summoning_eye_display = false
 
 	[miscellaneous.brewing]
 		color_brewing_stands = false
@@ -94,16 +94,16 @@
 
 	[miscellaneous.fixes]
 		prevent_log_spam = true
-		twitch_fix = true
+		twitch_fix = false
 		inject_fake_dungeon_map = false
 		boss_bar_fix = true
-		fix_world_time = true
+		fix_world_time = false
 		fix_falling_sand_rendering = false
 		fix_sba_chroma = false
 
 	[miscellaneous.items]
-		show_npc_sell_price = true
-		price_paid = true
+		show_npc_sell_price = false
+		price_paid = false
 		item_stars_display = 0
 		dropped_item_scale = 1.0
 		show_dungeon_item_level = true
@@ -120,9 +120,9 @@
 		show_head_floor_number = false
 		book_helper = true
 		show_item_star_count = true
-		hide_midas_staff_gold = true
+		hide_midas_staff_gold = false
 		block_zapper_fatigue_timer = false
-		combine_helper = false
+		combine_helper = true
 		show_enchanted_book_abbreviation = false
 		held_item_scale = 1.0
 		item_cooldown_display = false
@@ -138,8 +138,8 @@
 		compact_item_stars = true
 		radioactive_bonus = false
 		disable_block_animation = false
-		show_item_origin = false
-		etherwarp_teleport_position_color = "69,0,0,255"
+		show_item_origin = true
+		etherwarp_teleport_position_color = "255,255,0,209"
 
 	[miscellaneous.item_rarity]
 		item_rarity_shape = 0
@@ -154,12 +154,12 @@
 
 	[miscellaneous.quality_of_life]
 		hide_vanilla_health_display = false
-		hide_cheap_coins = false
+		hide_cheap_coins = true
 		container_sell_value = true
 		boss_bar_fix = false
-		hide_jerry_rune = false
-		party_addons = false
-		show_arachne_spawn = true
+		hide_jerry_rune = true
+		party_addons = true
+		show_arachne_spawn = false
 		show_lowest_bin_price = false
 		trophy_fish_tracker = false
 		dungeon_pot_lock = 0
@@ -176,7 +176,7 @@
 		stop_clicking_non-salvageable_items = false
 		show_trophy_fish_totals = false
 		show_coins_per_copper = false
-		"spider's_den_rain_timer" = true
+		"spider's_den_rain_timer" = false
 		view_relic_waypoints = false
 		stop_hook_sinking_in_lava = true
 		restock_arrows_warning = 0
@@ -192,7 +192,7 @@
 		no_fire = true
 		show_arachne_hp = true
 		tropy_fish_tracker = false
-		custom_auction_price_input = true
+		custom_auction_price_input = false
 		low_health_vignette_threshold = 0.0
 		custom_damage_splash_style = 0
 		protect_starred_items = true
@@ -232,7 +232,7 @@
 	current_tarantula_rng_meter = 0.0
 
 	[slayer.general]
-		use_hits_to_detect_slayer = true
+		use_hits_to_detect_slayer = false
 		carry_mode = 0
 		use_nametag_to_detect_slayer = false
 
@@ -342,7 +342,7 @@
 		item_frame_alignment_solver = true
 		select_all_colors_solver = true
 		click_in_order_second_color = "255,65,102,245"
-		block_incorrect_terminal_clicks = false
+		block_incorrect_terminal_clicks = true
 		simon_says_solver = true
 
 	[dungeons.score_calculation]
@@ -405,7 +405,7 @@
 		spirit_pet_warning = false
 		"show_wither_king's_dragons'_spawn_timer" = true
 		box_spirit_bear = true
-		box_skeleton_masters = true
+		box_skeleton_masters = false
 		dungeon_chest_reroll_protection_threshold = 0
 		show_guardian_respawn_timer = true
 		hide_archer_bone_passive = false
@@ -463,22 +463,22 @@
 	[mining.crystal_hollows]
 		crystal_hollows_chat_coordinates_grabber = true
 		crystal_hollows_waypoints = true
-		crystal_hollows_death_waypoints = true
-		king_yolkar_waypoint = false
-		crystal_hollows_map_special_places = true
-		crystal_hollows_treasure_helper = true
+		crystal_hollows_death_waypoints = false
+		king_yolkar_waypoint = true
+		crystal_hollows_map_special_places = false
+		crystal_hollows_treasure_helper = false
 		crystal_hollows_map = false
 
 	[mining.quality_of_life]
 		powder_ghast_ping = false
 		skymall_reminder = false
-		raffle_warning = true
+		raffle_warning = false
 		dark_mode_mist = false
-		recolor_carpets = true
+		recolor_carpets = false
 		highlight_completed_commissions = false
 		highlight_disabled_hotm_perks = false
 		more_visible_ghosts = false
-		raffle_waypoint = true
+		raffle_waypoint = false
 
 	[mining.solvers]
 		puzzler_solver = false
@@ -507,7 +507,7 @@
 		cooldown_hider = 2
 		blocks_in_the_way_hider = 1
 		auto-recombobulator_hider = 0
-		out_of_mana_hider = 1
+		out_of_mana_hider = 2
 		pristine_hider = 0
 		"can't_use_ability_hider" = 1
 		wind_direction_hider = 1
@@ -555,10 +555,10 @@
 		track_mythological_creatures = false
 		"show_fast-travel:_museum" = false
 		griffin_burrow_estimation = false
-		broadcast_rare_drop_notifications = true
+		broadcast_rare_drop_notifications = false
 		show_griffin_burrows = false
 		burrow_particle_add-on = false
-		display_gaia_construct_hits = true
+		display_gaia_construct_hits = false
 		"empty/start_burrow_color" = "255,173,216,230"
 		ping_when_burrow_is_nearby = false
 		"griffin_burrow_estimation_(meow)" = false
@@ -570,9 +570,9 @@
 		"show_fast-travel:_hub" = false
 
 	[events.spooky]
-		trick_or_treat_chest_alert = true
+		trick_or_treat_chest_alert = false
 
 	[events.technoblade]
-		show_shiny_orb_waypoints = true
+		show_shiny_orb_waypoints = false
 		show_shiny_pig_locations = false
 

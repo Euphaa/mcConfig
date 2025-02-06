@@ -1,5 +1,15 @@
 {
   "itemData": {
+    "c5ba2210-4170-473a-950f-813fdae9594f": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": true,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:leather_boots",
+      "customItem": "leather_boots"
+    },
     "4becf241-5e68-493a-b93a-9ceefe28c51b": {
       "customNamePrefix": "",
       "overrideEnchantGlint": true,
@@ -147,9 +157,29 @@
       "defaultItem": "minecraft:blaze_rod",
       "customItem": "blaze_rod"
     },
+    "8dd0f244-ef67-475c-830b-b7a187bd74b1": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": true,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:leather_leggings",
+      "customItem": "leather_leggings"
+    },
     "6358dc7d-509e-4de5-aa6c-129a25b6112a": {
       "customNamePrefix": "",
       "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:leather_chestplate",
+      "customItem": "leather_chestplate"
+    },
+    "d71689f9-8dd1-4352-84ff-0921e7ba23b3": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": true,
       "enchantGlintValue": false,
       "customGlintColour": "0:204:100:25:255",
       "animatedDyeTicks": 2,

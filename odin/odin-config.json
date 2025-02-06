@@ -115,7 +115,7 @@
   },
   {
     "name": "Mimic",
-    "enabled": false,
+    "enabled": true,
     "settings": [
       {
         "Toggle Mimic Message": true
@@ -409,10 +409,10 @@
   },
   {
     "name": "Puzzle Solvers",
-    "enabled": false,
+    "enabled": true,
     "settings": [
       {
-        "Water Board Solver": false
+        "Water Board Solver": true
       },
       {
         "Show Tracer": true
@@ -691,7 +691,7 @@
   },
   {
     "name": "Terminal Solver",
-    "enabled": true,
+    "enabled": false,
     "settings": [
       {
         "Mode": "Odin"
@@ -1198,10 +1198,10 @@
         "Last seen version": "1.2.5.beta15"
       },
       {
-        "DUNGEON,x": 27.0
+        "DUNGEON,x": 23.0
       },
       {
-        "DUNGEON,y": 19.0
+        "DUNGEON,y": 55.0
       },
       {
         "DUNGEON,extended": true
@@ -1501,19 +1501,19 @@
         "From All Chat": true
       },
       {
-        "Ping Location": false
+        "Ping Location": true
       },
       {
-        "Ping Location Keybind": 0
+        "Ping Location Keybind": 45
       },
       {
-        "Send Pinged Location": false
+        "Send Pinged Location": true
       },
       {
         "Ping Waypoint Time": 15000.0
       },
       {
-        "Ping Distance": 64.0
+        "Ping Distance": 128.0
       },
       {
         "Keybind": 0
@@ -1822,7 +1822,7 @@
         "Dice": true
       },
       {
-        "Party transfer (pt)": false
+        "Party transfer (pt)": true
       },
       {
         "Ping": true
@@ -2077,7 +2077,7 @@
         "Wardrobe 1": 16
       },
       {
-        "Wardrobe 2": 33
+        "Wardrobe 2": 3
       },
       {
         "Wardrobe 3": 4
@@ -2086,7 +2086,7 @@
         "Wardrobe 4": 5
       },
       {
-        "Wardrobe 5": 19
+        "Wardrobe 5": 6
       },
       {
         "Wardrobe 6": 7
@@ -2848,13 +2848,13 @@
   },
   {
     "name": "Camera",
-    "enabled": true,
+    "enabled": false,
     "settings": [
       {
         "No Front Camera": false
       },
       {
-        "FOV": 112.0
+        "FOV": 110.0
       },
       {
         "Keybind": 0
