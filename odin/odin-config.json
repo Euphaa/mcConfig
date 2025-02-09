@@ -94,7 +94,7 @@
   },
   {
     "name": "Key Highlight",
-    "enabled": false,
+    "enabled": true,
     "settings": [
       {
         "Style": "Filled"
@@ -334,7 +334,7 @@
         "Filled": false
       },
       {
-        "Through walls": false
+        "Through walls": true
       },
       {
         "Use block size": true
@@ -400,7 +400,7 @@
         "Reset Leap Helper Delay": 30.0
       },
       {
-        "Leap Announce": false
+        "Leap Announce": true
       },
       {
         "Keybind": 0
@@ -2749,19 +2749,19 @@
   },
   {
     "name": "Simon Says",
-    "enabled": false,
+    "enabled": true,
     "settings": [
       {
         "Style": "Filled"
       },
       {
-        "Line Width": 2.0000000298023224
+        "Line Width": 5.000000074505806
       },
       {
         "Depth check": false
       },
       {
-        "Clear After": false
+        "Clear After": true
       },
       {
         "Keybind": 0

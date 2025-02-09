@@ -89,7 +89,7 @@
 		add_background_to_actionbar = false
 		smart_fullbright = true
 		alternate_text_shadow = false
-		fullbright = false
+		fullbright = true
 		add_text_shadow_to_actionbar = false
 
 	[miscellaneous.titles]

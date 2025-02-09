@@ -20,12 +20,17 @@
         "keyCode": 209
     },
     {
-        "message": "/warp garden",
-        "keyCode": 181
+        "message": "/viewstash material",
+        "keyCode": 184,
+        "modifiers": 2
     },
     {
         "message": "/warp",
         "keyCode": 74
+    },
+    {
+        "message": "/warp garden",
+        "keyCode": 181
     },
     {
         "message": "/equipment",

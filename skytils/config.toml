@@ -26,7 +26,7 @@
 		config_button_on_pause = false
 		reopen_options_menu = true
 		first_launch = false
-		last_launched_skytils_version = "1.10.9-pre1"
+		last_launched_skytils_version = "1.10.9"
 
 	[general.reparty]
 		override_other_reparty_commands = false
@@ -133,7 +133,7 @@
 		stacking_enchant_progress_display = false
 		show_pet_candies = true
 		wither_shield_has_wither_impact = true
-		show_etherwarp_teleport_position = false
+		show_etherwarp_teleport_position = true
 		dropped_item_size = 1.46
 		compact_item_stars = true
 		radioactive_bonus = false
@@ -464,6 +464,7 @@
 		crystal_hollows_chat_coordinates_grabber = true
 		crystal_hollows_waypoints = true
 		crystal_hollows_death_waypoints = false
+		crystal_hollows_map_player_arrow_scale = 2.25
 		king_yolkar_waypoint = true
 		crystal_hollows_map_special_places = false
 		crystal_hollows_treasure_helper = false
