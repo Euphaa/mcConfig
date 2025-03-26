@@ -42,6 +42,17 @@
       "defaultItem": "minecraft:dropper",
       "customItem": "dropper"
     },
+    "d52c4f9d-8c48-473e-bf4f-58f71caf4e20": {
+      "customName": "Renowned Crown Of Avarice",
+      "customNamePrefix": "§9",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:skull",
+      "customItem": "skull:CROWN_OF_AVARICE"
+    },
     "7f938746-5e06-4326-b40a-ed58b8ef9d90": {
       "customNamePrefix": "",
       "overrideEnchantGlint": false,
@@ -166,6 +177,16 @@
       "dyeMode": "CYCLING",
       "defaultItem": "minecraft:leather_leggings",
       "customItem": "leather_leggings"
+    },
+    "bddffd36-c20e-4ba6-88bf-7e9ef77a6fb8": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:iron_sword",
+      "customItem": "iron_sword"
     },
     "6358dc7d-509e-4de5-aa6c-129a25b6112a": {
       "customNamePrefix": "",

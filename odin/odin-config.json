@@ -52,10 +52,10 @@
         "Wisdom Color": "#55FFFFFF"
       },
       {
-        "Display x": 28.0
+        "Display x": 30.0
       },
       {
-        "Display y": 53.0
+        "Display y": 57.0
       },
       {
         "Display scale": 1.0
@@ -96,6 +96,9 @@
     "name": "Key Highlight",
     "enabled": true,
     "settings": [
+      {
+        "Announce Key Spawn": true
+      },
       {
         "Style": "Filled"
       },
@@ -265,7 +268,7 @@
         "Locked Color": "#FF000066"
       },
       {
-        "Time To Stay (seconds)": 7.0
+        "Time To Stay": 7.0
       },
       {
         "Use Real Size": true
@@ -317,6 +320,9 @@
       },
       {
         "Render Title": true
+      },
+      {
+        "Title Scale": 1.0000000149011612
       },
       {
         "Global Depth": false
@@ -424,7 +430,7 @@
         "Tracer Color Second": "#FFAA00FF"
       },
       {
-        "Teleport Maze": false
+        "TP Maze Solver": false
       },
       {
         "Color for one": "#00FF007F"
@@ -445,13 +451,16 @@
         "Use Optimized Patterns": false
       },
       {
-        "Blaze Solver": false
+        "Blaze Solver": true
       },
       {
         "Blaze Solver Next Line": true
       },
       {
         "Blaze Solver Lines": 1.0
+      },
+      {
+        "Blaze Solver Lines Width": 2.0
       },
       {
         "Blaze Style": "Outline"
@@ -478,19 +487,19 @@
         "Creeper Beams Solver": false
       },
       {
-        "Beam Style": "Filled Outline"
+        "Beams Style": "Filled Outline"
       },
       {
-        "Tracer": false
+        "Beams Tracer": false
       },
       {
-        "Color Alpha": 0.7000000104308128
+        "Beams Color Alpha": 0.7000000104308128
       },
       {
         "Weirdos Solver": false
       },
       {
-        "Weirdos Color": "#00FF00B2"
+        "Weirdos Correct Color": "#00FF00B2"
       },
       {
         "Weirdos Wrong Color": "#FF0000B2"
@@ -703,19 +712,16 @@
         "Custom Scale": 1.0000000149011612
       },
       {
-        "Text Shadow": true
-      },
-      {
-        "Lock Rubix Solution": true
-      },
-      {
         "Stop Tooltips": true
       },
       {
-        "Block Incorrect Clicks": true
+        "Hide Clicked": false
       },
       {
         "Middle Click GUI": true
+      },
+      {
+        "Block Incorrect Clicks": true
       },
       {
         "Stop Melody Solver": false
@@ -749,9 +755,6 @@
       },
       {
         "Custom Gui Color": "#1A1A1ACC"
-      },
-      {
-        "Text Color": "#DCDCDCFF"
       },
       {
         "Panes Color": "#00AAAAFF"
@@ -823,16 +826,19 @@
   },
   {
     "name": "Melody Message",
-    "enabled": false,
+    "enabled": true,
     "settings": [
       {
-        "Send Melody Message": true
+        "Send Melody Message": false
       },
       {
-        "Melody Message": "Melody Terminal start!"
+        "Melody Message": ""
       },
       {
-        "Melody Progress": false
+        "Melody Progress": true
+      },
+      {
+        "Melody Send Coords": false
       },
       {
         "Keybind": 0
@@ -946,9 +952,6 @@
         "Dragon Timer": true
       },
       {
-        "Add Useless Decimal": false
-      },
-      {
         "Dragon Timer HUD x": 10.0
       },
       {
@@ -970,7 +973,7 @@
         "Dragon Title": true
       },
       {
-        "Dragon Tracer": false
+        "Dragon Tracer": true
       },
       {
         "Tracer Width": 5.0
@@ -997,13 +1000,13 @@
         "Dragon Health": true
       },
       {
-        "Dragon Priority": false
+        "Dragon Priority": true
       },
       {
-        "Normal Power": 22.0
+        "Normal Power": 0.0
       },
       {
-        "Easy Power": 19.0
+        "Easy Power": 0.0
       },
       {
         "Purple Solo Debuff": "Tank"
@@ -1051,16 +1054,7 @@
     "enabled": false,
     "settings": [
       {
-        "Send Message": false
-      },
-      {
         "Ping": 0.0
-      },
-      {
-        "Random Terminals": 1.0
-      },
-      {
-        "Open Start": false
       },
       {
         "Keybind": 0
@@ -1195,7 +1189,7 @@
         "First join": true
       },
       {
-        "Last seen version": "1.2.5.beta15"
+        "Last seen version": "1.2.5.beta16"
       },
       {
         "DUNGEON,x": 23.0
@@ -1447,10 +1441,280 @@
         "Remove Explosion": false
       },
       {
-        "Hide P5 Particles": true
+        "Hide P5 Particles": false
       },
       {
         "Hide Heart Particles": false
+      },
+      {
+        "Potato Mode (exp)": false
+      },
+      {
+        "Show Starred Nametags": false
+      },
+      {
+        "Player": "#000000FF"
+      },
+      {
+        "Cave Spider": "#6600FFFF"
+      },
+      {
+        "Spider": "#666666FF"
+      },
+      {
+        "Pig": "#FF66FFFF"
+      },
+      {
+        "Sheep": "#FFFFFFFF"
+      },
+      {
+        "Cow": "#00FF00FF"
+      },
+      {
+        "Mooshroom": "#FF0000FF"
+      },
+      {
+        "Wolf": "#808080FF"
+      },
+      {
+        "Chicken": "#FDDA0DFF"
+      },
+      {
+        "Ocelot": "#FFCC00FF"
+      },
+      {
+        "Rabbit": "#F5F5DCFF"
+      },
+      {
+        "Silverfish": "#B3B3B3FF"
+      },
+      {
+        "Endermite": "#8A2BE2FF"
+      },
+      {
+        "Creeper": "#00FF00FF"
+      },
+      {
+        "Enderman": "#330066FF"
+      },
+      {
+        "Snowman": "#F0F0F0FF"
+      },
+      {
+        "Skeleton": "#333333FF"
+      },
+      {
+        "Witch": "#800080FF"
+      },
+      {
+        "Blaze": "#FF6600FF"
+      },
+      {
+        "Pig Zombie": "#FF00FFFF"
+      },
+      {
+        "Zombie": "#00FF00FF"
+      },
+      {
+        "Slime": "#00FF00FF"
+      },
+      {
+        "Magma Cube": "#FF3333FF"
+      },
+      {
+        "Ghast": "#FF0066FF"
+      },
+      {
+        "Squid": "#55FFFFFF"
+      },
+      {
+        "Villager": "#A9A9A9FF"
+      },
+      {
+        "Iron Golem": "#A8A8A8FF"
+      },
+      {
+        "Bat": "#4F4F4FFF"
+      },
+      {
+        "Guardian": "#0033FFFF"
+      },
+      {
+        "Dragon": "#6600CCFF"
+      },
+      {
+        "Wither": "#000000FF"
+      },
+      {
+        "XP Orb": "#FDDA0DFF"
+      },
+      {
+        "Armor Stand": "#A9A9A9FF"
+      },
+      {
+        "Horse": "#996633FF"
+      },
+      {
+        "Painting": "#FFFFFFFF"
+      },
+      {
+        "Arrow": "#FFFFFFFF"
+      },
+      {
+        "Snowball": "#FFFFFFFF"
+      },
+      {
+        "Ender Pearl": "#FFFFFFFF"
+      },
+      {
+        "Egg": "#FFFFFFFF"
+      },
+      {
+        "Potion": "#FFFFFFFF"
+      },
+      {
+        "Exp Bottle": "#FFFFFFFF"
+      },
+      {
+        "Wither Skull": "#FFFFFFFF"
+      },
+      {
+        "Item": "#FFFFFFFF"
+      },
+      {
+        "Boat": "#FFFFFFFF"
+      },
+      {
+        "Render Player": true
+      },
+      {
+        "Render Cave Spider": true
+      },
+      {
+        "Render Spider": true
+      },
+      {
+        "Render Pig": true
+      },
+      {
+        "Render Sheep": true
+      },
+      {
+        "Render Cow": true
+      },
+      {
+        "Render Mooshroom": true
+      },
+      {
+        "Render Wolf": true
+      },
+      {
+        "Render Chicken": true
+      },
+      {
+        "Render Ocelot": true
+      },
+      {
+        "Render Rabbit": true
+      },
+      {
+        "Render Silverfish": true
+      },
+      {
+        "Render Endermite": true
+      },
+      {
+        "Render Creeper": true
+      },
+      {
+        "Render Enderman": true
+      },
+      {
+        "Render Snowman": true
+      },
+      {
+        "Render Skeleton": true
+      },
+      {
+        "Render Witch": true
+      },
+      {
+        "Render Blaze": true
+      },
+      {
+        "Render Pig Zombie": true
+      },
+      {
+        "Render Zombie": true
+      },
+      {
+        "Render Slime": true
+      },
+      {
+        "Render Magma Cube": true
+      },
+      {
+        "Render Ghast": true
+      },
+      {
+        "Render Squid": true
+      },
+      {
+        "Render Villager": true
+      },
+      {
+        "Render Iron Golem": true
+      },
+      {
+        "Render Bat": true
+      },
+      {
+        "Render Guardian": true
+      },
+      {
+        "Render Dragon": true
+      },
+      {
+        "Render Wither": true
+      },
+      {
+        "Render XP Orb": true
+      },
+      {
+        "Render Armor Stand": true
+      },
+      {
+        "Render Horse": true
+      },
+      {
+        "Render Painting": true
+      },
+      {
+        "Render Arrow": true
+      },
+      {
+        "Render Snowball": true
+      },
+      {
+        "Render Ender Pearl": true
+      },
+      {
+        "Render Egg": true
+      },
+      {
+        "Render Potion": true
+      },
+      {
+        "Render Exp Bottle": true
+      },
+      {
+        "Render Wither Skull": true
+      },
+      {
+        "Render Item": true
+      },
+      {
+        "Render Boat": true
       },
       {
         "Keybind": 0
@@ -1546,19 +1810,19 @@
   },
   {
     "name": "Animations",
-    "enabled": false,
+    "enabled": true,
     "settings": [
       {
-        "Size": 0.0
+        "Size": -0.6000000000000001
       },
       {
-        "X": 0.0
+        "X": -0.15000000000000002
       },
       {
-        "Y": 0.0
+        "Y": 0.4
       },
       {
-        "Z": 0.0
+        "Z": 0.05
       },
       {
         "Yaw": 0.0
@@ -1570,16 +1834,16 @@
         "Roll": 0.0
       },
       {
-        "Speed": 0.0
+        "Speed": -1.35
       },
       {
-        "Ignore Haste": false
+        "Ignore Haste": true
       },
       {
-        "Block Hit": false
+        "Block Hit": true
       },
       {
-        "No Equip Reset": false
+        "No Equip Reset": true
       },
       {
         "No Swing": false
@@ -1622,6 +1886,9 @@
       },
       {
         "Line Smoothing": true
+      },
+      {
+        "Disable When Etherwarping": true
       },
       {
         "Keybind": 0
@@ -1704,6 +1971,9 @@
     "name": "Hide Armor",
     "enabled": false,
     "settings": [
+      {
+        "Hide Only Players": false
+      },
       {
         "Hide Armor": "Both"
       },
@@ -2062,13 +2332,13 @@
         "Unequip Keybind": 0
       },
       {
-        "Next Page Keybind": 0
+        "Next Page Keybind": 32
       },
       {
-        "Previous Page Keybind": 0
+        "Previous Page Keybind": 30
       },
       {
-        "Delay": 300.0
+        "Delay": 480.0
       },
       {
         "Disable Unequip": true
@@ -2107,7 +2377,7 @@
   },
   {
     "name": "Invincibility Timer",
-    "enabled": false,
+    "enabled": true,
     "settings": [
       {
         "Show Cooldown": true
@@ -2116,16 +2386,16 @@
         "Announce Invincibility": true
       },
       {
-        "Timer Hud x": 10.0
+        "Timer Hud x": 1151.0
       },
       {
-        "Timer Hud y": 10.0
+        "Timer Hud y": 773.0
       },
       {
-        "Timer Hud scale": 1.0
+        "Timer Hud scale": 4.899999890476465
       },
       {
-        "Timer Hud enabled": false
+        "Timer Hud enabled": true
       },
       {
         "Show Prefix": true
@@ -2563,10 +2833,10 @@
         "Use Scaled": true
       },
       {
-        "Health Display x": 10.0
+        "Health Display x": 48.0
       },
       {
-        "Health Display y": 10.0
+        "Health Display y": 33.0
       },
       {
         "Health Display scale": 1.0
@@ -2752,6 +3022,15 @@
     "enabled": true,
     "settings": [
       {
+        "First Color": "#00FF007F"
+      },
+      {
+        "Second Color": "#FFAA007F"
+      },
+      {
+        "Third Color": "#FF00007F"
+      },
+      {
         "Style": "Filled"
       },
       {
@@ -2761,7 +3040,7 @@
         "Depth check": false
       },
       {
-        "Clear After": true
+        "Block Wrong Clicks": false
       },
       {
         "Keybind": 0
@@ -2796,20 +3075,20 @@
     ]
   },
   {
-    "name": "Ether Warp Helper",
-    "enabled": true,
+    "name": "Etherwarp Helper",
+    "enabled": false,
     "settings": [
       {
         "Show Etherwarp Guess": true
       },
       {
-        "Color": "#2EFF38E8"
+        "Color": "#FFAA007F"
       },
       {
         "Show when failed": true
       },
       {
-        "Wrong Color": "#F62323C3"
+        "Wrong Color": "#FF00007F"
       },
       {
         "Style": "Filled"
@@ -2819,6 +3098,9 @@
       },
       {
         "Depth check": false
+      },
+      {
+        "Full Block": false
       },
       {
         "Expand": 0.0
@@ -2854,7 +3136,10 @@
         "No Front Camera": false
       },
       {
-        "FOV": 110.0
+        "Custom FOV": false
+      },
+      {
+        "FOV": 135.0
       },
       {
         "Keybind": 0
@@ -2869,13 +3154,13 @@
         "Hide all": false
       },
       {
-        "distance": 3.0
+        "distance": 2.0
       },
       {
         "only at Devs": false
       },
       {
-        "Keybind": 0
+        "Keybind": 184
       }
     ]
   }

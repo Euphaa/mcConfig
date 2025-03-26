@@ -26,7 +26,7 @@
 		config_button_on_pause = false
 		reopen_options_menu = true
 		first_launch = false
-		last_launched_skytils_version = "1.10.9"
+		last_launched_skytils_version = "1.10.10"
 
 	[general.reparty]
 		override_other_reparty_commands = false
@@ -102,9 +102,9 @@
 		fix_sba_chroma = false
 
 	[miscellaneous.items]
-		show_npc_sell_price = false
+		show_npc_sell_price = true
 		price_paid = false
-		item_stars_display = 0
+		item_stars_display = 1
 		dropped_item_scale = 1.0
 		show_dungeon_item_level = true
 		show_attribute_shard_abbreviation = false
@@ -427,7 +427,7 @@
 		three_weirdos_solver_color = "255,255,0,0"
 		trivia_solver = true
 		highest_blaze_color = "200,255,0,0"
-		blaze_solver = true
+		blaze_solver = false
 		boulder_solver = true
 		show_next_blaze = true
 		water_board_solver = false

@@ -36,6 +36,7 @@
 		rotate_map = false
 		map_enabled = true
 		show_player_names = 1
+		show_before_start = false
 		hide_in_boss = false
 
 	[map.render]
@@ -63,4 +64,11 @@
 		normal_room = "255,107,58,17"
 		trap_room = "255,216,127,51"
 		miniboss_room = "255,254,223,0"
+
+	[colors.players]
+		"player_border_color_(mage)" = "255,0,0,0"
+		"player_border_color_(berserk)" = "255,0,0,0"
+		"player_border_color_(archer)" = "255,0,0,0"
+		"player_border_color_(healer)" = "255,0,0,0"
+		"player_border_color_(tank)" = "255,0,0,0"
 
