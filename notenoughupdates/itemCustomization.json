@@ -10,6 +10,16 @@
       "defaultItem": "minecraft:leather_boots",
       "customItem": "leather_boots"
     },
+    "66d24a89-f963-417b-83bb-2882e5e78050": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:dropper",
+      "customItem": "dropper"
+    },
     "4becf241-5e68-493a-b93a-9ceefe28c51b": {
       "customNamePrefix": "",
       "overrideEnchantGlint": true,

@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "regex": "Twilight Arrow Poison",
+        "text": "u got sum poison bruh",
+        "ticks": 100,
+        "enabled": true
+    }
+]

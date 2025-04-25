@@ -1054,7 +1054,7 @@
     "enabled": false,
     "settings": [
       {
-        "Ping": 0.0
+        "Ping": 500.0
       },
       {
         "Keybind": 0
@@ -1408,7 +1408,7 @@
     "enabled": true,
     "settings": [
       {
-        "Remove Falling Blocks": true
+        "Remove Falling Blocks": false
       },
       {
         "Remove P5 Tentacles": true
@@ -3019,7 +3019,7 @@
   },
   {
     "name": "Simon Says",
-    "enabled": true,
+    "enabled": false,
     "settings": [
       {
         "First Color": "#00FF007F"

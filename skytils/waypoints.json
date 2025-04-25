@@ -1,425 +1,282 @@
 {
     "categories": [
         {
-            "name": "Amethyst Dillo",
+            "name": "",
             "waypoints": [
                 {
-                    "name": "39",
-                    "x": 257,
-                    "y": 183,
-                    "z": 227,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044940220
+                    "name": "",
+                    "x": 161,
+                    "y": 141,
+                    "z": 38,
+                    "enabled": true,
+                    "color": -6225665,
+                    "addedAt": 1741569751131
                 },
                 {
                     "name": "13",
-                    "x": 211,
-                    "y": 181,
-                    "z": 250,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044423018
+                    "x": 144,
+                    "y": 128,
+                    "z": 43,
+                    "enabled": true,
+                    "addedAt": 1741566690831
                 },
                 {
-                    "name": "20++++",
-                    "x": 271,
-                    "y": 186,
-                    "z": 298,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672220573215
+                    "name": "a-15",
+                    "x": 132,
+                    "y": 132,
+                    "z": 46,
+                    "enabled": true,
+                    "addedAt": 1741566758383
                 },
                 {
-                    "name": "18 ( I dont use )",
-                    "x": 256,
-                    "y": 187,
-                    "z": 251,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044557418
-                },
-                {
-                    "name": "28",
-                    "x": 303,
-                    "y": 183,
-                    "z": 275,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044721069
-                },
-                {
-                    "name": "20 ( U can skip it )",
-                    "x": 253,
-                    "y": 178,
-                    "z": 275,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044597269
-                },
-                {
-                    "name": "09",
-                    "x": 204,
-                    "y": 167,
-                    "z": 225,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044357969
-                },
-                {
-                    "name": "06",
-                    "x": 208,
-                    "y": 171,
-                    "z": 204,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044278177
-                },
-                {
-                    "name": "27",
-                    "x": 301,
-                    "y": 187,
-                    "z": 273,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044708972
-                },
-                {
-                    "name": "20+",
-                    "x": 240,
-                    "y": 174,
-                    "z": 287,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672220330113
-                },
-                {
-                    "name": "12",
-                    "x": 206,
-                    "y": 181,
-                    "z": 241,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044403218
-                },
-                {
-                    "name": "26",
-                    "x": 296,
-                    "y": 183,
-                    "z": 273,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044688419
-                },
-                {
-                    "name": "25",
-                    "x": 287,
-                    "y": 185,
-                    "z": 270,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044669970
-                },
-                {
-                    "name": "32",
-                    "x": 291,
-                    "y": 173,
-                    "z": 245,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044816972
-                },
-                {
-                    "name": "31",
-                    "x": 294,
-                    "y": 177,
-                    "z": 259,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044769967
-                },
-                {
-                    "name": "14",
-                    "x": 219,
-                    "y": 181,
-                    "z": 249,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044431169
-                },
-                {
-                    "name": "41",
-                    "x": 256,
-                    "y": 175,
-                    "z": 218,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044967118
-                },
-                {
-                    "name": "15",
-                    "x": 217,
-                    "y": 183,
-                    "z": 239,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044439520
-                },
-                {
-                    "name": "23",
-                    "x": 276,
-                    "y": 187,
-                    "z": 262,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044637818
-                },
-                {
-                    "name": "17",
-                    "x": 244,
-                    "y": 181,
-                    "z": 248,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044463069
-                },
-                {
-                    "name": "02",
-                    "x": 225,
-                    "y": 181,
-                    "z": 210,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672043946300
-                },
-                {
-                    "name": "04",
-                    "x": 217,
-                    "y": 182,
-                    "z": 212,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044247621
-                },
-                {
-                    "name": "16",
-                    "x": 228,
-                    "y": 185,
-                    "z": 238,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044451119
-                },
-                {
-                    "name": "37",
-                    "x": 256,
-                    "y": 174,
-                    "z": 240,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044893170
-                },
-                {
-                    "name": "21",
-                    "x": 267,
-                    "y": 178,
-                    "z": 276,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044610271
-                },
-                {
-                    "name": "33",
-                    "x": 288,
-                    "y": 174,
-                    "z": 241,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044836070
-                },
-                {
-                    "name": "08",
-                    "x": 206,
-                    "y": 162,
-                    "z": 221,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044342569
+                    "name": "a-17",
+                    "x": 128,
+                    "y": 134,
+                    "z": 45,
+                    "enabled": true,
+                    "addedAt": 1741566841930
                 },
                 {
                     "name": "11",
-                    "x": 204,
-                    "y": 184,
-                    "z": 231,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044394720
+                    "x": 150,
+                    "y": 128,
+                    "z": 42,
+                    "enabled": true,
+                    "addedAt": 1741566660582
                 },
                 {
-                    "name": "29",
-                    "x": 310,
-                    "y": 184,
-                    "z": 265,
+                    "name": "b-18",
+                    "x": 124,
+                    "y": 134,
+                    "z": 46,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044738723
+                    "addedAt": 1741570863530
                 },
                 {
-                    "name": "20+++++",
-                    "x": 271,
-                    "y": 185,
-                    "z": 287,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672220591417
+                    "name": "1",
+                    "x": 165,
+                    "y": 140,
+                    "z": 38,
+                    "enabled": true,
+                    "addedAt": 1741566031434
                 },
                 {
-                    "name": "07",
-                    "x": 204,
-                    "y": 171,
-                    "z": 217,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044334321
+                    "name": "a-16",
+                    "x": 131,
+                    "y": 134,
+                    "z": 46,
+                    "enabled": true,
+                    "addedAt": 1741566815580
                 },
                 {
-                    "name": "01",
-                    "x": 228,
-                    "y": 173,
-                    "z": 207,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672043922501
+                    "name": "7",
+                    "x": 149,
+                    "y": 135,
+                    "z": 35,
+                    "enabled": true,
+                    "addedAt": 1741566371481
                 },
                 {
-                    "name": "35",
-                    "x": 280,
-                    "y": 176,
-                    "z": 251,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044871769
+                    "name": "a-22",
+                    "x": 120,
+                    "y": 138,
+                    "z": 48,
+                    "enabled": true,
+                    "addedAt": 1741569406232
                 },
                 {
-                    "name": "34",
-                    "x": 287,
-                    "y": 173,
-                    "z": 247,
+                    "name": "b-16",
+                    "x": 131,
+                    "y": 134,
+                    "z": 46,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044783869
+                    "addedAt": 1741571195332
                 },
                 {
-                    "name": "38",
-                    "x": 269,
-                    "y": 182,
-                    "z": 237,
+                    "name": "b-19",
+                    "x": 126,
+                    "y": 136,
+                    "z": 46,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044921222
+                    "addedAt": 1741571026131
+                },
+                {
+                    "name": "b-15",
+                    "x": 132,
+                    "y": 132,
+                    "z": 46,
+                    "enabled": false,
+                    "addedAt": 1741571193730
                 },
                 {
                     "name": "10",
-                    "x": 204,
-                    "y": 176,
-                    "z": 226,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044371319
+                    "x": 151,
+                    "y": 128,
+                    "z": 39,
+                    "enabled": true,
+                    "addedAt": 1741566646132
                 },
                 {
-                    "name": "20++",
-                    "x": 250,
-                    "y": 173,
-                    "z": 290,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672220523264
+                    "name": "a-20",
+                    "x": 124,
+                    "y": 136,
+                    "z": 46,
+                    "enabled": true,
+                    "addedAt": 1741569368381
                 },
                 {
-                    "name": "22",
-                    "x": 266,
-                    "y": 178,
-                    "z": 264,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044621073
+                    "name": "4",
+                    "x": 159,
+                    "y": 144,
+                    "z": 35,
+                    "enabled": true,
+                    "addedAt": 1741566031787
                 },
                 {
-                    "name": "36",
-                    "x": 259,
-                    "y": 175,
-                    "z": 245,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044884622
+                    "name": "",
+                    "x": 150,
+                    "y": 134,
+                    "z": 36,
+                    "enabled": true,
+                    "color": -16733697,
+                    "addedAt": 1741566261936
                 },
                 {
-                    "name": "05",
-                    "x": 213,
-                    "y": 176,
-                    "z": 215,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044266119
+                    "name": "9",
+                    "x": 154,
+                    "y": 128,
+                    "z": 38,
+                    "enabled": true,
+                    "addedAt": 1741566635184
                 },
                 {
-                    "name": "19",
-                    "x": 249,
-                    "y": 179,
-                    "z": 255,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044587569
+                    "name": "5",
+                    "x": 156,
+                    "y": 144,
+                    "z": 34,
+                    "enabled": true,
+                    "addedAt": 1741566238731
                 },
                 {
-                    "name": "30",
-                    "x": 306,
-                    "y": 183,
-                    "z": 261,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044755422
+                    "name": "8",
+                    "x": 151,
+                    "y": 133,
+                    "z": 33,
+                    "enabled": true,
+                    "addedAt": 1741566585182
                 },
                 {
-                    "name": "20+++",
-                    "x": 264,
-                    "y": 179,
-                    "z": 291,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672220551111
+                    "name": "a-19",
+                    "x": 126,
+                    "y": 136,
+                    "z": 46,
+                    "enabled": true,
+                    "addedAt": 1741566951231
                 },
                 {
-                    "name": "03",
-                    "x": 219,
-                    "y": 187,
-                    "z": 204,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044228718
+                    "name": "2",
+                    "x": 164,
+                    "y": 143,
+                    "z": 38,
+                    "enabled": true,
+                    "addedAt": 1741566032234
                 },
                 {
-                    "name": "24",
-                    "x": 278,
-                    "y": 187,
-                    "z": 266,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044662621
+                    "name": "14",
+                    "x": 141,
+                    "y": 128,
+                    "z": 46,
+                    "enabled": true,
+                    "addedAt": 1741566702887
                 },
                 {
-                    "name": "40",
-                    "x": 251,
-                    "y": 179,
-                    "z": 224,
+                    "name": "a-18",
+                    "x": 125,
+                    "y": 134,
+                    "z": 45,
+                    "enabled": true,
+                    "addedAt": 1741566865832
+                },
+                {
+                    "name": "a-21",
+                    "x": 121,
+                    "y": 136,
+                    "z": 47,
+                    "enabled": true,
+                    "addedAt": 1741569390379
+                },
+                {
+                    "name": "b-17",
+                    "x": 127,
+                    "y": 134,
+                    "z": 45,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044956469
+                    "addedAt": 1741570995330
+                },
+                {
+                    "name": "b-21",
+                    "x": 122,
+                    "y": 135,
+                    "z": 48,
+                    "enabled": false,
+                    "addedAt": 1741570407729
+                },
+                {
+                    "name": "b-22",
+                    "x": 119,
+                    "y": 137,
+                    "z": 48,
+                    "enabled": false,
+                    "addedAt": 1741570441779
+                },
+                {
+                    "name": "12",
+                    "x": 147,
+                    "y": 128,
+                    "z": 44,
+                    "enabled": true,
+                    "addedAt": 1741566676232
+                },
+                {
+                    "name": "6",
+                    "x": 146,
+                    "y": 137,
+                    "z": 37,
+                    "enabled": true,
+                    "addedAt": 1741566305680
+                },
+                {
+                    "name": "b-20",
+                    "x": 125,
+                    "y": 137,
+                    "z": 48,
+                    "enabled": false,
+                    "addedAt": 1741570386180
+                },
+                {
+                    "name": "3",
+                    "x": 160,
+                    "y": 142,
+                    "z": 35,
+                    "enabled": true,
+                    "addedAt": 1741566032382
                 }
             ],
-            "isExpanded": false,
-            "island": "crystal_hollows"
+            "island": "mining_3"
+        },
+        {
+            "name": "",
+            "waypoints": [
+                {
+                    "name": "Fire",
+                    "x": -7,
+                    "y": 131,
+                    "z": 227,
+                    "enabled": true,
+                    "addedAt": 1715219984716
+                }
+            ],
+            "island": "mining_3"
         },
         {
             "name": "Mithril Cluster",
@@ -498,6 +355,308 @@
                 }
             ],
             "isExpanded": false,
+            "island": "crystal_hollows"
+        },
+        {
+            "name": "private ruby route",
+            "waypoints": [
+                {
+                    "name": "R",
+                    "x": 819,
+                    "y": 49,
+                    "z": 580,
+                    "enabled": false,
+                    "addedAt": 1674752409157
+                },
+                {
+                    "name": "T",
+                    "x": 816,
+                    "y": 53,
+                    "z": 604,
+                    "enabled": false,
+                    "addedAt": 1674752743291
+                },
+                {
+                    "name": "T",
+                    "x": 802,
+                    "y": 45,
+                    "z": 573,
+                    "enabled": false,
+                    "addedAt": 1674752267464
+                },
+                {
+                    "name": "T",
+                    "x": 769,
+                    "y": 48,
+                    "z": 636,
+                    "enabled": false,
+                    "addedAt": 1674753261442
+                },
+                {
+                    "name": "T",
+                    "x": 806,
+                    "y": 48,
+                    "z": 626,
+                    "enabled": false,
+                    "addedAt": 1674753098001
+                },
+                {
+                    "name": "T",
+                    "x": 801,
+                    "y": 46,
+                    "z": 630,
+                    "enabled": false,
+                    "addedAt": 1674753125402
+                },
+                {
+                    "name": "R",
+                    "x": 772,
+                    "y": 49,
+                    "z": 590,
+                    "enabled": false,
+                    "addedAt": 1674752213547
+                },
+                {
+                    "name": "R",
+                    "x": 817,
+                    "y": 59,
+                    "z": 616,
+                    "enabled": false,
+                    "addedAt": 1674752798464
+                },
+                {
+                    "name": "R",
+                    "x": 814,
+                    "y": 49,
+                    "z": 625,
+                    "enabled": false,
+                    "addedAt": 1674753073961
+                },
+                {
+                    "name": "T",
+                    "x": 805,
+                    "y": 53,
+                    "z": 555,
+                    "enabled": false,
+                    "addedAt": 1674753018843
+                },
+                {
+                    "name": "R",
+                    "x": 773,
+                    "y": 49,
+                    "z": 622,
+                    "enabled": false,
+                    "addedAt": 1674753304357
+                },
+                {
+                    "name": "T",
+                    "x": 786,
+                    "y": 52,
+                    "z": 565,
+                    "enabled": false,
+                    "addedAt": 1674752099200
+                },
+                {
+                    "name": "R",
+                    "x": 810,
+                    "y": 42,
+                    "z": 579,
+                    "enabled": false,
+                    "addedAt": 1674752391115
+                },
+                {
+                    "name": "R",
+                    "x": 775,
+                    "y": 50,
+                    "z": 613,
+                    "enabled": false,
+                    "addedAt": 1674753328793
+                },
+                {
+                    "name": "T",
+                    "x": 822,
+                    "y": 53,
+                    "z": 584,
+                    "enabled": false,
+                    "addedAt": 1674752560047
+                },
+                {
+                    "name": "R",
+                    "x": 793,
+                    "y": 56,
+                    "z": 568,
+                    "enabled": false,
+                    "addedAt": 1674752479940
+                },
+                {
+                    "name": "T",
+                    "x": 793,
+                    "y": 43,
+                    "z": 568,
+                    "enabled": false,
+                    "addedAt": 1674752183150
+                },
+                {
+                    "name": "R",
+                    "x": 803,
+                    "y": 56,
+                    "z": 613,
+                    "enabled": false,
+                    "addedAt": 1674752818440
+                },
+                {
+                    "name": "R",
+                    "x": 800,
+                    "y": 48,
+                    "z": 614,
+                    "enabled": false,
+                    "addedAt": 1674754049104
+                },
+                {
+                    "name": "T",
+                    "x": 777,
+                    "y": 50,
+                    "z": 559,
+                    "enabled": false,
+                    "addedAt": 1674752065650
+                },
+                {
+                    "name": "R",
+                    "x": 777,
+                    "y": 40,
+                    "z": 628,
+                    "enabled": false,
+                    "addedAt": 1674753238599
+                },
+                {
+                    "name": "T",
+                    "x": 813,
+                    "y": 48,
+                    "z": 594,
+                    "enabled": false,
+                    "addedAt": 1674752363891
+                },
+                {
+                    "name": "T",
+                    "x": 811,
+                    "y": 47,
+                    "z": 585,
+                    "enabled": false,
+                    "addedAt": 1674752345844
+                },
+                {
+                    "name": "T",
+                    "x": 799,
+                    "y": 57,
+                    "z": 569,
+                    "enabled": false,
+                    "addedAt": 1674752450292
+                },
+                {
+                    "name": "R",
+                    "x": 769,
+                    "y": 48,
+                    "z": 583,
+                    "enabled": false,
+                    "addedAt": 1674752236853
+                },
+                {
+                    "name": "R",
+                    "x": 803,
+                    "y": 39,
+                    "z": 582,
+                    "enabled": false,
+                    "addedAt": 1674752290640
+                },
+                {
+                    "name": "R",
+                    "x": 811,
+                    "y": 54,
+                    "z": 569,
+                    "enabled": false,
+                    "addedAt": 1674752587105
+                },
+                {
+                    "name": "T",
+                    "x": 784,
+                    "y": 50,
+                    "z": 614,
+                    "enabled": false,
+                    "addedAt": 1674753206363
+                },
+                {
+                    "name": "R",
+                    "x": 803,
+                    "y": 56,
+                    "z": 601,
+                    "enabled": false,
+                    "addedAt": 1674752762262
+                },
+                {
+                    "name": "T",
+                    "x": 803,
+                    "y": 46,
+                    "z": 590,
+                    "enabled": false,
+                    "addedAt": 1674752306357
+                },
+                {
+                    "name": "R",
+                    "x": 772,
+                    "y": 44,
+                    "z": 598,
+                    "enabled": false,
+                    "addedAt": 1674753380444
+                },
+                {
+                    "name": "R",
+                    "x": 773,
+                    "y": 47,
+                    "z": 595,
+                    "enabled": false,
+                    "addedAt": 1674752198019
+                },
+                {
+                    "name": "R",
+                    "x": 802,
+                    "y": 62,
+                    "z": 582,
+                    "enabled": false,
+                    "addedAt": 1674752708297
+                },
+                {
+                    "name": "R",
+                    "x": 815,
+                    "y": 53,
+                    "z": 564,
+                    "enabled": false,
+                    "addedAt": 1674752599193
+                },
+                {
+                    "name": "T",
+                    "x": 801,
+                    "y": 53,
+                    "z": 577,
+                    "enabled": false,
+                    "addedAt": 1674752430441
+                },
+                {
+                    "name": "T",
+                    "x": 818,
+                    "y": 57,
+                    "z": 613,
+                    "enabled": false,
+                    "addedAt": 1674752781758
+                },
+                {
+                    "name": "R",
+                    "x": 811,
+                    "y": 58,
+                    "z": 601,
+                    "enabled": false,
+                    "addedAt": 1674752729997
+                }
+            ],
             "island": "crystal_hollows"
         },
         {
@@ -1548,268 +1707,425 @@
             "island": "crystal_hollows"
         },
         {
-            "name": "",
+            "name": "Amethyst Dillo",
             "waypoints": [
                 {
-                    "name": "",
-                    "x": 161,
-                    "y": 141,
-                    "z": 38,
-                    "enabled": true,
-                    "color": -6225665,
-                    "addedAt": 1741569751131
+                    "name": "39",
+                    "x": 257,
+                    "y": 183,
+                    "z": 227,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044940220
                 },
                 {
                     "name": "13",
-                    "x": 144,
-                    "y": 128,
-                    "z": 43,
-                    "enabled": true,
-                    "addedAt": 1741566690831
-                },
-                {
-                    "name": "a-15",
-                    "x": 132,
-                    "y": 132,
-                    "z": 46,
-                    "enabled": true,
-                    "addedAt": 1741566758383
-                },
-                {
-                    "name": "a-17",
-                    "x": 128,
-                    "y": 134,
-                    "z": 45,
-                    "enabled": true,
-                    "addedAt": 1741566841930
-                },
-                {
-                    "name": "11",
-                    "x": 150,
-                    "y": 128,
-                    "z": 42,
-                    "enabled": true,
-                    "addedAt": 1741566660582
-                },
-                {
-                    "name": "b-18",
-                    "x": 124,
-                    "y": 134,
-                    "z": 46,
+                    "x": 211,
+                    "y": 181,
+                    "z": 250,
                     "enabled": false,
-                    "addedAt": 1741570863530
+                    "color": 16711680,
+                    "addedAt": 1672044423018
                 },
                 {
-                    "name": "1",
-                    "x": 165,
-                    "y": 140,
-                    "z": 38,
-                    "enabled": true,
-                    "addedAt": 1741566031434
-                },
-                {
-                    "name": "a-16",
-                    "x": 131,
-                    "y": 134,
-                    "z": 46,
-                    "enabled": true,
-                    "addedAt": 1741566815580
-                },
-                {
-                    "name": "7",
-                    "x": 149,
-                    "y": 135,
-                    "z": 35,
-                    "enabled": true,
-                    "addedAt": 1741566371481
-                },
-                {
-                    "name": "a-22",
-                    "x": 120,
-                    "y": 138,
-                    "z": 48,
-                    "enabled": true,
-                    "addedAt": 1741569406232
-                },
-                {
-                    "name": "b-16",
-                    "x": 131,
-                    "y": 134,
-                    "z": 46,
+                    "name": "20++++",
+                    "x": 271,
+                    "y": 186,
+                    "z": 298,
                     "enabled": false,
-                    "addedAt": 1741571195332
+                    "color": 16711680,
+                    "addedAt": 1672220573215
                 },
                 {
-                    "name": "b-19",
-                    "x": 126,
-                    "y": 136,
-                    "z": 46,
+                    "name": "18 ( I dont use )",
+                    "x": 256,
+                    "y": 187,
+                    "z": 251,
                     "enabled": false,
-                    "addedAt": 1741571026131
+                    "color": 16711680,
+                    "addedAt": 1672044557418
                 },
                 {
-                    "name": "b-15",
-                    "x": 132,
-                    "y": 132,
-                    "z": 46,
+                    "name": "28",
+                    "x": 303,
+                    "y": 183,
+                    "z": 275,
                     "enabled": false,
-                    "addedAt": 1741571193730
+                    "color": 16711680,
+                    "addedAt": 1672044721069
                 },
                 {
-                    "name": "10",
-                    "x": 151,
-                    "y": 128,
-                    "z": 39,
-                    "enabled": true,
-                    "addedAt": 1741566646132
-                },
-                {
-                    "name": "a-20",
-                    "x": 124,
-                    "y": 136,
-                    "z": 46,
-                    "enabled": true,
-                    "addedAt": 1741569368381
-                },
-                {
-                    "name": "4",
-                    "x": 159,
-                    "y": 144,
-                    "z": 35,
-                    "enabled": true,
-                    "addedAt": 1741566031787
-                },
-                {
-                    "name": "",
-                    "x": 150,
-                    "y": 134,
-                    "z": 36,
-                    "enabled": true,
-                    "color": -16733697,
-                    "addedAt": 1741566261936
-                },
-                {
-                    "name": "9",
-                    "x": 154,
-                    "y": 128,
-                    "z": 38,
-                    "enabled": true,
-                    "addedAt": 1741566635184
-                },
-                {
-                    "name": "5",
-                    "x": 156,
-                    "y": 144,
-                    "z": 34,
-                    "enabled": true,
-                    "addedAt": 1741566238731
-                },
-                {
-                    "name": "8",
-                    "x": 151,
-                    "y": 133,
-                    "z": 33,
-                    "enabled": true,
-                    "addedAt": 1741566585182
-                },
-                {
-                    "name": "a-19",
-                    "x": 126,
-                    "y": 136,
-                    "z": 46,
-                    "enabled": true,
-                    "addedAt": 1741566951231
-                },
-                {
-                    "name": "2",
-                    "x": 164,
-                    "y": 143,
-                    "z": 38,
-                    "enabled": true,
-                    "addedAt": 1741566032234
-                },
-                {
-                    "name": "14",
-                    "x": 141,
-                    "y": 128,
-                    "z": 46,
-                    "enabled": true,
-                    "addedAt": 1741566702887
-                },
-                {
-                    "name": "a-18",
-                    "x": 125,
-                    "y": 134,
-                    "z": 45,
-                    "enabled": true,
-                    "addedAt": 1741566865832
-                },
-                {
-                    "name": "a-21",
-                    "x": 121,
-                    "y": 136,
-                    "z": 47,
-                    "enabled": true,
-                    "addedAt": 1741569390379
-                },
-                {
-                    "name": "b-17",
-                    "x": 127,
-                    "y": 134,
-                    "z": 45,
+                    "name": "20 ( U can skip it )",
+                    "x": 253,
+                    "y": 178,
+                    "z": 275,
                     "enabled": false,
-                    "addedAt": 1741570995330
+                    "color": 16711680,
+                    "addedAt": 1672044597269
                 },
                 {
-                    "name": "b-21",
-                    "x": 122,
-                    "y": 135,
-                    "z": 48,
+                    "name": "09",
+                    "x": 204,
+                    "y": 167,
+                    "z": 225,
                     "enabled": false,
-                    "addedAt": 1741570407729
+                    "color": 16711680,
+                    "addedAt": 1672044357969
                 },
                 {
-                    "name": "b-22",
-                    "x": 119,
-                    "y": 137,
-                    "z": 48,
+                    "name": "06",
+                    "x": 208,
+                    "y": 171,
+                    "z": 204,
                     "enabled": false,
-                    "addedAt": 1741570441779
+                    "color": 16711680,
+                    "addedAt": 1672044278177
+                },
+                {
+                    "name": "27",
+                    "x": 301,
+                    "y": 187,
+                    "z": 273,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044708972
+                },
+                {
+                    "name": "20+",
+                    "x": 240,
+                    "y": 174,
+                    "z": 287,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672220330113
                 },
                 {
                     "name": "12",
-                    "x": 147,
-                    "y": 128,
-                    "z": 44,
-                    "enabled": true,
-                    "addedAt": 1741566676232
-                },
-                {
-                    "name": "6",
-                    "x": 146,
-                    "y": 137,
-                    "z": 37,
-                    "enabled": true,
-                    "addedAt": 1741566305680
-                },
-                {
-                    "name": "b-20",
-                    "x": 125,
-                    "y": 137,
-                    "z": 48,
+                    "x": 206,
+                    "y": 181,
+                    "z": 241,
                     "enabled": false,
-                    "addedAt": 1741570386180
+                    "color": 16711680,
+                    "addedAt": 1672044403218
                 },
                 {
-                    "name": "3",
-                    "x": 160,
-                    "y": 142,
-                    "z": 35,
-                    "enabled": true,
-                    "addedAt": 1741566032382
+                    "name": "26",
+                    "x": 296,
+                    "y": 183,
+                    "z": 273,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044688419
+                },
+                {
+                    "name": "25",
+                    "x": 287,
+                    "y": 185,
+                    "z": 270,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044669970
+                },
+                {
+                    "name": "32",
+                    "x": 291,
+                    "y": 173,
+                    "z": 245,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044816972
+                },
+                {
+                    "name": "31",
+                    "x": 294,
+                    "y": 177,
+                    "z": 259,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044769967
+                },
+                {
+                    "name": "14",
+                    "x": 219,
+                    "y": 181,
+                    "z": 249,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044431169
+                },
+                {
+                    "name": "41",
+                    "x": 256,
+                    "y": 175,
+                    "z": 218,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044967118
+                },
+                {
+                    "name": "15",
+                    "x": 217,
+                    "y": 183,
+                    "z": 239,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044439520
+                },
+                {
+                    "name": "23",
+                    "x": 276,
+                    "y": 187,
+                    "z": 262,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044637818
+                },
+                {
+                    "name": "17",
+                    "x": 244,
+                    "y": 181,
+                    "z": 248,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044463069
+                },
+                {
+                    "name": "02",
+                    "x": 225,
+                    "y": 181,
+                    "z": 210,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672043946300
+                },
+                {
+                    "name": "04",
+                    "x": 217,
+                    "y": 182,
+                    "z": 212,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044247621
+                },
+                {
+                    "name": "16",
+                    "x": 228,
+                    "y": 185,
+                    "z": 238,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044451119
+                },
+                {
+                    "name": "37",
+                    "x": 256,
+                    "y": 174,
+                    "z": 240,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044893170
+                },
+                {
+                    "name": "21",
+                    "x": 267,
+                    "y": 178,
+                    "z": 276,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044610271
+                },
+                {
+                    "name": "33",
+                    "x": 288,
+                    "y": 174,
+                    "z": 241,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044836070
+                },
+                {
+                    "name": "08",
+                    "x": 206,
+                    "y": 162,
+                    "z": 221,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044342569
+                },
+                {
+                    "name": "11",
+                    "x": 204,
+                    "y": 184,
+                    "z": 231,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044394720
+                },
+                {
+                    "name": "29",
+                    "x": 310,
+                    "y": 184,
+                    "z": 265,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044738723
+                },
+                {
+                    "name": "20+++++",
+                    "x": 271,
+                    "y": 185,
+                    "z": 287,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672220591417
+                },
+                {
+                    "name": "07",
+                    "x": 204,
+                    "y": 171,
+                    "z": 217,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044334321
+                },
+                {
+                    "name": "01",
+                    "x": 228,
+                    "y": 173,
+                    "z": 207,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672043922501
+                },
+                {
+                    "name": "35",
+                    "x": 280,
+                    "y": 176,
+                    "z": 251,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044871769
+                },
+                {
+                    "name": "34",
+                    "x": 287,
+                    "y": 173,
+                    "z": 247,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044783869
+                },
+                {
+                    "name": "38",
+                    "x": 269,
+                    "y": 182,
+                    "z": 237,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044921222
+                },
+                {
+                    "name": "10",
+                    "x": 204,
+                    "y": 176,
+                    "z": 226,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044371319
+                },
+                {
+                    "name": "20++",
+                    "x": 250,
+                    "y": 173,
+                    "z": 290,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672220523264
+                },
+                {
+                    "name": "22",
+                    "x": 266,
+                    "y": 178,
+                    "z": 264,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044621073
+                },
+                {
+                    "name": "36",
+                    "x": 259,
+                    "y": 175,
+                    "z": 245,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044884622
+                },
+                {
+                    "name": "05",
+                    "x": 213,
+                    "y": 176,
+                    "z": 215,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044266119
+                },
+                {
+                    "name": "19",
+                    "x": 249,
+                    "y": 179,
+                    "z": 255,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044587569
+                },
+                {
+                    "name": "30",
+                    "x": 306,
+                    "y": 183,
+                    "z": 261,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044755422
+                },
+                {
+                    "name": "20+++",
+                    "x": 264,
+                    "y": 179,
+                    "z": 291,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672220551111
+                },
+                {
+                    "name": "03",
+                    "x": 219,
+                    "y": 187,
+                    "z": 204,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044228718
+                },
+                {
+                    "name": "24",
+                    "x": 278,
+                    "y": 187,
+                    "z": 266,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044662621
+                },
+                {
+                    "name": "40",
+                    "x": 251,
+                    "y": 179,
+                    "z": 224,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044956469
                 }
             ],
-            "island": "mining_3"
+            "isExpanded": false,
+            "island": "crystal_hollows"
         },
         {
             "name": "eggs",
@@ -1928,322 +2244,6 @@
                 }
             ],
             "island": "hub"
-        },
-        {
-            "name": "private ruby route",
-            "waypoints": [
-                {
-                    "name": "R",
-                    "x": 819,
-                    "y": 49,
-                    "z": 580,
-                    "enabled": false,
-                    "addedAt": 1674752409157
-                },
-                {
-                    "name": "T",
-                    "x": 816,
-                    "y": 53,
-                    "z": 604,
-                    "enabled": false,
-                    "addedAt": 1674752743291
-                },
-                {
-                    "name": "T",
-                    "x": 802,
-                    "y": 45,
-                    "z": 573,
-                    "enabled": false,
-                    "addedAt": 1674752267464
-                },
-                {
-                    "name": "T",
-                    "x": 769,
-                    "y": 48,
-                    "z": 636,
-                    "enabled": false,
-                    "addedAt": 1674753261442
-                },
-                {
-                    "name": "T",
-                    "x": 806,
-                    "y": 48,
-                    "z": 626,
-                    "enabled": false,
-                    "addedAt": 1674753098001
-                },
-                {
-                    "name": "T",
-                    "x": 801,
-                    "y": 46,
-                    "z": 630,
-                    "enabled": false,
-                    "addedAt": 1674753125402
-                },
-                {
-                    "name": "R",
-                    "x": 772,
-                    "y": 49,
-                    "z": 590,
-                    "enabled": false,
-                    "addedAt": 1674752213547
-                },
-                {
-                    "name": "R",
-                    "x": 817,
-                    "y": 59,
-                    "z": 616,
-                    "enabled": false,
-                    "addedAt": 1674752798464
-                },
-                {
-                    "name": "R",
-                    "x": 814,
-                    "y": 49,
-                    "z": 625,
-                    "enabled": false,
-                    "addedAt": 1674753073961
-                },
-                {
-                    "name": "T",
-                    "x": 805,
-                    "y": 53,
-                    "z": 555,
-                    "enabled": false,
-                    "addedAt": 1674753018843
-                },
-                {
-                    "name": "R",
-                    "x": 773,
-                    "y": 49,
-                    "z": 622,
-                    "enabled": false,
-                    "addedAt": 1674753304357
-                },
-                {
-                    "name": "T",
-                    "x": 786,
-                    "y": 52,
-                    "z": 565,
-                    "enabled": false,
-                    "addedAt": 1674752099200
-                },
-                {
-                    "name": "R",
-                    "x": 810,
-                    "y": 42,
-                    "z": 579,
-                    "enabled": false,
-                    "addedAt": 1674752391115
-                },
-                {
-                    "name": "R",
-                    "x": 775,
-                    "y": 50,
-                    "z": 613,
-                    "enabled": false,
-                    "addedAt": 1674753328793
-                },
-                {
-                    "name": "T",
-                    "x": 822,
-                    "y": 53,
-                    "z": 584,
-                    "enabled": false,
-                    "addedAt": 1674752560047
-                },
-                {
-                    "name": "R",
-                    "x": 793,
-                    "y": 56,
-                    "z": 568,
-                    "enabled": false,
-                    "addedAt": 1674752479940
-                },
-                {
-                    "name": "T",
-                    "x": 793,
-                    "y": 43,
-                    "z": 568,
-                    "enabled": false,
-                    "addedAt": 1674752183150
-                },
-                {
-                    "name": "R",
-                    "x": 803,
-                    "y": 56,
-                    "z": 613,
-                    "enabled": false,
-                    "addedAt": 1674752818440
-                },
-                {
-                    "name": "R",
-                    "x": 800,
-                    "y": 48,
-                    "z": 614,
-                    "enabled": false,
-                    "addedAt": 1674754049104
-                },
-                {
-                    "name": "T",
-                    "x": 777,
-                    "y": 50,
-                    "z": 559,
-                    "enabled": false,
-                    "addedAt": 1674752065650
-                },
-                {
-                    "name": "R",
-                    "x": 777,
-                    "y": 40,
-                    "z": 628,
-                    "enabled": false,
-                    "addedAt": 1674753238599
-                },
-                {
-                    "name": "T",
-                    "x": 813,
-                    "y": 48,
-                    "z": 594,
-                    "enabled": false,
-                    "addedAt": 1674752363891
-                },
-                {
-                    "name": "T",
-                    "x": 811,
-                    "y": 47,
-                    "z": 585,
-                    "enabled": false,
-                    "addedAt": 1674752345844
-                },
-                {
-                    "name": "T",
-                    "x": 799,
-                    "y": 57,
-                    "z": 569,
-                    "enabled": false,
-                    "addedAt": 1674752450292
-                },
-                {
-                    "name": "R",
-                    "x": 769,
-                    "y": 48,
-                    "z": 583,
-                    "enabled": false,
-                    "addedAt": 1674752236853
-                },
-                {
-                    "name": "R",
-                    "x": 803,
-                    "y": 39,
-                    "z": 582,
-                    "enabled": false,
-                    "addedAt": 1674752290640
-                },
-                {
-                    "name": "R",
-                    "x": 811,
-                    "y": 54,
-                    "z": 569,
-                    "enabled": false,
-                    "addedAt": 1674752587105
-                },
-                {
-                    "name": "T",
-                    "x": 784,
-                    "y": 50,
-                    "z": 614,
-                    "enabled": false,
-                    "addedAt": 1674753206363
-                },
-                {
-                    "name": "R",
-                    "x": 803,
-                    "y": 56,
-                    "z": 601,
-                    "enabled": false,
-                    "addedAt": 1674752762262
-                },
-                {
-                    "name": "T",
-                    "x": 803,
-                    "y": 46,
-                    "z": 590,
-                    "enabled": false,
-                    "addedAt": 1674752306357
-                },
-                {
-                    "name": "R",
-                    "x": 772,
-                    "y": 44,
-                    "z": 598,
-                    "enabled": false,
-                    "addedAt": 1674753380444
-                },
-                {
-                    "name": "R",
-                    "x": 773,
-                    "y": 47,
-                    "z": 595,
-                    "enabled": false,
-                    "addedAt": 1674752198019
-                },
-                {
-                    "name": "R",
-                    "x": 802,
-                    "y": 62,
-                    "z": 582,
-                    "enabled": false,
-                    "addedAt": 1674752708297
-                },
-                {
-                    "name": "R",
-                    "x": 815,
-                    "y": 53,
-                    "z": 564,
-                    "enabled": false,
-                    "addedAt": 1674752599193
-                },
-                {
-                    "name": "T",
-                    "x": 801,
-                    "y": 53,
-                    "z": 577,
-                    "enabled": false,
-                    "addedAt": 1674752430441
-                },
-                {
-                    "name": "T",
-                    "x": 818,
-                    "y": 57,
-                    "z": 613,
-                    "enabled": false,
-                    "addedAt": 1674752781758
-                },
-                {
-                    "name": "R",
-                    "x": 811,
-                    "y": 58,
-                    "z": 601,
-                    "enabled": false,
-                    "addedAt": 1674752729997
-                }
-            ],
-            "island": "crystal_hollows"
-        },
-        {
-            "name": "",
-            "waypoints": [
-                {
-                    "name": "Fire",
-                    "x": -7,
-                    "y": 131,
-                    "z": 227,
-                    "enabled": true,
-                    "addedAt": 1715219984716
-                }
-            ],
-            "island": "mining_3"
         },
         {
             "name": "Sapphire",

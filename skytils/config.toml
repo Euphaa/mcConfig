@@ -26,7 +26,7 @@
 		config_button_on_pause = false
 		reopen_options_menu = true
 		first_launch = false
-		last_launched_skytils_version = "1.10.10"
+		last_launched_skytils_version = "1.11.0-pre2"
 
 	[general.reparty]
 		override_other_reparty_commands = false
@@ -108,7 +108,7 @@
 		dropped_item_scale = 1.0
 		show_dungeon_item_level = true
 		show_attribute_shard_abbreviation = false
-		wither_shield_cooldown_tracker = false
+		wither_shield_cooldown_tracker = true
 		hide_implosion_particles = false
 		prevent_placing_weapons = true
 		larger_heads = 1.0
@@ -125,7 +125,7 @@
 		combine_helper = true
 		show_enchanted_book_abbreviation = false
 		held_item_scale = 1.0
-		item_cooldown_display = false
+		item_cooldown_display = true
 		head_display_size = 1.0
 		show_potion_tier = true
 		show_enchanted_book_tier = true
@@ -329,6 +329,7 @@
 		dungeon_crypts_counter = false
 
 	[dungeons.terminal_solvers]
+		change_all_to_same_color_solver_lock = false
 		predict_clicks_for_alignment_solver = true
 		change_all_to_same_color_solver = true
 		predict_clicks_for_simon_says_solver = false
@@ -422,7 +423,7 @@
 		type_of_livid_finder = 1
 		ice_path_solver = true
 		teleport_maze_solver_color = "200,255,0,0"
-		line_to_next_blaze = false
+		line_to_next_blaze = true
 		line_to_next_blaze_color = "200,255,255,0"
 		three_weirdos_solver_color = "255,255,0,0"
 		trivia_solver = true

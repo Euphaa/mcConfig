@@ -1,8 +1,8 @@
 
 [rooms]
-	room_secrets = 1
+	room_secrets = 2
 	room_names = 1
-	found_room_secrets = 0
+	found_room_secrets = 1
 	color_text = true
 	room_checkmarks = 1
 
@@ -25,8 +25,9 @@
 [map]
 
 	[map.size]
-		map_text_scale = 1.0
+		map_text_scale = 0.46
 		player_name_scale = 0.8
+		head_class_border_scale = 0.2
 		player_heads_scale = 0.7
 
 	[map.toggle]
