@@ -180,7 +180,187 @@
         }
       ]
     },
+    "Watermelon": {
+      "slotLockData": [
+        {
+          "lockedSlots": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "riftLockedSlots": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    },
     "Mango": {
+      "slotLockData": [
+        {
+          "lockedSlots": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "riftLockedSlots": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    },
+    "Lemon": {
       "slotLockData": [
         {
           "lockedSlots": [
@@ -520,7 +700,35 @@
               "boundTo": -1
             },
             {
-              "locked": true,
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            null,
+            null,
+            null,
+            null,
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
               "boundTo": -1
             },
             {
@@ -536,9 +744,6 @@
               "boundTo": -1
             },
             null,
-            null,
-            null,
-            null,
             {
               "locked": false,
               "boundTo": -1
@@ -550,26 +755,7 @@
             null,
             {
               "locked": false,
-              "boundTo": -1
-            },
-            null,
-            {
-              "locked": false,
-              "boundTo": -1
-            },
-            null,
-            {
-              "locked": false,
-              "boundTo": -1
-            },
-            {
-              "locked": false,
-              "boundTo": -1
-            },
-            null,
-            {
-              "locked": false,
-              "boundTo": -1
+              "boundTo": 7
             },
             null,
             null,

@@ -1,0 +1,24 @@
+{
+    "playerStatsUpdated": 1762921169089,
+    "sboKey": "",
+    "playerStats": {
+        "name": "Euphaa",
+        "sbLvl": 472,
+        "eman9": true,
+        "looting5daxe": true,
+        "emanLvl": 9,
+        "warnings": [],
+        "uuid": "3976b80ed50f4bf0abc922e7003e5c7c",
+        "clover": false,
+        "daxeLootingLvl": 5,
+        "daxeChimLvl": 4,
+        "invApi": true,
+        "magicalPower": 1666,
+        "enrichments": 48,
+        "missingEnrichments": 0,
+        "griffinRarity": "LEGENDARY",
+        "griffinItem": "ANTIQUE_REMEDIES",
+        "killLeaderboard": 5612,
+        "mythosKills": 16023
+    }
+}

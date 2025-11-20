@@ -1,318 +1,3819 @@
 {
     "categories": [
         {
-            "name": "private ruby route",
+            "name": "",
             "waypoints": [
                 {
-                    "name": "R",
-                    "x": 819,
-                    "y": 49,
-                    "z": 580,
-                    "enabled": false,
-                    "addedAt": 1674752409157
-                },
-                {
-                    "name": "T",
-                    "x": 816,
-                    "y": 53,
-                    "z": 604,
-                    "enabled": false,
-                    "addedAt": 1674752743291
-                },
-                {
-                    "name": "T",
-                    "x": 802,
-                    "y": 45,
-                    "z": 573,
-                    "enabled": false,
-                    "addedAt": 1674752267464
-                },
-                {
-                    "name": "T",
-                    "x": 769,
-                    "y": 48,
-                    "z": 636,
-                    "enabled": false,
-                    "addedAt": 1674753261442
-                },
-                {
-                    "name": "T",
-                    "x": 806,
-                    "y": 48,
-                    "z": 626,
-                    "enabled": false,
-                    "addedAt": 1674753098001
-                },
-                {
-                    "name": "T",
-                    "x": 801,
-                    "y": 46,
-                    "z": 630,
-                    "enabled": false,
-                    "addedAt": 1674753125402
-                },
-                {
-                    "name": "R",
-                    "x": 772,
-                    "y": 49,
-                    "z": 590,
-                    "enabled": false,
-                    "addedAt": 1674752213547
-                },
-                {
-                    "name": "R",
-                    "x": 817,
-                    "y": 59,
-                    "z": 616,
-                    "enabled": false,
-                    "addedAt": 1674752798464
-                },
-                {
-                    "name": "R",
-                    "x": 814,
-                    "y": 49,
-                    "z": 625,
-                    "enabled": false,
-                    "addedAt": 1674753073961
-                },
-                {
-                    "name": "T",
-                    "x": 805,
-                    "y": 53,
-                    "z": 555,
-                    "enabled": false,
-                    "addedAt": 1674753018843
-                },
-                {
-                    "name": "R",
-                    "x": 773,
-                    "y": 49,
-                    "z": 622,
-                    "enabled": false,
-                    "addedAt": 1674753304357
-                },
-                {
-                    "name": "T",
-                    "x": 786,
-                    "y": 52,
-                    "z": 565,
-                    "enabled": false,
-                    "addedAt": 1674752099200
-                },
-                {
-                    "name": "R",
-                    "x": 810,
-                    "y": 42,
-                    "z": 579,
-                    "enabled": false,
-                    "addedAt": 1674752391115
-                },
-                {
-                    "name": "R",
-                    "x": 775,
-                    "y": 50,
-                    "z": 613,
-                    "enabled": false,
-                    "addedAt": 1674753328793
-                },
-                {
-                    "name": "T",
-                    "x": 822,
-                    "y": 53,
-                    "z": 584,
-                    "enabled": false,
-                    "addedAt": 1674752560047
-                },
-                {
-                    "name": "R",
-                    "x": 793,
-                    "y": 56,
-                    "z": 568,
-                    "enabled": false,
-                    "addedAt": 1674752479940
-                },
-                {
-                    "name": "T",
-                    "x": 793,
-                    "y": 43,
-                    "z": 568,
-                    "enabled": false,
-                    "addedAt": 1674752183150
-                },
-                {
-                    "name": "R",
-                    "x": 803,
-                    "y": 56,
-                    "z": 613,
-                    "enabled": false,
-                    "addedAt": 1674752818440
-                },
-                {
-                    "name": "R",
-                    "x": 800,
-                    "y": 48,
-                    "z": 614,
-                    "enabled": false,
-                    "addedAt": 1674754049104
-                },
-                {
-                    "name": "T",
-                    "x": 777,
-                    "y": 50,
-                    "z": 559,
-                    "enabled": false,
-                    "addedAt": 1674752065650
-                },
-                {
-                    "name": "R",
-                    "x": 777,
-                    "y": 40,
-                    "z": 628,
-                    "enabled": false,
-                    "addedAt": 1674753238599
-                },
-                {
-                    "name": "T",
-                    "x": 813,
-                    "y": 48,
-                    "z": 594,
-                    "enabled": false,
-                    "addedAt": 1674752363891
-                },
-                {
-                    "name": "T",
-                    "x": 811,
-                    "y": 47,
-                    "z": 585,
-                    "enabled": false,
-                    "addedAt": 1674752345844
-                },
-                {
-                    "name": "T",
-                    "x": 799,
-                    "y": 57,
-                    "z": 569,
-                    "enabled": false,
-                    "addedAt": 1674752450292
-                },
-                {
-                    "name": "R",
-                    "x": 769,
-                    "y": 48,
-                    "z": 583,
-                    "enabled": false,
-                    "addedAt": 1674752236853
-                },
-                {
-                    "name": "R",
-                    "x": 803,
-                    "y": 39,
-                    "z": 582,
-                    "enabled": false,
-                    "addedAt": 1674752290640
-                },
-                {
-                    "name": "R",
-                    "x": 811,
-                    "y": 54,
-                    "z": 569,
-                    "enabled": false,
-                    "addedAt": 1674752587105
-                },
-                {
-                    "name": "T",
-                    "x": 784,
-                    "y": 50,
-                    "z": 614,
-                    "enabled": false,
-                    "addedAt": 1674753206363
-                },
-                {
-                    "name": "R",
-                    "x": 803,
-                    "y": 56,
-                    "z": 601,
-                    "enabled": false,
-                    "addedAt": 1674752762262
-                },
-                {
-                    "name": "T",
-                    "x": 803,
-                    "y": 46,
-                    "z": 590,
-                    "enabled": false,
-                    "addedAt": 1674752306357
-                },
-                {
-                    "name": "R",
-                    "x": 772,
-                    "y": 44,
-                    "z": 598,
-                    "enabled": false,
-                    "addedAt": 1674753380444
-                },
-                {
-                    "name": "R",
-                    "x": 773,
-                    "y": 47,
-                    "z": 595,
-                    "enabled": false,
-                    "addedAt": 1674752198019
-                },
-                {
-                    "name": "R",
-                    "x": 802,
-                    "y": 62,
-                    "z": 582,
-                    "enabled": false,
-                    "addedAt": 1674752708297
-                },
-                {
-                    "name": "R",
-                    "x": 815,
-                    "y": 53,
-                    "z": 564,
-                    "enabled": false,
-                    "addedAt": 1674752599193
-                },
-                {
-                    "name": "T",
-                    "x": 801,
-                    "y": 53,
-                    "z": 577,
-                    "enabled": false,
-                    "addedAt": 1674752430441
-                },
-                {
-                    "name": "T",
-                    "x": 818,
-                    "y": 57,
-                    "z": 613,
-                    "enabled": false,
-                    "addedAt": 1674752781758
-                },
-                {
-                    "name": "R",
-                    "x": 811,
-                    "y": 58,
-                    "z": 601,
-                    "enabled": false,
-                    "addedAt": 1674752729997
+                    "name": "Fire",
+                    "x": -7,
+                    "y": 131,
+                    "z": 227,
+                    "enabled": true,
+                    "addedAt": 1715219984716
                 }
             ],
+            "island": "mining_3"
+        },
+        {
+            "name": "eggs",
+            "waypoints": [
+                {
+                    "name": "",
+                    "x": 0,
+                    "y": 144,
+                    "z": 51,
+                    "enabled": true,
+                    "addedAt": 1714303683048
+                },
+                {
+                    "name": "",
+                    "x": 169,
+                    "y": 72,
+                    "z": 36,
+                    "enabled": true,
+                    "addedAt": 1714303785371
+                },
+                {
+                    "name": "",
+                    "x": 35,
+                    "y": 72,
+                    "z": 72,
+                    "enabled": true,
+                    "addedAt": 1714303670346
+                },
+                {
+                    "name": "",
+                    "x": -186,
+                    "y": 87,
+                    "z": 81,
+                    "enabled": true,
+                    "addedAt": 1714303739398
+                },
+                {
+                    "name": "",
+                    "x": -38,
+                    "y": 70,
+                    "z": -135,
+                    "enabled": true,
+                    "addedAt": 1714303858871
+                },
+                {
+                    "name": "",
+                    "x": 125,
+                    "y": 74,
+                    "z": 168,
+                    "enabled": true,
+                    "addedAt": 1714303637849
+                },
+                {
+                    "name": "",
+                    "x": 148,
+                    "y": 75,
+                    "z": -96,
+                    "enabled": true,
+                    "addedAt": 1714303758002
+                },
+                {
+                    "name": "",
+                    "x": -40,
+                    "y": 70,
+                    "z": -74,
+                    "enabled": true,
+                    "addedAt": 1714303878271
+                },
+                {
+                    "name": "",
+                    "x": -38,
+                    "y": 193,
+                    "z": 35,
+                    "enabled": true,
+                    "addedAt": 1714303703349
+                },
+                {
+                    "name": "",
+                    "x": 147,
+                    "y": 113,
+                    "z": 113,
+                    "enabled": true,
+                    "addedAt": 1714303655851
+                },
+                {
+                    "name": "",
+                    "x": -127,
+                    "y": 73,
+                    "z": -126,
+                    "enabled": true,
+                    "addedAt": 1714303903876
+                },
+                {
+                    "name": "",
+                    "x": 161,
+                    "y": 71,
+                    "z": 157,
+                    "enabled": true,
+                    "addedAt": 1714303610064
+                },
+                {
+                    "name": "",
+                    "x": 18,
+                    "y": 70,
+                    "z": -77,
+                    "enabled": true,
+                    "addedAt": 1714303723236
+                },
+                {
+                    "name": "",
+                    "x": 44,
+                    "y": 71,
+                    "z": -137,
+                    "enabled": true,
+                    "addedAt": 1714303814322
+                }
+            ],
+            "island": "hub"
+        },
+        {
+            "name": "Mithril Cluster",
+            "waypoints": [
+                {
+                    "name": "Mithril 9",
+                    "x": 567,
+                    "y": 84,
+                    "z": 435,
+                    "enabled": false,
+                    "addedAt": 1652348939565
+                },
+                {
+                    "name": "Mithril 2",
+                    "x": 565,
+                    "y": 84,
+                    "z": 349,
+                    "enabled": false,
+                    "addedAt": 1652349024869
+                },
+                {
+                    "name": "Mithril 8",
+                    "x": 553,
+                    "y": 84,
+                    "z": 425,
+                    "enabled": false,
+                    "addedAt": 1652348921023
+                },
+                {
+                    "name": "Mithril 4",
+                    "x": 562,
+                    "y": 84,
+                    "z": 380,
+                    "enabled": false,
+                    "addedAt": 1652348670318
+                },
+                {
+                    "name": "Mithril 3",
+                    "x": 572,
+                    "y": 84,
+                    "z": 366,
+                    "enabled": false,
+                    "addedAt": 1652348719884
+                },
+                {
+                    "name": "Mithril 6",
+                    "x": 530,
+                    "y": 84,
+                    "z": 419,
+                    "enabled": false,
+                    "addedAt": 1652348873613
+                },
+                {
+                    "name": "Mithril 5",
+                    "x": 543,
+                    "y": 84,
+                    "z": 395,
+                    "enabled": false,
+                    "addedAt": 1652348747138
+                },
+                {
+                    "name": "Mithril 1",
+                    "x": 580,
+                    "y": 84,
+                    "z": 341,
+                    "enabled": false,
+                    "addedAt": 1652349373016
+                },
+                {
+                    "name": "Mithril 7",
+                    "x": 537,
+                    "y": 84,
+                    "z": 435,
+                    "enabled": false,
+                    "addedAt": 1652348904576
+                }
+            ],
+            "isExpanded": false,
+            "island": "crystal_hollows"
+        },
+        {
+            "name": "Tungsten",
+            "waypoints": [
+                {
+                    "name": "11",
+                    "x": 40,
+                    "y": 145,
+                    "z": 339,
+                    "enabled": false,
+                    "addedAt": 1731949451299
+                },
+                {
+                    "name": "5 Etherwarp",
+                    "x": -27,
+                    "y": 157,
+                    "z": 294,
+                    "enabled": false,
+                    "addedAt": 1731949255427
+                },
+                {
+                    "name": "0 warp 3",
+                    "x": -66,
+                    "y": 142,
+                    "z": 242,
+                    "enabled": false,
+                    "addedAt": 1731950119930
+                },
+                {
+                    "name": "7 Etherwarp",
+                    "x": 59,
+                    "y": 161,
+                    "z": 325,
+                    "enabled": false,
+                    "addedAt": 1731949336225
+                },
+                {
+                    "name": "2 Etherwarp",
+                    "x": -66,
+                    "y": 144,
+                    "z": 245,
+                    "enabled": false,
+                    "addedAt": 1731949110080
+                },
+                {
+                    "name": "13",
+                    "x": 34,
+                    "y": 147,
+                    "z": 342,
+                    "enabled": false,
+                    "addedAt": 1731949533285
+                },
+                {
+                    "name": "6 Etherwarp",
+                    "x": 28,
+                    "y": 158,
+                    "z": 318,
+                    "enabled": false,
+                    "addedAt": 1731949281291
+                },
+                {
+                    "name": "12",
+                    "x": 34,
+                    "y": 146,
+                    "z": 332,
+                    "enabled": false,
+                    "addedAt": 1731949476284
+                },
+                {
+                    "name": "15",
+                    "x": 24,
+                    "y": 156,
+                    "z": 329,
+                    "enabled": false,
+                    "addedAt": 1731949597741
+                },
+                {
+                    "name": "1",
+                    "x": -57,
+                    "y": 143,
+                    "z": 248,
+                    "enabled": false,
+                    "addedAt": 1731949094085
+                },
+                {
+                    "name": "9 Go in here",
+                    "x": 37,
+                    "y": 155,
+                    "z": 329,
+                    "enabled": false,
+                    "addedAt": 1731949399130
+                },
+                {
+                    "name": "0 warp 2",
+                    "x": -40,
+                    "y": 153,
+                    "z": 257,
+                    "enabled": false,
+                    "addedAt": 1731950094197
+                },
+                {
+                    "name": "8 Etherwarp",
+                    "x": 71,
+                    "y": 151,
+                    "z": 332,
+                    "enabled": false,
+                    "addedAt": 1731949375187
+                },
+                {
+                    "name": "17 Etherwarp",
+                    "x": 6,
+                    "y": 155,
+                    "z": 333,
+                    "enabled": false,
+                    "addedAt": 1731949736794
+                },
+                {
+                    "name": "20 Etherwarp",
+                    "x": -21,
+                    "y": 129,
+                    "z": 360,
+                    "enabled": false,
+                    "addedAt": 1731949916939
+                },
+                {
+                    "name": "0 warp",
+                    "x": -19,
+                    "y": 151,
+                    "z": 244,
+                    "enabled": false,
+                    "addedAt": 1731950060045
+                },
+                {
+                    "name": "4",
+                    "x": -46,
+                    "y": 146,
+                    "z": 264,
+                    "enabled": false,
+                    "addedAt": 1731949197386
+                },
+                {
+                    "name": "19 Etherwarp",
+                    "x": -28,
+                    "y": 150,
+                    "z": 365,
+                    "enabled": false,
+                    "addedAt": 1731949867126
+                },
+                {
+                    "name": "16 Etherwarp Extra Veins (if needed)",
+                    "x": 20,
+                    "y": 152,
+                    "z": 315,
+                    "enabled": false,
+                    "addedAt": 1731949708796
+                },
+                {
+                    "name": "14",
+                    "x": 16,
+                    "y": 153,
+                    "z": 335,
+                    "enabled": false,
+                    "addedAt": 1731949567230
+                },
+                {
+                    "name": "3 Etherwarp",
+                    "x": -53,
+                    "y": 142,
+                    "z": 241,
+                    "enabled": false,
+                    "addedAt": 1731949153941
+                },
+                {
+                    "name": "10",
+                    "x": 42,
+                    "y": 142,
+                    "z": 325,
+                    "enabled": false,
+                    "addedAt": 1731949426780
+                },
+                {
+                    "name": "18 Etherwarp",
+                    "x": -1,
+                    "y": 147,
+                    "z": 346,
+                    "enabled": false,
+                    "addedAt": 1731949764645
+                }
+            ],
+            "isExpanded": false,
+            "island": "mining_3"
+        },
+        {
+            "name": "shattered alloy",
+            "waypoints": [
+                {
+                    "name": "",
+                    "x": 119,
+                    "y": 136,
+                    "z": 48,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 161,
+                    "y": 141,
+                    "z": 38,
+                    "enabled": false,
+                    "color": 1862336256,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 149,
+                    "y": 128,
+                    "z": 40,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 153,
+                    "y": 129,
+                    "z": 41,
+                    "enabled": false,
+                    "color": 1862336256,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 121,
+                    "y": 136,
+                    "z": 47,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 148,
+                    "y": 134,
+                    "z": 37,
+                    "enabled": false,
+                    "color": 1862336256,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 131,
+                    "y": 132,
+                    "z": 46,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 165,
+                    "y": 140,
+                    "z": 38,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 152,
+                    "y": 128,
+                    "z": 41,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 148,
+                    "y": 128,
+                    "z": 43,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 142,
+                    "y": 128,
+                    "z": 46,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 146,
+                    "y": 137,
+                    "z": 37,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 159,
+                    "y": 145,
+                    "z": 36,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 143,
+                    "y": 142,
+                    "z": 39,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 164,
+                    "y": 143,
+                    "z": 38,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 150,
+                    "y": 134,
+                    "z": 34,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 129,
+                    "y": 134,
+                    "z": 45,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 149,
+                    "y": 135,
+                    "z": 35,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 124,
+                    "y": 134,
+                    "z": 49,
+                    "enabled": false,
+                    "color": 1862336256,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 127,
+                    "y": 136,
+                    "z": 47,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 147,
+                    "y": 141,
+                    "z": 37,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 154,
+                    "y": 128,
+                    "z": 38,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 126,
+                    "y": 134,
+                    "z": 45,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 144,
+                    "y": 128,
+                    "z": 43,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 123,
+                    "y": 135,
+                    "z": 47,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 160,
+                    "y": 142,
+                    "z": 35,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 147,
+                    "y": 139,
+                    "z": 38,
+                    "enabled": false,
+                    "color": 1862336256,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 121,
+                    "y": 138,
+                    "z": 48,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                },
+                {
+                    "name": "",
+                    "x": 156,
+                    "y": 144,
+                    "z": 34,
+                    "enabled": false,
+                    "color": 1778432767,
+                    "addedAt": 1755102904157
+                }
+            ],
+            "island": "mining_3"
+        },
+        {
+            "name": "diamond 5 vein",
+            "waypoints": [
+                {
+                    "name": "",
+                    "x": 145,
+                    "y": 140,
+                    "z": 40,
+                    "enabled": true,
+                    "addedAt": 1755103805682
+                }
+            ],
+            "island": "mining_3"
+        },
+        {
+            "name": "Amethyst Dillo",
+            "waypoints": [
+                {
+                    "name": "39",
+                    "x": 257,
+                    "y": 183,
+                    "z": 227,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044940220
+                },
+                {
+                    "name": "13",
+                    "x": 211,
+                    "y": 181,
+                    "z": 250,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044423018
+                },
+                {
+                    "name": "20++++",
+                    "x": 271,
+                    "y": 186,
+                    "z": 298,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672220573215
+                },
+                {
+                    "name": "18 ( I dont use )",
+                    "x": 256,
+                    "y": 187,
+                    "z": 251,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044557418
+                },
+                {
+                    "name": "28",
+                    "x": 303,
+                    "y": 183,
+                    "z": 275,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044721069
+                },
+                {
+                    "name": "20 ( U can skip it )",
+                    "x": 253,
+                    "y": 178,
+                    "z": 275,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044597269
+                },
+                {
+                    "name": "09",
+                    "x": 204,
+                    "y": 167,
+                    "z": 225,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044357969
+                },
+                {
+                    "name": "06",
+                    "x": 208,
+                    "y": 171,
+                    "z": 204,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044278177
+                },
+                {
+                    "name": "27",
+                    "x": 301,
+                    "y": 187,
+                    "z": 273,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044708972
+                },
+                {
+                    "name": "20+",
+                    "x": 240,
+                    "y": 174,
+                    "z": 287,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672220330113
+                },
+                {
+                    "name": "12",
+                    "x": 206,
+                    "y": 181,
+                    "z": 241,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044403218
+                },
+                {
+                    "name": "26",
+                    "x": 296,
+                    "y": 183,
+                    "z": 273,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044688419
+                },
+                {
+                    "name": "25",
+                    "x": 287,
+                    "y": 185,
+                    "z": 270,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044669970
+                },
+                {
+                    "name": "32",
+                    "x": 291,
+                    "y": 173,
+                    "z": 245,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044816972
+                },
+                {
+                    "name": "31",
+                    "x": 294,
+                    "y": 177,
+                    "z": 259,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044769967
+                },
+                {
+                    "name": "14",
+                    "x": 219,
+                    "y": 181,
+                    "z": 249,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044431169
+                },
+                {
+                    "name": "41",
+                    "x": 256,
+                    "y": 175,
+                    "z": 218,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044967118
+                },
+                {
+                    "name": "15",
+                    "x": 217,
+                    "y": 183,
+                    "z": 239,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044439520
+                },
+                {
+                    "name": "23",
+                    "x": 276,
+                    "y": 187,
+                    "z": 262,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044637818
+                },
+                {
+                    "name": "17",
+                    "x": 244,
+                    "y": 181,
+                    "z": 248,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044463069
+                },
+                {
+                    "name": "02",
+                    "x": 225,
+                    "y": 181,
+                    "z": 210,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672043946300
+                },
+                {
+                    "name": "04",
+                    "x": 217,
+                    "y": 182,
+                    "z": 212,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044247621
+                },
+                {
+                    "name": "16",
+                    "x": 228,
+                    "y": 185,
+                    "z": 238,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044451119
+                },
+                {
+                    "name": "37",
+                    "x": 256,
+                    "y": 174,
+                    "z": 240,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044893170
+                },
+                {
+                    "name": "21",
+                    "x": 267,
+                    "y": 178,
+                    "z": 276,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044610271
+                },
+                {
+                    "name": "33",
+                    "x": 288,
+                    "y": 174,
+                    "z": 241,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044836070
+                },
+                {
+                    "name": "08",
+                    "x": 206,
+                    "y": 162,
+                    "z": 221,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044342569
+                },
+                {
+                    "name": "11",
+                    "x": 204,
+                    "y": 184,
+                    "z": 231,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044394720
+                },
+                {
+                    "name": "29",
+                    "x": 310,
+                    "y": 184,
+                    "z": 265,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044738723
+                },
+                {
+                    "name": "20+++++",
+                    "x": 271,
+                    "y": 185,
+                    "z": 287,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672220591417
+                },
+                {
+                    "name": "07",
+                    "x": 204,
+                    "y": 171,
+                    "z": 217,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044334321
+                },
+                {
+                    "name": "01",
+                    "x": 228,
+                    "y": 173,
+                    "z": 207,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672043922501
+                },
+                {
+                    "name": "35",
+                    "x": 280,
+                    "y": 176,
+                    "z": 251,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044871769
+                },
+                {
+                    "name": "34",
+                    "x": 287,
+                    "y": 173,
+                    "z": 247,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044783869
+                },
+                {
+                    "name": "38",
+                    "x": 269,
+                    "y": 182,
+                    "z": 237,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044921222
+                },
+                {
+                    "name": "10",
+                    "x": 204,
+                    "y": 176,
+                    "z": 226,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044371319
+                },
+                {
+                    "name": "20++",
+                    "x": 250,
+                    "y": 173,
+                    "z": 290,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672220523264
+                },
+                {
+                    "name": "22",
+                    "x": 266,
+                    "y": 178,
+                    "z": 264,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044621073
+                },
+                {
+                    "name": "36",
+                    "x": 259,
+                    "y": 175,
+                    "z": 245,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044884622
+                },
+                {
+                    "name": "05",
+                    "x": 213,
+                    "y": 176,
+                    "z": 215,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044266119
+                },
+                {
+                    "name": "19",
+                    "x": 249,
+                    "y": 179,
+                    "z": 255,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044587569
+                },
+                {
+                    "name": "30",
+                    "x": 306,
+                    "y": 183,
+                    "z": 261,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044755422
+                },
+                {
+                    "name": "20+++",
+                    "x": 264,
+                    "y": 179,
+                    "z": 291,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672220551111
+                },
+                {
+                    "name": "03",
+                    "x": 219,
+                    "y": 187,
+                    "z": 204,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044228718
+                },
+                {
+                    "name": "24",
+                    "x": 278,
+                    "y": 187,
+                    "z": 266,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044662621
+                },
+                {
+                    "name": "40",
+                    "x": 251,
+                    "y": 179,
+                    "z": 224,
+                    "enabled": false,
+                    "color": 16711680,
+                    "addedAt": 1672044956469
+                }
+            ],
+            "isExpanded": false,
+            "island": "crystal_hollows"
+        },
+        {
+            "name": "Umber",
+            "waypoints": [
+                {
+                    "name": "8",
+                    "x": 23,
+                    "y": 124,
+                    "z": 363,
+                    "enabled": false,
+                    "addedAt": 1732420018341
+                },
+                {
+                    "name": "11",
+                    "x": 38,
+                    "y": 120,
+                    "z": 373,
+                    "enabled": false,
+                    "addedAt": 1732420048839
+                },
+                {
+                    "name": "12",
+                    "x": 58,
+                    "y": 120,
+                    "z": 358,
+                    "enabled": false,
+                    "addedAt": 1732420062391
+                },
+                {
+                    "name": "9",
+                    "x": 34,
+                    "y": 123,
+                    "z": 355,
+                    "enabled": false,
+                    "addedAt": 1732420030339
+                },
+                {
+                    "name": "3",
+                    "x": 12,
+                    "y": 149,
+                    "z": 337,
+                    "enabled": false,
+                    "addedAt": 1732419950591
+                },
+                {
+                    "name": "18",
+                    "x": 93,
+                    "y": 149,
+                    "z": 294,
+                    "enabled": false,
+                    "addedAt": 1732420176941
+                },
+                {
+                    "name": "5",
+                    "x": -6,
+                    "y": 147,
+                    "z": 368,
+                    "enabled": false,
+                    "addedAt": 1732419985138
+                },
+                {
+                    "name": "6",
+                    "x": -30,
+                    "y": 131,
+                    "z": 369,
+                    "enabled": false,
+                    "addedAt": 1732419996091
+                },
+                {
+                    "name": "19",
+                    "x": 106,
+                    "y": 156,
+                    "z": 284,
+                    "enabled": false,
+                    "addedAt": 1732420202289
+                },
+                {
+                    "name": "7",
+                    "x": 22,
+                    "y": 123,
+                    "z": 351,
+                    "enabled": false,
+                    "addedAt": 1732420009237
+                },
+                {
+                    "name": "14",
+                    "x": 106,
+                    "y": 152,
+                    "z": 333,
+                    "enabled": false,
+                    "addedAt": 1732420097989
+                },
+                {
+                    "name": "10",
+                    "x": 49,
+                    "y": 120,
+                    "z": 377,
+                    "enabled": false,
+                    "addedAt": 1732420038987
+                },
+                {
+                    "name": "2",
+                    "x": 5,
+                    "y": 147,
+                    "z": 322,
+                    "enabled": false,
+                    "addedAt": 1732419875836
+                },
+                {
+                    "name": "1",
+                    "x": 20,
+                    "y": 145,
+                    "z": 278,
+                    "enabled": false,
+                    "addedAt": 1732419854312
+                },
+                {
+                    "name": "13",
+                    "x": 86,
+                    "y": 150,
+                    "z": 350,
+                    "enabled": false,
+                    "addedAt": 1732420081691
+                },
+                {
+                    "name": "17",
+                    "x": 73,
+                    "y": 148,
+                    "z": 310,
+                    "enabled": false,
+                    "addedAt": 1732420156739
+                },
+                {
+                    "name": "4",
+                    "x": 8,
+                    "y": 149,
+                    "z": 349,
+                    "enabled": false,
+                    "addedAt": 1732419972039
+                },
+                {
+                    "name": "15",
+                    "x": 94,
+                    "y": 151,
+                    "z": 322,
+                    "enabled": false,
+                    "addedAt": 1732420119990
+                },
+                {
+                    "name": "16",
+                    "x": 71,
+                    "y": 152,
+                    "z": 321,
+                    "enabled": false,
+                    "addedAt": 1732420130394
+                }
+            ],
+            "isExpanded": false,
+            "island": "mining_3"
+        },
+        {
+            "name": "coal mf (Perfect_Jasper)",
+            "waypoints": [
+                {
+                    "name": "177",
+                    "x": 392,
+                    "y": 44,
+                    "z": 315,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "14",
+                    "x": 414,
+                    "y": 48,
+                    "z": 469,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "96",
+                    "x": 439,
+                    "y": 61,
+                    "z": 380,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "179",
+                    "x": 392,
+                    "y": 44,
+                    "z": 315,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "125",
+                    "x": 370,
+                    "y": 41,
+                    "z": 369,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "187",
+                    "x": 338,
+                    "y": 52,
+                    "z": 342,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "78",
+                    "x": 390,
+                    "y": 54,
+                    "z": 396,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "159",
+                    "x": 382,
+                    "y": 50,
+                    "z": 294,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "124",
+                    "x": 369,
+                    "y": 38,
+                    "z": 358,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "234",
+                    "x": 239,
+                    "y": 46,
+                    "z": 403,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "227",
+                    "x": 230,
+                    "y": 31,
+                    "z": 391,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "132",
+                    "x": 379,
+                    "y": 46,
+                    "z": 339,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "3",
+                    "x": 458,
+                    "y": 47,
+                    "z": 512,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "89",
+                    "x": 416,
+                    "y": 42,
+                    "z": 392,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "167",
+                    "x": 419,
+                    "y": 36,
+                    "z": 289,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "176",
+                    "x": 396,
+                    "y": 33,
+                    "z": 301,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "70",
+                    "x": 403,
+                    "y": 53,
+                    "z": 432,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "40",
+                    "x": 345,
+                    "y": 41,
+                    "z": 436,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "175",
+                    "x": 394,
+                    "y": 38,
+                    "z": 299,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "73",
+                    "x": 406,
+                    "y": 65,
+                    "z": 423,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "139",
+                    "x": 367,
+                    "y": 45,
+                    "z": 306,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "97",
+                    "x": 444,
+                    "y": 55,
+                    "z": 379,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "10",
+                    "x": 428,
+                    "y": 38,
+                    "z": 501,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "27",
+                    "x": 366,
+                    "y": 54,
+                    "z": 498,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "2",
+                    "x": 459,
+                    "y": 47,
+                    "z": 511,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "198",
+                    "x": 314,
+                    "y": 33,
+                    "z": 385,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "258",
+                    "x": 285,
+                    "y": 49,
+                    "z": 458,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "33",
+                    "x": 336,
+                    "y": 47,
+                    "z": 483,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "171",
+                    "x": 410,
+                    "y": 32,
+                    "z": 289,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "200",
+                    "x": 299,
+                    "y": 34,
+                    "z": 385,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "8",
+                    "x": 427,
+                    "y": 32,
+                    "z": 509,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "202",
+                    "x": 296,
+                    "y": 43,
+                    "z": 402,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "225",
+                    "x": 243,
+                    "y": 35,
+                    "z": 384,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "232",
+                    "x": 252,
+                    "y": 37,
+                    "z": 400,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "11",
+                    "x": 434,
+                    "y": 38,
+                    "z": 493,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "215",
+                    "x": 265,
+                    "y": 57,
+                    "z": 405,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "226",
+                    "x": 235,
+                    "y": 32,
+                    "z": 380,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "68",
+                    "x": 407,
+                    "y": 53,
+                    "z": 436,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "197",
+                    "x": 316,
+                    "y": 39,
+                    "z": 387,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "18",
+                    "x": 395,
+                    "y": 57,
+                    "z": 483,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "43",
+                    "x": 359,
+                    "y": 34,
+                    "z": 449,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "223",
+                    "x": 238,
+                    "y": 41,
+                    "z": 387,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "72",
+                    "x": 406,
+                    "y": 59,
+                    "z": 414,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "190",
+                    "x": 317,
+                    "y": 52,
+                    "z": 346,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "83",
+                    "x": 400,
+                    "y": 47,
+                    "z": 390,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "184",
+                    "x": 356,
+                    "y": 54,
+                    "z": 352,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "120",
+                    "x": 356,
+                    "y": 32,
+                    "z": 332,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "220",
+                    "x": 251,
+                    "y": 45,
+                    "z": 390,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "162",
+                    "x": 400,
+                    "y": 46,
+                    "z": 291,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "143",
+                    "x": 354,
+                    "y": 33,
+                    "z": 297,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "138",
+                    "x": 361,
+                    "y": 46,
+                    "z": 306,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "241",
+                    "x": 261,
+                    "y": 38,
+                    "z": 425,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "128",
+                    "x": 387,
+                    "y": 44,
+                    "z": 358,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "88",
+                    "x": 413,
+                    "y": 45,
+                    "z": 390,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "109",
+                    "x": 419,
+                    "y": 33,
+                    "z": 330,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "150",
+                    "x": 373,
+                    "y": 50,
+                    "z": 262,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "199",
+                    "x": 309,
+                    "y": 31,
+                    "z": 384,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "99",
+                    "x": 445,
+                    "y": 54,
+                    "z": 367,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "87",
+                    "x": 410,
+                    "y": 49,
+                    "z": 397,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "91",
+                    "x": 427,
+                    "y": 47,
+                    "z": 387,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "107",
+                    "x": 407,
+                    "y": 42,
+                    "z": 338,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "20",
+                    "x": 393,
+                    "y": 59,
+                    "z": 475,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "39",
+                    "x": 343,
+                    "y": 45,
+                    "z": 448,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "134",
+                    "x": 375,
+                    "y": 46,
+                    "z": 329,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "238",
+                    "x": 261,
+                    "y": 32,
+                    "z": 409,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "98",
+                    "x": 444,
+                    "y": 51,
+                    "z": 374,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "112",
+                    "x": 408,
+                    "y": 36,
+                    "z": 317,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "192",
+                    "x": 311,
+                    "y": 53,
+                    "z": 362,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "168",
+                    "x": 416,
+                    "y": 34,
+                    "z": 293,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "38",
+                    "x": 343,
+                    "y": 55,
+                    "z": 456,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "204",
+                    "x": 304,
+                    "y": 42,
+                    "z": 416,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "161",
+                    "x": 392,
+                    "y": 42,
+                    "z": 286,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "121",
+                    "x": 359,
+                    "y": 35,
+                    "z": 344,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "103",
+                    "x": 421,
+                    "y": 58,
+                    "z": 345,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "222",
+                    "x": 233,
+                    "y": 46,
+                    "z": 386,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "104",
+                    "x": 419,
+                    "y": 52,
+                    "z": 341,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "216",
+                    "x": 273,
+                    "y": 49,
+                    "z": 401,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "228",
+                    "x": 225,
+                    "y": 39,
+                    "z": 402,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "106",
+                    "x": 410,
+                    "y": 60,
+                    "z": 334,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "188",
+                    "x": 334,
+                    "y": 54,
+                    "z": 333,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "165",
+                    "x": 416,
+                    "y": 57,
+                    "z": 281,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "189",
+                    "x": 328,
+                    "y": 42,
+                    "z": 338,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "153",
+                    "x": 357,
+                    "y": 58,
+                    "z": 283,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "182",
+                    "x": 364,
+                    "y": 61,
+                    "z": 326,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "74",
+                    "x": 392,
+                    "y": 57,
+                    "z": 407,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "181",
+                    "x": 373,
+                    "y": 60,
+                    "z": 317,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "64",
+                    "x": 417,
+                    "y": 50,
+                    "z": 450,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "229",
+                    "x": 230,
+                    "y": 32,
+                    "z": 401,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "262",
+                    "x": 298,
+                    "y": 55,
+                    "z": 481,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "47",
+                    "x": 382,
+                    "y": 33,
+                    "z": 465,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "173",
+                    "x": 399,
+                    "y": 31,
+                    "z": 297,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "259",
+                    "x": 292,
+                    "y": 53,
+                    "z": 456,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "164",
+                    "x": 408,
+                    "y": 47,
+                    "z": 279,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "6",
+                    "x": 439,
+                    "y": 31,
+                    "z": 525,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "131",
+                    "x": 389,
+                    "y": 44,
+                    "z": 338,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "254",
+                    "x": 258,
+                    "y": 46,
+                    "z": 461,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "90",
+                    "x": 419,
+                    "y": 47,
+                    "z": 390,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "235",
+                    "x": 241,
+                    "y": 38,
+                    "z": 410,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "219",
+                    "x": 258,
+                    "y": 46,
+                    "z": 390,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "122",
+                    "x": 359,
+                    "y": 30,
+                    "z": 347,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "183",
+                    "x": 360,
+                    "y": 49,
+                    "z": 340,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "247",
+                    "x": 246,
+                    "y": 48,
+                    "z": 438,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "77",
+                    "x": 385,
+                    "y": 62,
+                    "z": 401,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "92",
+                    "x": 426,
+                    "y": 53,
+                    "z": 378,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "105",
+                    "x": 415,
+                    "y": 54,
+                    "z": 334,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "252",
+                    "x": 253,
+                    "y": 46,
+                    "z": 447,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "207",
+                    "x": 292,
+                    "y": 36,
+                    "z": 416,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "26",
+                    "x": 366,
+                    "y": 51,
+                    "z": 491,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "217",
+                    "x": 267,
+                    "y": 46,
+                    "z": 399,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "7",
+                    "x": 433,
+                    "y": 30,
+                    "z": 515,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "4",
+                    "x": 455,
+                    "y": 42,
+                    "z": 522,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "1",
+                    "x": 463,
+                    "y": 54,
+                    "z": 520,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "257",
+                    "x": 282,
+                    "y": 50,
+                    "z": 446,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "12",
+                    "x": 429,
+                    "y": 32,
+                    "z": 485,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "160",
+                    "x": 381,
+                    "y": 54,
+                    "z": 290,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "174",
+                    "x": 396,
+                    "y": 36,
+                    "z": 296,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "21",
+                    "x": 378,
+                    "y": 56,
+                    "z": 477,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "130",
+                    "x": 385,
+                    "y": 39,
+                    "z": 344,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "102",
+                    "x": 427,
+                    "y": 54,
+                    "z": 351,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "194",
+                    "x": 312,
+                    "y": 52,
+                    "z": 380,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "137",
+                    "x": 364,
+                    "y": 46,
+                    "z": 313,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "13",
+                    "x": 411,
+                    "y": 46,
+                    "z": 477,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "149",
+                    "x": 366,
+                    "y": 45,
+                    "z": 265,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "41",
+                    "x": 354,
+                    "y": 39,
+                    "z": 440,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "203",
+                    "x": 303,
+                    "y": 45,
+                    "z": 406,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "256",
+                    "x": 266,
+                    "y": 52,
+                    "z": 454,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "135",
+                    "x": 366,
+                    "y": 56,
+                    "z": 318,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "123",
+                    "x": 364,
+                    "y": 32,
+                    "z": 352,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "58",
+                    "x": 391,
+                    "y": 40,
+                    "z": 464,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "30",
+                    "x": 344,
+                    "y": 55,
+                    "z": 493,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "61",
+                    "x": 406,
+                    "y": 46,
+                    "z": 460,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "5",
+                    "x": 447,
+                    "y": 35,
+                    "z": 516,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "113",
+                    "x": 393,
+                    "y": 32,
+                    "z": 323,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "178",
+                    "x": 392,
+                    "y": 44,
+                    "z": 315,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "129",
+                    "x": 389,
+                    "y": 37,
+                    "z": 351,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "213",
+                    "x": 270,
+                    "y": 55,
+                    "z": 399,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "224",
+                    "x": 242,
+                    "y": 41,
+                    "z": 390,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "186",
+                    "x": 340,
+                    "y": 58,
+                    "z": 346,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "116",
+                    "x": 373,
+                    "y": 42,
+                    "z": 317,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "248",
+                    "x": 253,
+                    "y": 44,
+                    "z": 441,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "249",
+                    "x": 253,
+                    "y": 41,
+                    "z": 445,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "34",
+                    "x": 349,
+                    "y": 45,
+                    "z": 474,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "35",
+                    "x": 349,
+                    "y": 47,
+                    "z": 468,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "66",
+                    "x": 406,
+                    "y": 44,
+                    "z": 448,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "93",
+                    "x": 432,
+                    "y": 56,
+                    "z": 389,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "60",
+                    "x": 401,
+                    "y": 47,
+                    "z": 461,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "48",
+                    "x": 388,
+                    "y": 32,
+                    "z": 465,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "158",
+                    "x": 379,
+                    "y": 55,
+                    "z": 308,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "170",
+                    "x": 410,
+                    "y": 30,
+                    "z": 296,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "69",
+                    "x": 406,
+                    "y": 53,
+                    "z": 432,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "57",
+                    "x": 383,
+                    "y": 47,
+                    "z": 479,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "212",
+                    "x": 276,
+                    "y": 56,
+                    "z": 403,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "193",
+                    "x": 310,
+                    "y": 56,
+                    "z": 374,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "155",
+                    "x": 363,
+                    "y": 56,
+                    "z": 297,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "37",
+                    "x": 340,
+                    "y": 58,
+                    "z": 462,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "156",
+                    "x": 371,
+                    "y": 57,
+                    "z": 299,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "86",
+                    "x": 409,
+                    "y": 47,
+                    "z": 403,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "145",
+                    "x": 359,
+                    "y": 32,
+                    "z": 283,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "110",
+                    "x": 424,
+                    "y": 32,
+                    "z": 319,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "75",
+                    "x": 388,
+                    "y": 61,
+                    "z": 406,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "94",
+                    "x": 435,
+                    "y": 56,
+                    "z": 386,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "180",
+                    "x": 393,
+                    "y": 44,
+                    "z": 314,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "196",
+                    "x": 306,
+                    "y": 42,
+                    "z": 382,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "147",
+                    "x": 361,
+                    "y": 39,
+                    "z": 266,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "65",
+                    "x": 415,
+                    "y": 44,
+                    "z": 449,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "114",
+                    "x": 393,
+                    "y": 40,
+                    "z": 316,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "209",
+                    "x": 287,
+                    "y": 44,
+                    "z": 416,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "119",
+                    "x": 357,
+                    "y": 35,
+                    "z": 329,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "25",
+                    "x": 365,
+                    "y": 55,
+                    "z": 487,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "15",
+                    "x": 418,
+                    "y": 54,
+                    "z": 470,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "146",
+                    "x": 354,
+                    "y": 33,
+                    "z": 268,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "166",
+                    "x": 415,
+                    "y": 40,
+                    "z": 285,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "253",
+                    "x": 256,
+                    "y": 46,
+                    "z": 456,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "243",
+                    "x": 248,
+                    "y": 46,
+                    "z": 425,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "261",
+                    "x": 291,
+                    "y": 57,
+                    "z": 473,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "28",
+                    "x": 353,
+                    "y": 53,
+                    "z": 488,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "62",
+                    "x": 408,
+                    "y": 47,
+                    "z": 455,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "46",
+                    "x": 381,
+                    "y": 31,
+                    "z": 458,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "250",
+                    "x": 250,
+                    "y": 39,
+                    "z": 446,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "44",
+                    "x": 368,
+                    "y": 35,
+                    "z": 453,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "29",
+                    "x": 345,
+                    "y": 54,
+                    "z": 490,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "63",
+                    "x": 413,
+                    "y": 49,
+                    "z": 449,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "115",
+                    "x": 380,
+                    "y": 37,
+                    "z": 322,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "163",
+                    "x": 396,
+                    "y": 44,
+                    "z": 278,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "221",
+                    "x": 240,
+                    "y": 46,
+                    "z": 384,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "100",
+                    "x": 432,
+                    "y": 50,
+                    "z": 359,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "260",
+                    "x": 290,
+                    "y": 53,
+                    "z": 464,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "53",
+                    "x": 379,
+                    "y": 43,
+                    "z": 502,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "117",
+                    "x": 360,
+                    "y": 41,
+                    "z": 324,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "172",
+                    "x": 404,
+                    "y": 32,
+                    "z": 289,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "205",
+                    "x": 310,
+                    "y": 33,
+                    "z": 413,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "214",
+                    "x": 266,
+                    "y": 61,
+                    "z": 404,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "42",
+                    "x": 360,
+                    "y": 38,
+                    "z": 442,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "79",
+                    "x": 386,
+                    "y": 53,
+                    "z": 392,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "206",
+                    "x": 301,
+                    "y": 38,
+                    "z": 412,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "239",
+                    "x": 256,
+                    "y": 33,
+                    "z": 415,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "233",
+                    "x": 246,
+                    "y": 46,
+                    "z": 403,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "85",
+                    "x": 403,
+                    "y": 46,
+                    "z": 406,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "55",
+                    "x": 391,
+                    "y": 51,
+                    "z": 506,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "208",
+                    "x": 286,
+                    "y": 43,
+                    "z": 427,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "67",
+                    "x": 402,
+                    "y": 53,
+                    "z": 436,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "95",
+                    "x": 440,
+                    "y": 57,
+                    "z": 384,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "23",
+                    "x": 368,
+                    "y": 56,
+                    "z": 484,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "84",
+                    "x": 399,
+                    "y": 46,
+                    "z": 398,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "237",
+                    "x": 246,
+                    "y": 34,
+                    "z": 414,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "17",
+                    "x": 404,
+                    "y": 52,
+                    "z": 479,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "52",
+                    "x": 381,
+                    "y": 38,
+                    "z": 496,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "211",
+                    "x": 284,
+                    "y": 52,
+                    "z": 402,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "82",
+                    "x": 397,
+                    "y": 46,
+                    "z": 395,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "108",
+                    "x": 406,
+                    "y": 36,
+                    "z": 333,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "32",
+                    "x": 328,
+                    "y": 47,
+                    "z": 488,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "142",
+                    "x": 363,
+                    "y": 37,
+                    "z": 307,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "50",
+                    "x": 376,
+                    "y": 40,
+                    "z": 480,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "133",
+                    "x": 373,
+                    "y": 41,
+                    "z": 339,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "201",
+                    "x": 304,
+                    "y": 39,
+                    "z": 401,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "210",
+                    "x": 285,
+                    "y": 45,
+                    "z": 404,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "111",
+                    "x": 416,
+                    "y": 38,
+                    "z": 317,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "24",
+                    "x": 369,
+                    "y": 57,
+                    "z": 486,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "45",
+                    "x": 374,
+                    "y": 38,
+                    "z": 456,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "169",
+                    "x": 412,
+                    "y": 39,
+                    "z": 299,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "255",
+                    "x": 268,
+                    "y": 48,
+                    "z": 461,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "157",
+                    "x": 378,
+                    "y": 61,
+                    "z": 305,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "126",
+                    "x": 374,
+                    "y": 40,
+                    "z": 373,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "36",
+                    "x": 342,
+                    "y": 51,
+                    "z": 466,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "31",
+                    "x": 335,
+                    "y": 47,
+                    "z": 493,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "56",
+                    "x": 385,
+                    "y": 53,
+                    "z": 489,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "231",
+                    "x": 242,
+                    "y": 33,
+                    "z": 393,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "101",
+                    "x": 435,
+                    "y": 54,
+                    "z": 355,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "76",
+                    "x": 389,
+                    "y": 62,
+                    "z": 402,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "244",
+                    "x": 245,
+                    "y": 48,
+                    "z": 422,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "151",
+                    "x": 366,
+                    "y": 52,
+                    "z": 275,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "141",
+                    "x": 361,
+                    "y": 37,
+                    "z": 319,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "49",
+                    "x": 385,
+                    "y": 32,
+                    "z": 475,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "71",
+                    "x": 404,
+                    "y": 56,
+                    "z": 427,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "127",
+                    "x": 382,
+                    "y": 37,
+                    "z": 367,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "118",
+                    "x": 359,
+                    "y": 39,
+                    "z": 327,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "136",
+                    "x": 366,
+                    "y": 50,
+                    "z": 317,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "152",
+                    "x": 358,
+                    "y": 54,
+                    "z": 276,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "245",
+                    "x": 245,
+                    "y": 43,
+                    "z": 429,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "251",
+                    "x": 250,
+                    "y": 39,
+                    "z": 446,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "140",
+                    "x": 363,
+                    "y": 36,
+                    "z": 317,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "240",
+                    "x": 255,
+                    "y": 37,
+                    "z": 424,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "191",
+                    "x": 313,
+                    "y": 51,
+                    "z": 349,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "246",
+                    "x": 245,
+                    "y": 46,
+                    "z": 433,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "144",
+                    "x": 362,
+                    "y": 32,
+                    "z": 293,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "195",
+                    "x": 311,
+                    "y": 46,
+                    "z": 379,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "51",
+                    "x": 378,
+                    "y": 42,
+                    "z": 492,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "185",
+                    "x": 347,
+                    "y": 55,
+                    "z": 350,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "81",
+                    "x": 396,
+                    "y": 49,
+                    "z": 399,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "236",
+                    "x": 241,
+                    "y": 38,
+                    "z": 409,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "9",
+                    "x": 431,
+                    "y": 35,
+                    "z": 506,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "59",
+                    "x": 400,
+                    "y": 48,
+                    "z": 468,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "148",
+                    "x": 370,
+                    "y": 37,
+                    "z": 270,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "218",
+                    "x": 265,
+                    "y": 45,
+                    "z": 393,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "19",
+                    "x": 392,
+                    "y": 59,
+                    "z": 479,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "230",
+                    "x": 241,
+                    "y": 31,
+                    "z": 398,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "242",
+                    "x": 253,
+                    "y": 45,
+                    "z": 428,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "80",
+                    "x": 388,
+                    "y": 46,
+                    "z": 392,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "54",
+                    "x": 379,
+                    "y": 50,
+                    "z": 508,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "16",
+                    "x": 415,
+                    "y": 53,
+                    "z": 482,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                },
+                {
+                    "name": "154",
+                    "x": 368,
+                    "y": 53,
+                    "z": 291,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917892
+                },
+                {
+                    "name": "22",
+                    "x": 375,
+                    "y": 56,
+                    "z": 480,
+                    "enabled": true,
+                    "color": -16711936,
+                    "addedAt": 1756806917891
+                }
+            ],
+            "isExpanded": false,
+            "island": "crystal_hollows"
+        },
+        {
+            "name": "Sapphire",
+            "waypoints": [
+                {
+                    "name": "20",
+                    "x": 632,
+                    "y": 121,
+                    "z": 603,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "15",
+                    "x": 622,
+                    "y": 121,
+                    "z": 570,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "3",
+                    "x": 607,
+                    "y": 121,
+                    "z": 589,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "19",
+                    "x": 636,
+                    "y": 121,
+                    "z": 598,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "7",
+                    "x": 626,
+                    "y": 121,
+                    "z": 595,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "22",
+                    "x": 647,
+                    "y": 121,
+                    "z": 570,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "5",
+                    "x": 626,
+                    "y": 121,
+                    "z": 576,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "16",
+                    "x": 645,
+                    "y": 121,
+                    "z": 582,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "8",
+                    "x": 620,
+                    "y": 121,
+                    "z": 598,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "13",
+                    "x": 607,
+                    "y": 121,
+                    "z": 574,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "9",
+                    "x": 617,
+                    "y": 121,
+                    "z": 608,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "17",
+                    "x": 640,
+                    "y": 121,
+                    "z": 588,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "1",
+                    "x": 621,
+                    "y": 121,
+                    "z": 587,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "6",
+                    "x": 633,
+                    "y": 121,
+                    "z": 582,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "11",
+                    "x": 603,
+                    "y": 121,
+                    "z": 599,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "2",
+                    "x": 616,
+                    "y": 121,
+                    "z": 591,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "18",
+                    "x": 644,
+                    "y": 121,
+                    "z": 594,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "4",
+                    "x": 611,
+                    "y": 121,
+                    "z": 583,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "10",
+                    "x": 611,
+                    "y": 121,
+                    "z": 605,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "21",
+                    "x": 598,
+                    "y": 121,
+                    "z": 605,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "12",
+                    "x": 599,
+                    "y": 121,
+                    "z": 592,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                },
+                {
+                    "name": "14",
+                    "x": 614,
+                    "y": 121,
+                    "z": 574,
+                    "enabled": false,
+                    "addedAt": 1654160216539
+                }
+            ],
+            "isExpanded": false,
             "island": "crystal_hollows"
         },
         {
             "name": "x coal",
             "waypoints": [
-                {
-                    "name": "Coal 001",
-                    "x": 380,
-                    "y": 162,
-                    "z": 226,
-                    "enabled": false,
-                    "addedAt": 1652427590957
-                },
                 {
                     "name": "Coal 047",
                     "x": 311,
@@ -423,6 +3924,15 @@
                     "y": 144,
                     "z": 234,
                     "enabled": false,
+                    "addedAt": 1652427590957
+                },
+                {
+                    "name": "Coal 001",
+                    "x": 380,
+                    "y": 162,
+                    "z": 226,
+                    "enabled": false,
+                    "color": -14156032,
                     "addedAt": 1652427590957
                 },
                 {
@@ -1350,1055 +4860,303 @@
             "island": "crystal_hollows"
         },
         {
-            "name": "Amethyst Dillo",
+            "name": "private ruby route",
             "waypoints": [
                 {
-                    "name": "39",
-                    "x": 257,
-                    "y": 183,
-                    "z": 227,
+                    "name": "R",
+                    "x": 819,
+                    "y": 49,
+                    "z": 580,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044940220
+                    "addedAt": 1674752409157
                 },
                 {
-                    "name": "13",
-                    "x": 211,
-                    "y": 181,
-                    "z": 250,
+                    "name": "T",
+                    "x": 816,
+                    "y": 53,
+                    "z": 604,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044423018
+                    "addedAt": 1674752743291
                 },
                 {
-                    "name": "20++++",
-                    "x": 271,
-                    "y": 186,
-                    "z": 298,
+                    "name": "T",
+                    "x": 802,
+                    "y": 45,
+                    "z": 573,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672220573215
+                    "addedAt": 1674752267464
                 },
                 {
-                    "name": "18 ( I dont use )",
-                    "x": 256,
-                    "y": 187,
-                    "z": 251,
+                    "name": "T",
+                    "x": 769,
+                    "y": 48,
+                    "z": 636,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044557418
+                    "addedAt": 1674753261442
                 },
                 {
-                    "name": "28",
-                    "x": 303,
-                    "y": 183,
-                    "z": 275,
+                    "name": "T",
+                    "x": 806,
+                    "y": 48,
+                    "z": 626,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044721069
+                    "addedAt": 1674753098001
                 },
                 {
-                    "name": "20 ( U can skip it )",
-                    "x": 253,
-                    "y": 178,
-                    "z": 275,
+                    "name": "T",
+                    "x": 801,
+                    "y": 46,
+                    "z": 630,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044597269
+                    "addedAt": 1674753125402
                 },
                 {
-                    "name": "09",
-                    "x": 204,
-                    "y": 167,
-                    "z": 225,
+                    "name": "R",
+                    "x": 772,
+                    "y": 49,
+                    "z": 590,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044357969
+                    "addedAt": 1674752213547
                 },
                 {
-                    "name": "06",
-                    "x": 208,
-                    "y": 171,
-                    "z": 204,
+                    "name": "R",
+                    "x": 817,
+                    "y": 59,
+                    "z": 616,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044278177
+                    "addedAt": 1674752798464
                 },
                 {
-                    "name": "27",
-                    "x": 301,
-                    "y": 187,
-                    "z": 273,
+                    "name": "R",
+                    "x": 814,
+                    "y": 49,
+                    "z": 625,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044708972
+                    "addedAt": 1674753073961
                 },
                 {
-                    "name": "20+",
-                    "x": 240,
-                    "y": 174,
-                    "z": 287,
+                    "name": "T",
+                    "x": 805,
+                    "y": 53,
+                    "z": 555,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672220330113
+                    "addedAt": 1674753018843
                 },
                 {
-                    "name": "12",
-                    "x": 206,
-                    "y": 181,
-                    "z": 241,
+                    "name": "R",
+                    "x": 773,
+                    "y": 49,
+                    "z": 622,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044403218
+                    "addedAt": 1674753304357
                 },
                 {
-                    "name": "26",
-                    "x": 296,
-                    "y": 183,
-                    "z": 273,
+                    "name": "T",
+                    "x": 786,
+                    "y": 52,
+                    "z": 565,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044688419
+                    "addedAt": 1674752099200
                 },
                 {
-                    "name": "25",
-                    "x": 287,
-                    "y": 185,
-                    "z": 270,
+                    "name": "R",
+                    "x": 810,
+                    "y": 42,
+                    "z": 579,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044669970
+                    "addedAt": 1674752391115
                 },
                 {
-                    "name": "32",
-                    "x": 291,
-                    "y": 173,
-                    "z": 245,
+                    "name": "R",
+                    "x": 775,
+                    "y": 50,
+                    "z": 613,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044816972
+                    "addedAt": 1674753328793
                 },
                 {
-                    "name": "31",
-                    "x": 294,
-                    "y": 177,
-                    "z": 259,
+                    "name": "T",
+                    "x": 822,
+                    "y": 53,
+                    "z": 584,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044769967
+                    "addedAt": 1674752560047
                 },
                 {
-                    "name": "14",
-                    "x": 219,
-                    "y": 181,
-                    "z": 249,
+                    "name": "R",
+                    "x": 793,
+                    "y": 56,
+                    "z": 568,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044431169
+                    "addedAt": 1674752479940
                 },
                 {
-                    "name": "41",
-                    "x": 256,
-                    "y": 175,
-                    "z": 218,
+                    "name": "T",
+                    "x": 793,
+                    "y": 43,
+                    "z": 568,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044967118
+                    "addedAt": 1674752183150
                 },
                 {
-                    "name": "15",
-                    "x": 217,
-                    "y": 183,
-                    "z": 239,
+                    "name": "R",
+                    "x": 803,
+                    "y": 56,
+                    "z": 613,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044439520
+                    "addedAt": 1674752818440
                 },
                 {
-                    "name": "23",
-                    "x": 276,
-                    "y": 187,
-                    "z": 262,
+                    "name": "R",
+                    "x": 800,
+                    "y": 48,
+                    "z": 614,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044637818
+                    "addedAt": 1674754049104
                 },
                 {
-                    "name": "17",
-                    "x": 244,
-                    "y": 181,
-                    "z": 248,
+                    "name": "T",
+                    "x": 777,
+                    "y": 50,
+                    "z": 559,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044463069
+                    "addedAt": 1674752065650
                 },
                 {
-                    "name": "02",
-                    "x": 225,
-                    "y": 181,
-                    "z": 210,
+                    "name": "R",
+                    "x": 777,
+                    "y": 40,
+                    "z": 628,
                     "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672043946300
+                    "addedAt": 1674753238599
                 },
                 {
-                    "name": "04",
-                    "x": 217,
-                    "y": 182,
-                    "z": 212,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044247621
-                },
-                {
-                    "name": "16",
-                    "x": 228,
-                    "y": 185,
-                    "z": 238,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044451119
-                },
-                {
-                    "name": "37",
-                    "x": 256,
-                    "y": 174,
-                    "z": 240,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044893170
-                },
-                {
-                    "name": "21",
-                    "x": 267,
-                    "y": 178,
-                    "z": 276,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044610271
-                },
-                {
-                    "name": "33",
-                    "x": 288,
-                    "y": 174,
-                    "z": 241,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044836070
-                },
-                {
-                    "name": "08",
-                    "x": 206,
-                    "y": 162,
-                    "z": 221,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044342569
-                },
-                {
-                    "name": "11",
-                    "x": 204,
-                    "y": 184,
-                    "z": 231,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044394720
-                },
-                {
-                    "name": "29",
-                    "x": 310,
-                    "y": 184,
-                    "z": 265,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044738723
-                },
-                {
-                    "name": "20+++++",
-                    "x": 271,
-                    "y": 185,
-                    "z": 287,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672220591417
-                },
-                {
-                    "name": "07",
-                    "x": 204,
-                    "y": 171,
-                    "z": 217,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044334321
-                },
-                {
-                    "name": "01",
-                    "x": 228,
-                    "y": 173,
-                    "z": 207,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672043922501
-                },
-                {
-                    "name": "35",
-                    "x": 280,
-                    "y": 176,
-                    "z": 251,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044871769
-                },
-                {
-                    "name": "34",
-                    "x": 287,
-                    "y": 173,
-                    "z": 247,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044783869
-                },
-                {
-                    "name": "38",
-                    "x": 269,
-                    "y": 182,
-                    "z": 237,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044921222
-                },
-                {
-                    "name": "10",
-                    "x": 204,
-                    "y": 176,
-                    "z": 226,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044371319
-                },
-                {
-                    "name": "20++",
-                    "x": 250,
-                    "y": 173,
-                    "z": 290,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672220523264
-                },
-                {
-                    "name": "22",
-                    "x": 266,
-                    "y": 178,
-                    "z": 264,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044621073
-                },
-                {
-                    "name": "36",
-                    "x": 259,
-                    "y": 175,
-                    "z": 245,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044884622
-                },
-                {
-                    "name": "05",
-                    "x": 213,
-                    "y": 176,
-                    "z": 215,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044266119
-                },
-                {
-                    "name": "19",
-                    "x": 249,
-                    "y": 179,
-                    "z": 255,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044587569
-                },
-                {
-                    "name": "30",
-                    "x": 306,
-                    "y": 183,
-                    "z": 261,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044755422
-                },
-                {
-                    "name": "20+++",
-                    "x": 264,
-                    "y": 179,
-                    "z": 291,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672220551111
-                },
-                {
-                    "name": "03",
-                    "x": 219,
-                    "y": 187,
-                    "z": 204,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044228718
-                },
-                {
-                    "name": "24",
-                    "x": 278,
-                    "y": 187,
-                    "z": 266,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044662621
-                },
-                {
-                    "name": "40",
-                    "x": 251,
-                    "y": 179,
-                    "z": 224,
-                    "enabled": false,
-                    "color": 16711680,
-                    "addedAt": 1672044956469
-                }
-            ],
-            "isExpanded": false,
-            "island": "crystal_hollows"
-        },
-        {
-            "name": "eggs",
-            "waypoints": [
-                {
-                    "name": "",
-                    "x": 0,
-                    "y": 144,
-                    "z": 51,
-                    "enabled": true,
-                    "addedAt": 1714303683048
-                },
-                {
-                    "name": "",
-                    "x": 169,
-                    "y": 72,
-                    "z": 36,
-                    "enabled": true,
-                    "addedAt": 1714303785371
-                },
-                {
-                    "name": "",
-                    "x": 35,
-                    "y": 72,
-                    "z": 72,
-                    "enabled": true,
-                    "addedAt": 1714303670346
-                },
-                {
-                    "name": "",
-                    "x": -186,
-                    "y": 87,
-                    "z": 81,
-                    "enabled": true,
-                    "addedAt": 1714303739398
-                },
-                {
-                    "name": "",
-                    "x": -38,
-                    "y": 70,
-                    "z": -135,
-                    "enabled": true,
-                    "addedAt": 1714303858871
-                },
-                {
-                    "name": "",
-                    "x": 125,
-                    "y": 74,
-                    "z": 168,
-                    "enabled": true,
-                    "addedAt": 1714303637849
-                },
-                {
-                    "name": "",
-                    "x": 148,
-                    "y": 75,
-                    "z": -96,
-                    "enabled": true,
-                    "addedAt": 1714303758002
-                },
-                {
-                    "name": "",
-                    "x": -40,
-                    "y": 70,
-                    "z": -74,
-                    "enabled": true,
-                    "addedAt": 1714303878271
-                },
-                {
-                    "name": "",
-                    "x": -38,
-                    "y": 193,
-                    "z": 35,
-                    "enabled": true,
-                    "addedAt": 1714303703349
-                },
-                {
-                    "name": "",
-                    "x": 147,
-                    "y": 113,
-                    "z": 113,
-                    "enabled": true,
-                    "addedAt": 1714303655851
-                },
-                {
-                    "name": "",
-                    "x": -127,
-                    "y": 73,
-                    "z": -126,
-                    "enabled": true,
-                    "addedAt": 1714303903876
-                },
-                {
-                    "name": "",
-                    "x": 161,
-                    "y": 71,
-                    "z": 157,
-                    "enabled": true,
-                    "addedAt": 1714303610064
-                },
-                {
-                    "name": "",
-                    "x": 18,
-                    "y": 70,
-                    "z": -77,
-                    "enabled": true,
-                    "addedAt": 1714303723236
-                },
-                {
-                    "name": "",
-                    "x": 44,
-                    "y": 71,
-                    "z": -137,
-                    "enabled": true,
-                    "addedAt": 1714303814322
-                }
-            ],
-            "island": "hub"
-        },
-        {
-            "name": "Mithril Cluster",
-            "waypoints": [
-                {
-                    "name": "Mithril 9",
-                    "x": 567,
-                    "y": 84,
-                    "z": 435,
-                    "enabled": false,
-                    "addedAt": 1652348939565
-                },
-                {
-                    "name": "Mithril 2",
-                    "x": 565,
-                    "y": 84,
-                    "z": 349,
-                    "enabled": false,
-                    "addedAt": 1652349024869
-                },
-                {
-                    "name": "Mithril 8",
-                    "x": 553,
-                    "y": 84,
-                    "z": 425,
-                    "enabled": false,
-                    "addedAt": 1652348921023
-                },
-                {
-                    "name": "Mithril 4",
-                    "x": 562,
-                    "y": 84,
-                    "z": 380,
-                    "enabled": false,
-                    "addedAt": 1652348670318
-                },
-                {
-                    "name": "Mithril 3",
-                    "x": 572,
-                    "y": 84,
-                    "z": 366,
-                    "enabled": false,
-                    "addedAt": 1652348719884
-                },
-                {
-                    "name": "Mithril 6",
-                    "x": 530,
-                    "y": 84,
-                    "z": 419,
-                    "enabled": false,
-                    "addedAt": 1652348873613
-                },
-                {
-                    "name": "Mithril 5",
-                    "x": 543,
-                    "y": 84,
-                    "z": 395,
-                    "enabled": false,
-                    "addedAt": 1652348747138
-                },
-                {
-                    "name": "Mithril 1",
-                    "x": 580,
-                    "y": 84,
-                    "z": 341,
-                    "enabled": false,
-                    "addedAt": 1652349373016
-                },
-                {
-                    "name": "Mithril 7",
-                    "x": 537,
-                    "y": 84,
-                    "z": 435,
-                    "enabled": false,
-                    "addedAt": 1652348904576
-                }
-            ],
-            "isExpanded": false,
-            "island": "crystal_hollows"
-        },
-        {
-            "name": "",
-            "waypoints": [
-                {
-                    "name": "Fire",
-                    "x": -7,
-                    "y": 131,
-                    "z": 227,
-                    "enabled": true,
-                    "addedAt": 1715219984716
-                }
-            ],
-            "island": "mining_3"
-        },
-        {
-            "name": "Diamond Route",
-            "waypoints": [
-                {
-                    "name": "4-2",
-                    "x": 149,
-                    "y": 135,
-                    "z": 35,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060837984
-                },
-                {
-                    "name": "4-3",
-                    "x": 150,
-                    "y": 134,
-                    "z": 34,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060864789
-                },
-                {
-                    "name": "1-4",
-                    "x": 148,
-                    "y": 128,
-                    "z": 43,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060138189
-                },
-                {
-                    "name": "3-5",
-                    "x": 156,
-                    "y": 144,
-                    "z": 34,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060781789
-                },
-                {
-                    "name": "2-4",
-                    "x": 123,
-                    "y": 135,
-                    "z": 47,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060446085
-                },
-                {
-                    "name": "1-5",
-                    "x": 144,
-                    "y": 128,
-                    "z": 43,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060185888
-                },
-                {
-                    "name": "2-5",
-                    "x": 127,
-                    "y": 136,
-                    "z": 47,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060473537
-                },
-                {
-                    "name": "3-3",
-                    "x": 160,
-                    "y": 142,
-                    "z": 35,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060714839
-                },
-                {
-                    "name": "2-1",
-                    "x": 121,
-                    "y": 136,
-                    "z": 47,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060306887
-                },
-                {
-                    "name": "4-1",
-                    "x": 146,
-                    "y": 137,
-                    "z": 37,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060816191
-                },
-                {
-                    "name": "1-1",
-                    "x": 153,
-                    "y": 128,
-                    "z": 38,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060084735
-                },
-                {
-                    "name": "2-8",
-                    "x": 131,
-                    "y": 132,
-                    "z": 46,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060591457
-                },
-                {
-                    "name": "1-2",
-                    "x": 152,
-                    "y": 128,
-                    "z": 41,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060020689
-                },
-                {
-                    "name": "EW 2",
-                    "x": 124,
-                    "y": 134,
-                    "z": 49,
-                    "enabled": true,
-                    "color": -16712694,
-                    "addedAt": 1737060995337
-                },
-                {
-                    "name": "2-3",
-                    "x": 121,
-                    "y": 138,
-                    "z": 48,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060360436
-                },
-                {
-                    "name": "2-2",
-                    "x": 119,
-                    "y": 136,
-                    "z": 48,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060338437
-                },
-                {
-                    "name": "3-2",
-                    "x": 165,
-                    "y": 140,
-                    "z": 38,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060690175
-                },
-                {
-                    "name": "EW 1",
-                    "x": 153,
-                    "y": 129,
-                    "z": 41,
-                    "enabled": true,
-                    "color": -16712694,
-                    "addedAt": 1737060898986
-                },
-                {
-                    "name": "EW 3",
-                    "x": 161,
-                    "y": 141,
-                    "z": 38,
-                    "enabled": true,
-                    "color": -16712694,
-                    "addedAt": 1737061040488
-                },
-                {
-                    "name": "3-1",
-                    "x": 164,
-                    "y": 143,
-                    "z": 38,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060638038
-                },
-                {
-                    "name": "2-7",
-                    "x": 129,
-                    "y": 134,
-                    "z": 45,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060551640
-                },
-                {
-                    "name": "3-4",
-                    "x": 159,
-                    "y": 144,
-                    "z": 35,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060749190
-                },
-                {
-                    "name": "2-6",
-                    "x": 126,
-                    "y": 134,
-                    "z": 45,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060510085
-                },
-                {
-                    "name": "EW 4",
-                    "x": 148,
-                    "y": 134,
-                    "z": 37,
-                    "enabled": true,
-                    "color": -16712694,
-                    "addedAt": 1737061067085
-                },
-                {
-                    "name": "1-3",
-                    "x": 149,
-                    "y": 128,
-                    "z": 40,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060115336
-                },
-                {
-                    "name": "1-6",
-                    "x": 142,
-                    "y": 128,
-                    "z": 46,
-                    "enabled": true,
-                    "color": -11009793,
-                    "addedAt": 1737060217286
-                }
-            ],
-            "island": "mining_3"
-        },
-        {
-            "name": "Sapphire",
-            "waypoints": [
-                {
-                    "name": "20",
-                    "x": 632,
-                    "y": 121,
-                    "z": 603,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "15",
-                    "x": 622,
-                    "y": 121,
-                    "z": 570,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "3",
-                    "x": 607,
-                    "y": 121,
-                    "z": 589,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "19",
-                    "x": 636,
-                    "y": 121,
-                    "z": 598,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "7",
-                    "x": 626,
-                    "y": 121,
-                    "z": 595,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "22",
-                    "x": 647,
-                    "y": 121,
-                    "z": 570,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "5",
-                    "x": 626,
-                    "y": 121,
-                    "z": 576,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "16",
-                    "x": 645,
-                    "y": 121,
-                    "z": 582,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "8",
-                    "x": 620,
-                    "y": 121,
-                    "z": 598,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "13",
-                    "x": 607,
-                    "y": 121,
-                    "z": 574,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "9",
-                    "x": 617,
-                    "y": 121,
-                    "z": 608,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "17",
-                    "x": 640,
-                    "y": 121,
-                    "z": 588,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "1",
-                    "x": 621,
-                    "y": 121,
-                    "z": 587,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "6",
-                    "x": 633,
-                    "y": 121,
-                    "z": 582,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "11",
-                    "x": 603,
-                    "y": 121,
-                    "z": 599,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "2",
-                    "x": 616,
-                    "y": 121,
-                    "z": 591,
-                    "enabled": false,
-                    "addedAt": 1654160216539
-                },
-                {
-                    "name": "18",
-                    "x": 644,
-                    "y": 121,
+                    "name": "T",
+                    "x": 813,
+                    "y": 48,
                     "z": 594,
                     "enabled": false,
-                    "addedAt": 1654160216539
+                    "addedAt": 1674752363891
                 },
                 {
-                    "name": "4",
-                    "x": 611,
-                    "y": 121,
+                    "name": "T",
+                    "x": 811,
+                    "y": 47,
+                    "z": 585,
+                    "enabled": false,
+                    "addedAt": 1674752345844
+                },
+                {
+                    "name": "T",
+                    "x": 799,
+                    "y": 57,
+                    "z": 569,
+                    "enabled": false,
+                    "addedAt": 1674752450292
+                },
+                {
+                    "name": "R",
+                    "x": 769,
+                    "y": 48,
                     "z": 583,
                     "enabled": false,
-                    "addedAt": 1654160216539
+                    "addedAt": 1674752236853
                 },
                 {
-                    "name": "10",
-                    "x": 611,
-                    "y": 121,
-                    "z": 605,
+                    "name": "R",
+                    "x": 803,
+                    "y": 39,
+                    "z": 582,
                     "enabled": false,
-                    "addedAt": 1654160216539
+                    "addedAt": 1674752290640
                 },
                 {
-                    "name": "21",
-                    "x": 598,
-                    "y": 121,
-                    "z": 605,
+                    "name": "R",
+                    "x": 811,
+                    "y": 54,
+                    "z": 569,
                     "enabled": false,
-                    "addedAt": 1654160216539
+                    "addedAt": 1674752587105
                 },
                 {
-                    "name": "12",
-                    "x": 599,
-                    "y": 121,
-                    "z": 592,
+                    "name": "T",
+                    "x": 784,
+                    "y": 50,
+                    "z": 614,
                     "enabled": false,
-                    "addedAt": 1654160216539
+                    "addedAt": 1674753206363
                 },
                 {
-                    "name": "14",
-                    "x": 614,
-                    "y": 121,
-                    "z": 574,
+                    "name": "R",
+                    "x": 803,
+                    "y": 56,
+                    "z": 601,
                     "enabled": false,
-                    "addedAt": 1654160216539
+                    "addedAt": 1674752762262
+                },
+                {
+                    "name": "T",
+                    "x": 803,
+                    "y": 46,
+                    "z": 590,
+                    "enabled": false,
+                    "addedAt": 1674752306357
+                },
+                {
+                    "name": "R",
+                    "x": 772,
+                    "y": 44,
+                    "z": 598,
+                    "enabled": false,
+                    "addedAt": 1674753380444
+                },
+                {
+                    "name": "R",
+                    "x": 773,
+                    "y": 47,
+                    "z": 595,
+                    "enabled": false,
+                    "addedAt": 1674752198019
+                },
+                {
+                    "name": "R",
+                    "x": 802,
+                    "y": 62,
+                    "z": 582,
+                    "enabled": false,
+                    "addedAt": 1674752708297
+                },
+                {
+                    "name": "R",
+                    "x": 815,
+                    "y": 53,
+                    "z": 564,
+                    "enabled": false,
+                    "addedAt": 1674752599193
+                },
+                {
+                    "name": "T",
+                    "x": 801,
+                    "y": 53,
+                    "z": 577,
+                    "enabled": false,
+                    "addedAt": 1674752430441
+                },
+                {
+                    "name": "T",
+                    "x": 818,
+                    "y": 57,
+                    "z": 613,
+                    "enabled": false,
+                    "addedAt": 1674752781758
+                },
+                {
+                    "name": "R",
+                    "x": 811,
+                    "y": 58,
+                    "z": 601,
+                    "enabled": false,
+                    "addedAt": 1674752729997
                 }
             ],
             "isExpanded": false,

@@ -1,25 +1,5 @@
 {
   "itemData": {
-    "c5ba2210-4170-473a-950f-813fdae9594f": {
-      "customNamePrefix": "",
-      "overrideEnchantGlint": true,
-      "enchantGlintValue": false,
-      "customGlintColour": "0:204:100:25:255",
-      "animatedDyeTicks": 2,
-      "dyeMode": "CYCLING",
-      "defaultItem": "minecraft:leather_boots",
-      "customItem": "leather_boots"
-    },
-    "4becf241-5e68-493a-b93a-9ceefe28c51b": {
-      "customNamePrefix": "",
-      "overrideEnchantGlint": true,
-      "enchantGlintValue": false,
-      "customGlintColour": "0:204:100:25:255",
-      "animatedDyeTicks": 2,
-      "dyeMode": "CYCLING",
-      "defaultItem": "minecraft:leather_boots",
-      "customItem": "leather_boots"
-    },
     "ba9b8be2-8d91-4793-83e7-3aa5e89d017d": {
       "customName": "§6Other Mining",
       "customNamePrefix": "§6",
@@ -31,16 +11,16 @@
       "defaultItem": "minecraft:dropper",
       "customItem": "dropper"
     },
-    "fd2ee805-f0f1-4be1-9a38-c0de2f1cb65f": {
-      "customName": "§6Ores",
+    "15acfb3c-9592-49d3-a0b2-d17876e1cefd": {
+      "customName": "Withered Daedalus Axe",
       "customNamePrefix": "§d",
       "overrideEnchantGlint": false,
       "enchantGlintValue": false,
       "customGlintColour": "0:204:100:25:255",
       "animatedDyeTicks": 2,
       "dyeMode": "CYCLING",
-      "defaultItem": "minecraft:dropper",
-      "customItem": "dropper"
+      "defaultItem": "minecraft:golden_sword",
+      "customItem": "golden_axe"
     },
     "7f938746-5e06-4326-b40a-ed58b8ef9d90": {
       "customNamePrefix": "",
@@ -84,15 +64,36 @@
       "defaultItem": "minecraft:skull",
       "customItem": "fireworks"
     },
-    "ecb56b62-7d90-4c0e-bd3f-e64a36f7c1a2": {
+    "a10e20c4-be3c-408e-bfdb-5fa729e92d62": {
       "customNamePrefix": "",
-      "overrideEnchantGlint": true,
-      "enchantGlintValue": true,
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
       "customGlintColour": "0:204:100:25:255",
       "animatedDyeTicks": 2,
       "dyeMode": "CYCLING",
-      "defaultItem": "minecraft:stone_sword",
-      "customItem": "stone_sword"
+      "defaultItem": "minecraft:leather_boots",
+      "customItem": "leather_boots"
+    },
+    "92daf103-89a1-4e4b-a9d9-ec46ed71c095": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "customLeatherColour": "0:0:123:63:0",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:leather_leggings",
+      "customItem": "leather_leggings"
+    },
+    "e8ddbc66-66a2-4976-8765-0f7704f38b74": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:leather_chestplate",
+      "customItem": "leather_chestplate"
     },
     "279f14dd-ace3-46b8-b58f-858ccdd8bd31": {
       "customName": "§6Gems 2",
@@ -146,6 +147,90 @@
       "dyeMode": "CYCLING",
       "defaultItem": "minecraft:dropper",
       "customItem": "dropper"
+    },
+    "1972ca2a-a250-4542-a956-3def04d02f87": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "customLeatherColour": "0:0:123:63:0",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:leather_boots",
+      "customItem": "leather_boots"
+    },
+    "c5ba2210-4170-473a-950f-813fdae9594f": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": true,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:leather_boots",
+      "customItem": "leather_boots"
+    },
+    "4becf241-5e68-493a-b93a-9ceefe28c51b": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:leather_boots",
+      "customItem": "leather_boots"
+    },
+    "fd2ee805-f0f1-4be1-9a38-c0de2f1cb65f": {
+      "customName": "§6Ores",
+      "customNamePrefix": "§d",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:dropper",
+      "customItem": "dropper"
+    },
+    "cb9511fc-03f9-40c9-bfbe-626afea70c4a": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "customLeatherColour": "0:0:123:63:0",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:leather_chestplate",
+      "customItem": "leather_chestplate"
+    },
+    "ecb56b62-7d90-4c0e-bd3f-e64a36f7c1a2": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": true,
+      "enchantGlintValue": true,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:stone_sword",
+      "customItem": "stone_sword"
+    },
+    "efb74e13-5e77-428b-8502-faf8712ae2e4": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": true,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:bow",
+      "customItem": "bow"
+    },
+    "b7db5993-6687-4485-a3a3-d3874b52eeec": {
+      "customName": "Withered Ragnarock Axe",
+      "customNamePrefix": "§5",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:golden_sword",
+      "customItem": "golden_axe"
     },
     "01e7b98a-db36-4725-aec9-d8a5c6083a5f": {
       "customNamePrefix": "",

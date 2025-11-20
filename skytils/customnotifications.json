@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "regex": "§r§a§r§6(Mining Speed Boost|Pickobulus|Anomalous Desire|Maniac Miner|Gemstone Infusion|Sheer Force) §r§ais now available!§r",
+        "text": "§b§k§lM§r§6 Ability Ready §r§b§k§lM",
+        "ticks": 60,
+        "enabled": true
+    }
+]

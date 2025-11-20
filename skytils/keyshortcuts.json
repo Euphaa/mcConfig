@@ -1,21 +1,5 @@
 [
     {
-        "message": "/gfs ender pearl 8",
-        "keyCode": 201
-    },
-    {
-        "message": "/wardrobe 2",
-        "keyCode": 48
-    },
-    {
-        "message": "/setspawn",
-        "keyCode": 210
-    },
-    {
-        "message": "/potionbag",
-        "keyCode": 207
-    },
-    {
         "message": "/wardrobe",
         "keyCode": 209
     },
@@ -25,39 +9,59 @@
         "modifiers": 2
     },
     {
-        "message": "/warp",
-        "keyCode": 74
-    },
-    {
-        "message": "/warp garden",
-        "keyCode": 181
+        "message": "/patcher sendcoords",
+        "keyCode": 12
     },
     {
         "message": "/equipment",
         "keyCode": 208
     },
     {
+        "message": "/patcher sendcoords",
+        "keyCode": 43
+    },
+    {
+        "message": "/potionbag",
+        "keyCode": 207
+    },
+    {
+        "message": "/setspawn",
+        "keyCode": 210
+    },
+    {
+        "message": "/wardrobe 2",
+        "keyCode": 48
+    },
+    {
+        "message": "/warp garden",
+        "keyCode": 181
+    },
+    {
         "message": "/sacks",
         "keyCode": 205
     },
     {
-        "message": "/storage",
-        "keyCode": 27
+        "message": "/wardrobe 2",
+        "keyCode": 203
+    },
+    {
+        "message": "/gfs ender pearl 8",
+        "keyCode": 201
     },
     {
         "message": "/pets",
         "keyCode": 199
     },
     {
-        "message": "/patcher sendcoords",
-        "keyCode": 12
+        "message": "/storage",
+        "keyCode": 27
     },
     {
-        "message": "/patcher sendcoords",
-        "keyCode": 43
+        "message": "/warp cn",
+        "keyCode": 55
     },
     {
-        "message": "/wardrobe 2",
-        "keyCode": 203
+        "message": "/warp",
+        "keyCode": 74
     }
 ]

@@ -8,3 +8,11 @@
 /notenoughupdates/repo
 /notenoughupdates/wkhtmltox-linux
 /notenoughupdates/wkhtmltox-win
+/sbo/backup
+SecretRoutes/personal_bests.json
+sbo/dianaTrackerMayor.json
+sbo/dianaTrackerSession.json
+sbo/dianaTrackerTotal.json
+/skyhanni/backup
+skyhanni/sacks-*-backup.json
+skyhanni/storage.json

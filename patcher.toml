@@ -27,17 +27,18 @@
 		log_optimizer_amount = 30
 		remove_screen_bobbing = false
 		better_camera = true
+		remove_vertical_bobbing = false
 		crosshair_perspective = false
 		better_f1 = false
 		"separate_sound_&_texture_reloading" = false
 		unfocused_sounds = 1.0
 		log_optimizer = false
-		unfocused_fps = true
+		unfocused_fps = false
 		static_items = false
 		better_keybind_handling = true
-		unfocused_fps_amount = 144
+		unfocused_fps_amount = 60
 		remove_map_bobbing = false
-		disable_hotbar_scrolling = true
+		disable_hotbar_scrolling = false
 		custom_fps_limit = 0
 
 	[miscellaneous.tab]
@@ -75,9 +76,9 @@
 
 	[miscellaneous.rendering]
 		ridden_horse_opacity = 1.0
-		disable_breaking_particles = true
+		disable_breaking_particles = false
 		disable_lightning_bolts = false
-		show_own_nametag = true
+		show_own_nametag = false
 		clean_view = false
 		left_hand_in_first_person = false
 		clean_projectiles = false
@@ -98,7 +99,7 @@
 		title_opacity = 1.0
 
 	[miscellaneous.window]
-		instant_fullscreen = true
+		instant_fullscreen = false
 		windowed_fullscreen = true
 
 	[miscellaneous.field_of_view]
@@ -143,11 +144,11 @@
 		entity_culling_interval = 0
 		smart_entity_culling = true
 		entity_back-face_culling = false
-		"don't_cull_armorstand_nametags" = false
+		"don't_cull_armorstand_nametags" = true
 		entity_culling = true
 		player_back-face_culling = false
-		"don't_cull_player_nametags" = false
-		"don't_cull_entity_nametags" = false
+		"don't_cull_player_nametags" = true
+		"don't_cull_entity_nametags" = true
 		check_armorstand_rules = false
 
 	[performance.text_rendering]
@@ -162,7 +163,7 @@
 		max_particle_limit = 4000
 
 [hidden]
-	selected_audio_device = "Scarlett 2i2 Camera Analog Stereo"
+	selected_audio_device = ""
 	labymod_moment = true
 
 [screens]
@@ -193,6 +194,7 @@
 	[screens.chat]
 		consecutive_compact_chat = false
 		chat_background_when_open = false
+		safe_chat_clicks_history = false
 		remove_blank_messages = false
 		safe_chat_clicks = false
 		shift_chat = false
